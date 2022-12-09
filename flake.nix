@@ -11,6 +11,8 @@
       overlays.default = final: prev: {
         inherit (self.packages.${prev.system}) year-of-bot;
       };
+
+      nixosModules.default = ./nixos-module.nix;
     } //
     flake-utils.lib.eachDefaultSystem (system:
       let pkgs = nixpkgs.legacyPackages.${system};
