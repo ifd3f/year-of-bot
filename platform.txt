@@ -1,0 +1,29 @@
+Arduino
+Chrome
+Emacs
+Embedded
+Firefox
+Mobile
+VR
+Vim
+Wearables
+the Browser
+the Calculator
+the Desktop
+the Drawing Tablet
+the Dumb Terminal
+the Flip Phone
+the Graphing Calculator
+the Laptop
+the Mainframe
+the Metaverse
+the Network Switch
+the PDA
+the PDP-11
+the Router
+the Server
+the Smartphone
+the Smartwatch
+the Tablet
+the Toaster
+the iPhone

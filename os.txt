@@ -1,0 +1,48 @@
+9front
+ARM
+AVR
+Alpine
+AmigaOS
+Android
+BESYS
+CP/M
+CentOS
+ChromeOS
+DOS
+Debian
+Emacs
+Fedora
+Fire OS
+FreeBSD
+GNU Hurd
+GNU/Linux
+Google Fuchsia
+Internet Explorer
+Itanium
+Linux
+MIPS
+MacOS
+NetBSD
+NixOS
+OpenBSD
+PDP-11
+Plan 9
+PowerPC
+Proxmox
+RHEL
+RISC-V
+ReactOS
+Redox
+SPARC
+Slackware
+Solaris
+TempleOS
+Ubuntu
+Vim
+Wear OS
+Windows
+Windows
+Z80
+iOS
+vSphere
+x86
