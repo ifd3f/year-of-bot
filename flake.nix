@@ -13,8 +13,7 @@
       };
 
       nixosModules.default = ./nixos-module.nix;
-    } //
-    flake-utils.lib.eachDefaultSystem (system:
+    } // flake-utils.lib.eachDefaultSystem (system:
       let pkgs = nixpkgs.legacyPackages.${system};
       in {
         packages.year-of-bot = with pkgs;
@@ -24,8 +23,11 @@
 
             src = ./.;
 
-            runtimeInputs =
-              [ python python3Packages.aiohttp python3Packages.yarl ];
+            buildInputs = [
+              (python3.buildEnv.override {
+                extraLibs = [ python3Packages.aiohttp python3Packages.yarl ];
+              })
+            ];
 
             installPhase = ''
               mkdir -p $out/bin
@@ -38,7 +40,7 @@
               mainProgram = "year-of-bot.py";
             };
           };
-        
+
         packages.default = self.packages.${system}.year-of-bot;
 
         devShells.default = with pkgs;
