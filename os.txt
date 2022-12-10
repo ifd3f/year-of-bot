@@ -34,6 +34,7 @@ RISC-V
 ReactOS
 Redox
 SPARC
+Skyrim
 Slackware
 Solaris
 TempleOS
