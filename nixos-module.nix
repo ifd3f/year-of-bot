@@ -53,7 +53,7 @@ in with lib; {
       wants = [ "year-of-bot-config.service" ];
       path = with pkgs; [ year-of-bot ];
       environment = {
-        SERVER = cfg.server;
+        SERVER_URL = cfg.server;
         ACCESS_TOKEN_PATH = cfg.accessTokenFile;
       };
 
