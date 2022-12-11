@@ -1,29 +1,45 @@
-Arduino
-Chrome
-Emacs
-Embedded
-Firefox
-Mobile
-VR
-Vim
-Wearables
-the Browser
-the Calculator
-the Desktop
-the Drawing Tablet
-the Dumb Terminal
-the Flip Phone
-the Graphing Calculator
-the Laptop
-the Mainframe
-the Metaverse
-the Network Switch
-the PDA
-the PDP-11
-the Router
-the Server
-the Smartphone
-the Smartwatch
-the Tablet
-the Toaster
-the iPhone
+in Busybox
+in Chrome
+in Emacs
+in Firefox
+in VR
+in Vim
+in Wearables
+in the Browser
+in the Metaverse
+on Arduino
+on Embedded
+on Mobile
+on the Apple Watch
+on the Automobile
+on the Autonomous System
+on the Calculator
+on the Car
+on the Desktop
+on the Drawing Tablet
+on the Dumb Terminal
+on the Flip Phone
+on the GameBoy
+on the GameCube
+on the Graphing Calculator
+on the Juicero
+on the Laptop
+on the Lisp Machine
+on the Mainframe
+on the Microwave
+on the Network Switch
+on the Nintendo Bottom
+on the Nintendo Switch
+on the PDA
+on the Plane
+on the Refrigerator
+on the Router
+on the Server
+on the Smartphone
+on the Smartwatch
+on the Tablet
+on the Toaster
+on the Train
+on the Truck
+on the Turing Machine
+on the iPhone

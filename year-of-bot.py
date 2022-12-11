@@ -30,7 +30,7 @@ def generate_prediction():
     y = random.randint(today.year, today.year + 25)
     o = random.choice(oses)
     p = random.choice(platforms)
-    return f'{y} will be the year of {o} on {p}'
+    return f'{y} will be the year of {o} {p}'
 
 
 async def main(access_token, server_url):

@@ -8,8 +8,10 @@ BESYS
 CP/M
 CentOS
 ChromeOS
+Crysis
 DOS
 Debian
+Doom
 Emacs
 Fedora
 Fire OS
@@ -19,6 +21,11 @@ GNU/Linux
 Google Fuchsia
 Internet Explorer
 Itanium
+Linux
+Linux
+Linux
+Linux
+Linux
 Linux
 MIPS
 MacOS
@@ -33,8 +40,10 @@ RHEL
 RISC-V
 ReactOS
 Redox
+Rust
 SPARC
 Skyrim
+Skyrim Anniversary Edition
 Slackware
 Solaris
 TempleOS
@@ -42,7 +51,7 @@ Ubuntu
 Vim
 Wear OS
 Windows
-Windows
+Windows Server
 Z80
 iOS
 vSphere
