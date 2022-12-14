@@ -5,6 +5,7 @@ Alpine
 AmigaOS
 Android
 BESYS
+COBOL
 CP/M
 CentOS
 ChromeOS
@@ -15,10 +16,14 @@ Doom
 Emacs
 Fedora
 Fire OS
+Fortran
 FreeBSD
 GNU Hurd
 GNU/Linux
+Golang
 Google Fuchsia
+Grapes
+IPv6
 Internet Explorer
 Itanium
 Linux
