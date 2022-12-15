@@ -20,6 +20,9 @@ for Wizards
 for Workgroups
 for Writers
 for summoning The Elder Gods
+for the PlayStation
+for the PlayStation 2
+for the XBox
 in Busybox
 in Chrome
 in Emacs
@@ -60,6 +63,7 @@ on the Fighter Jet
 on the Flip Phone
 on the GameBoy
 on the GameCube
+on the GayStation
 on the Graphing Calculator
 on the Horse-Drawn Buggy
 on the Juicero

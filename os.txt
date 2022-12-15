@@ -1,14 +1,18 @@
 9front
 ARM
 AVR
+Alcohol
 Alpine
 AmigaOS
 Android
 BESYS
+Benzos
 COBOL
 CP/M
+Cannabis
 CentOS
 ChromeOS
+Cocaine
 Crysis
 DOS
 Debian
@@ -23,9 +27,13 @@ GNU/Linux
 Golang
 Google Fuchsia
 Grapes
+Hallucinogens
+Heroin
 IPv6
 Internet Explorer
 Itanium
+Ketamine
+LSD
 Linux
 Linux
 Linux
@@ -34,6 +42,8 @@ Linux
 Linux
 MIPS
 MacOS
+Marijuana
+Methamphetamine
 NetBSD
 NixOS
 OpenBSD
@@ -47,14 +57,21 @@ ReactOS
 Redox
 Rust
 SPARC
+Shrooms
 Skyrim
 Skyrim Anniversary Edition
 Slackware
 Solaris
+Super Mario
 TempleOS
+Tobacco
+Tom Scott
 Ubuntu
 Vim
+Vodka
 Wear OS
+Weed
+Whiskey
 Windows
 Windows Server
 Z80
