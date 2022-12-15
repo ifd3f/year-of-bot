@@ -1,51 +1,109 @@
+Considered Bloat
+Considered Harmful
+Considered Harmless
 Gaming
 Music Production
 Piracy
+adopting a devil as its mascot
+adopting a fox as its mascot
+adopting a penguin as its mascot
+adopting a window as its mascot
+and Knuckles
+becoming a penguin
+becoming a singularity
+becoming a virus
+becoming abandoned
+becoming an Elder God
+becoming bloat
+becoming faster
 becoming fully adopted
+becoming hated by dd
 becoming illegal
+becoming smaller
+becoming unpopular
+changing its gender
+coming out as gay
 consuming the world
 for Artists
 for Assassins
+for Biblically-Accurate Angels
+for Bottoms
+for Business Majors
+for Catboys
 for Catgirls
+for Cats
 for Communists
+for Competitive Gamers
+for Devils
+for Dogboys
+for Doggirls
+for Dogs
+for Economists
 for Educators
+for Elders
+for Farmers
 for Femboys
+for Foxes
+for Furries
+for Gamers
 for Gay People
 for Gay Pirate Assassins
+for Genshin Players
+for Gnus
 for Journalists
+for Mobile Task Force units
+for Penguins
 for Pirates
+for Small Businesses
 for Streamers
+for Tech Bros
+for Trans People
+for Weeaboos
 for Witches
 for Wizards
 for Workgroups
 for Writers
-for summoning The Elder Gods
+for summoning the Elder Gods
+for the GameCube
 for the PlayStation
 for the PlayStation 2
 for the XBox
+getting cancelled
 in Busybox
 in Chrome
 in Emacs
 in Firefox
+in Microsoft Excel
+in Microsoft PowerPoint
 in Minecraft Redstone
+in SAP HANA
+in SPAAAAAAACE!
+in Space
 in VR
 in Vim
 in Wearables
 in the Browser
 in the Classroom
+in the Datacenter
+in the Gravity Gun
 in the Hydroelectric Dam
 in the Lemonade Stand
+in the Medical Implant
 in the Metaverse
 in the Nuclear Power Plant
 in the Office
 in the Pocketwatch
 in the Pork Bun Stand
+in the Portal Gun
 in the Power Plant
-in the Quantum Computer
-in the Virtual Machine
+in the White House
 in the Workplace
+inside your head
+inside your walls
+living rent-free in your head
 on Arduino
 on Embedded
+on Mars
 on Mobile
 on the Aircraft Carrier
 on the Airplane
@@ -56,16 +114,19 @@ on the Autonomous System
 on the Calculator
 on the Car
 on the Cargo Ship
+on the Control Plane
 on the Desktop
 on the Drawing Tablet
 on the Dumb Terminal
 on the Fighter Jet
+on the Firearm
 on the Flip Phone
 on the GameBoy
 on the GameCube
 on the GayStation
 on the Graphing Calculator
 on the Horse-Drawn Buggy
+on the Intercontinental Ballistic Missile
 on the Juicero
 on the Laptop
 on the Lisp Machine
@@ -74,19 +135,27 @@ on the Main Battle Tank
 on the Mainframe
 on the Microwave
 on the Minicomputer
+on the Missile Launcher
+on the Moon
+on the NAS
 on the Network Switch
 on the Nintendo Bottom
 on the Nintendo Switch
 on the Nuclear Submarine
 on the PDA
 on the Personal Computer
+on the Photonic Computer
+on the Positronic Computer
+on the Quantum Computer
 on the Refrigerator
 on the Router
 on the Server
 on the Smartphone
 on the Smartwatch
+on the Supersonic Missile
 on the Tablet
 on the Toaster
+on the Tractor
 on the Train
 on the Truck
 on the Turing Machine

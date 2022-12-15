@@ -1,4 +1,6 @@
 9front
+AIX
+AMD64
 ARM
 AVR
 Alcohol
@@ -7,33 +9,48 @@ AmigaOS
 Android
 BESYS
 Benzos
+CISC architectures
 COBOL
 CP/M
 Cannabis
 CentOS
+ChibiOS
 ChromeOS
 Cocaine
 Crysis
 DOS
+Damn Vulnerable Linux
+Darwin
 Debian
+Debian, the Linux for Lesbians,
 Doom
 Emacs
 Fedora
 Fire OS
+Firefox OS
 Fortran
 FreeBSD
+FreeNAS
+GNU
 GNU Hurd
 GNU/Linux
+GRUB 2
 Golang
 Google Fuchsia
 Grapes
+Guix
 Hallucinogens
 Heroin
 IPv6
 Internet Explorer
 Itanium
+Kali Linux
 Ketamine
+Kubernetes
+LC-3
 LSD
+Lennart Poettering
+Linus Torvalds
 Linux
 Linux
 Linux
@@ -41,20 +58,28 @@ Linux
 Linux
 Linux
 MIPS
+MS-DOS
+MSP430
 MacOS
 Marijuana
+Metasploitable
 Methamphetamine
 NetBSD
 NixOS
 OpenBSD
 PDP-11
+PIC
 Plan 9
+Plan 9
+Plants vs Zombies
 PowerPC
 Proxmox
 RHEL
+RISC architectures
 RISC-V
 ReactOS
 Redox
+Richard M. Stallman
 Rust
 SPARC
 Shrooms
@@ -62,19 +87,30 @@ Skyrim
 Skyrim Anniversary Edition
 Slackware
 Solaris
+Steam OS
+SunOS
 Super Mario
+System/390
+Systemd
 TempleOS
 Tobacco
 Tom Scott
 Ubuntu
+Unix
 Vim
 Vodka
 Wear OS
 Weed
 Whiskey
 Windows
+Windows 10
+Windows 9
 Windows Server
+Windows Vista
+YiffOS
 Z80
 iOS
+pfSense
+uBoot
 vSphere
 x86
