@@ -50,10 +50,12 @@ for Gay People
 for Gay Pirate Assassins
 for Genshin Players
 for Gnus
+for IoT
 for Journalists
 for Mobile Task Force units
 for Penguins
 for Pirates
+for Scientists
 for Small Businesses
 for Streamers
 for Tech Bros
@@ -63,6 +65,8 @@ for Witches
 for Wizards
 for Workgroups
 for Writers
+for edge computing
+for scientific computing
 for summoning the Elder Gods
 for the GameCube
 for the PlayStation
@@ -105,6 +109,7 @@ on Arduino
 on Embedded
 on Mars
 on Mobile
+on the AC
 on the Aircraft Carrier
 on the Airplane
 on the Airship
@@ -114,13 +119,17 @@ on the Autonomous System
 on the Calculator
 on the Car
 on the Cargo Ship
+on the Chessboard
 on the Control Plane
+on the Cosmic AC
 on the Desktop
 on the Drawing Tablet
 on the Dumb Terminal
+on the Eniac
 on the Fighter Jet
 on the Firearm
 on the Flip Phone
+on the Galactic AC
 on the GameBoy
 on the GameCube
 on the GayStation
@@ -133,10 +142,12 @@ on the Lisp Machine
 on the Luggable
 on the Main Battle Tank
 on the Mainframe
+on the Microvac
 on the Microwave
 on the Minicomputer
 on the Missile Launcher
 on the Moon
+on the Multivac
 on the NAS
 on the Network Switch
 on the Nintendo Bottom
@@ -159,6 +170,9 @@ on the Tractor
 on the Train
 on the Truck
 on the Turing Machine
+on the Universal AC
+on the Wi-Fi Hotspot
+on the Wireless Access Point
 on the iPhone
 rewritten in Fortran
 rewritten in Go

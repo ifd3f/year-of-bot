@@ -23,6 +23,7 @@ Damn Vulnerable Linux
 Darwin
 Debian
 Debian, the Linux for Lesbians,
+Docker
 Doom
 Emacs
 Fedora
@@ -40,16 +41,20 @@ Google Fuchsia
 Grapes
 Guix
 Hallucinogens
+Hannah Montana Linux
 Heroin
 IPv6
 Internet Explorer
 Itanium
+Java
 Kali Linux
 Ketamine
 Kubernetes
 LC-3
 LSD
+LXC
 Lennart Poettering
+Libvirt
 Linus Torvalds
 Linux
 Linux
@@ -66,14 +71,19 @@ Metasploitable
 Methamphetamine
 NetBSD
 NixOS
+Nuclear Fusion
+OCI containers
 OpenBSD
+OpenVMS
 PDP-11
 PIC
 Plan 9
 Plan 9
 Plants vs Zombies
+Power Glove
 PowerPC
 Proxmox
+Quantum Computing
 RHEL
 RISC architectures
 RISC-V
@@ -96,8 +106,11 @@ TempleOS
 Tobacco
 Tom Scott
 Ubuntu
+Ubuntu Touch
 Unix
+VMS
 Vim
+Virtual Boy
 Vodka
 Wear OS
 Weed
@@ -111,6 +124,7 @@ YiffOS
 Z80
 iOS
 pfSense
+the World Wide Web
 uBoot
 vSphere
 x86
