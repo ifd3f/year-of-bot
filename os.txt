@@ -1,3 +1,4 @@
+'()
 9front
 AIX
 AMD64
@@ -5,10 +6,18 @@ ARM
 AVR
 Alcohol
 Alpine
+Amazon Linux
 AmigaOS
+AmogOS ඞ
 Android
+Arch Linux
+Artix
 BESYS
+BSD
+Bedrock Linux
 Benzos
+Biebian
+Bungo Stray Dogs
 CISC architectures
 COBOL
 CP/M
@@ -16,9 +25,12 @@ Cannabis
 CentOS
 ChibiOS
 ChromeOS
+ClosedBSD
 Cocaine
 Crysis
 DOS
+Damn Small Linux
+Damn Tasty Linux
 Damn Vulnerable Linux
 Darwin
 Debian
@@ -26,29 +38,37 @@ Debian, the Linux for Lesbians,
 Docker
 Doom
 Emacs
+ExpensiveBSD
 Fedora
+FeeBSD
 Fire OS
 Firefox OS
 Fortran
 FreeBSD
+FreeDOS
 FreeNAS
 GNU
 GNU Hurd
 GNU/Linux
 GRUB 2
+Gentoo
 Golang
 Google Fuchsia
 Grapes
 Guix
+Halal Linux
 Hallucinogens
 Hannah Montana Linux
+Hello Kitty Slackware
 Heroin
 IPv6
 Internet Explorer
 Itanium
 Java
+Jewbuntu
 John Carmack
 John Mastodon
+Justin Bieber Linux
 Kali Linux
 Ketamine
 Kubernetes
@@ -72,52 +92,77 @@ Marijuana
 Mark Zuckerberg
 Metasploitable
 Methamphetamine
+Moeubuntu
+NaN
 NetBSD
 NixOS
+None
+None
+Nothing
 Nuclear Fusion
+Null
 OCI containers
 Onions
 OpenBSD
+OpenSUS ඞ
+OpenSUSE
 OpenVMS
+Oracle Linux
 PDP-11
 PIC
 Plan 10
 Plan 9
 Plan 9
 Plants vs Zombies
+Poobuntu
 Power Glove
 PowerPC
 Proxmox
 Quantum Computing
+Qubes OS
 RHEL
 RISC architectures
 RISC-V
+ROS
 ReactOS
+Rebecca Black OS
+Red Star OS
 Redox
 Richard M. Stallman
+Runit
 Rust
 SPARC
+Sabayon Linux
+Shit Linux
 Shrooms
 Skyrim
 Skyrim Anniversary Edition
 Slackware
+Snackware
 Solaris
 Steam OS
+Suicide Linux
 SunOS
 Super Mario
 System/390
 Systemd
 TempleOS
 Tim Apple
+Tinfoil Hat Linux
 Tobacco
 Tom Scott
 Ubuntu
+Ubuntu Christian Edition
+Ubuntu Muslim Edition
+Ubuntu Satanic Edition
 Ubuntu Touch
 Unix
+UwUntu
 VMS
 Vim
 Virtual Boy
 Vodka
+Void Linux
 Wear OS
 Weed
 Whiskey
@@ -127,11 +172,17 @@ Windows 9
 Windows Server
 Windows Vista
 YiffOS
+You are trying to view Flash content, but you have no Flash plugin installed.
 Z80
+[object Object]
 iOS
+k3os
+nil
+null
 pfSense
 the Dark Web
 the World Wide Web
 uBoot
+undefined
 vSphere
 x86

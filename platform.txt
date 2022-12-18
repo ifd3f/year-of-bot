@@ -165,6 +165,7 @@ on the Desktop
 on the Drawing Tablet
 on the Dumb Terminal
 on the Eniac
+on the False
 on the Fighter Jet
 on the Firearm
 on the Flip Phone
@@ -191,6 +192,8 @@ on the NAS
 on the Network Switch
 on the Nintendo Bottom
 on the Nintendo Switch
+on the None
+on the Nothing
 on the Nuclear Submarine
 on the PDA
 on the Personal Computer
@@ -212,7 +215,13 @@ on the Turing Machine
 on the Universal AC
 on the Wi-Fi Hotspot
 on the Wireless Access Point
+on the You are trying to view Flash content, but you have no Flash plugin installed.
+on the [object Object]
+on the false
 on the iPhone
+on the nil
+on the null
+on the undefined
 over Tor
 rewritten in C#
 rewritten in Fortran
