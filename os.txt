@@ -22,6 +22,8 @@ CISC architectures
 COBOL
 CP/M
 Cannabis
+Catboys
+Catgirls
 CentOS
 CentOwOs
 ChibiOS
@@ -34,27 +36,36 @@ Damn Small Linux
 Damn Tasty Linux
 Damn Vulnerable Linux
 Darwin
+Data-Oriented Programming
 Debian
 Debian, the Linux for Lesbians,
 Debinyan
 Docker
 Doom
+Eclipse Platform
 Emacs
 ExpensiveBSD
 FPGAs
 Fedora
 Fedowa
 FeeBSD
+Femboys
 Fire OS
 Firefox OS
 Fortran
 FreeBSD
 FreeDOS
 FreeNAS
+Functional Programming
 GNU
+GNU + Linux
 GNU Hurd
+GNU++ Linux
 GNU/Linux
 GRUB 2
+GTK
+GUN + Linux
+GUN/Linux
 GentUwU
 Gentoo
 Golang
@@ -109,6 +120,7 @@ Nothing
 Nuclear Fusion
 Nyaarch Linyux
 OCI containers
+Object-Oriented Programming
 Onions
 OpenBSD
 OpenSUS ඞ
@@ -125,6 +137,7 @@ Poobuntu
 Power Glove
 PowerPC
 Proxmox
+Qt
 Quantum Computing
 Qubes OS
 RHEL
@@ -154,11 +167,13 @@ SunOwOs
 Super Mario
 System/390
 Systemd
+TI-Basic
 TempleOS
 Tim Apple
 Tinfoil Hat Linux
 Tobacco
 Tom Scott
+Tomboys
 Ubuntu
 Ubuntu Christian Edition
 Ubuntu Muslim Edition

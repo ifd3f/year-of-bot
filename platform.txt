@@ -152,8 +152,10 @@ on the Apple Watch
 on the Automobile
 on the Autonomous System
 on the Calculator
+on the Calculator Watch
 on the Car
 on the Cargo Ship
+on the Casio Watch
 on the Chessboard
 on the Control Plane
 on the Cosmic AC
@@ -172,9 +174,13 @@ on the Flip Phone
 on the Galactic AC
 on the GameBoy
 on the GameCube
+on the Garbage Truck
 on the GayStation
 on the Graphing Calculator
+on the Gun
+on the Horse
 on the Horse-Drawn Buggy
+on the Horse-Drawn Carriage
 on the Intercontinental Ballistic Missile
 on the Juicero
 on the Laptop
@@ -203,11 +209,19 @@ on the Quantum Computer
 on the Refrigerator
 on the Router
 on the Server
+on the Smart Gun
 on the Smartphone
 on the Smartwatch
 on the Supersonic Missile
+on the TI-83+ Graphing Calculator
+on the TI-84 Graphing Calculator
+on the TI-89 Graphing Calculator
+on the TI-92 Graphing Calculator
 on the Tablet
+on the Technical
 on the Toaster
+on the Toyota Corolla
+on the Toyota Hilux
 on the Tractor
 on the Train
 on the Truck
