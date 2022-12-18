@@ -47,6 +47,8 @@ IPv6
 Internet Explorer
 Itanium
 Java
+John Carmack
+John Mastodon
 Kali Linux
 Ketamine
 Kubernetes
@@ -67,16 +69,19 @@ MS-DOS
 MSP430
 MacOS
 Marijuana
+Mark Zuckerberg
 Metasploitable
 Methamphetamine
 NetBSD
 NixOS
 Nuclear Fusion
 OCI containers
+Onions
 OpenBSD
 OpenVMS
 PDP-11
 PIC
+Plan 10
 Plan 9
 Plan 9
 Plants vs Zombies
@@ -103,6 +108,7 @@ Super Mario
 System/390
 Systemd
 TempleOS
+Tim Apple
 Tobacco
 Tom Scott
 Ubuntu
@@ -124,6 +130,7 @@ YiffOS
 Z80
 iOS
 pfSense
+the Dark Web
 the World Wide Web
 uBoot
 vSphere

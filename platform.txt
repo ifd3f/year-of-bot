@@ -4,12 +4,18 @@ Considered Harmless
 Gaming
 Music Production
 Piracy
+adopting a bird as its mascot
 adopting a devil as its mascot
 adopting a fox as its mascot
 adopting a penguin as its mascot
+adopting a trans fox as its mascot
+adopting a vegetable as its mascot
 adopting a window as its mascot
+adopting an onion as its mascot
 and Knuckles
+becoming a friendly AI
 becoming a penguin
+becoming a rogue AI
 becoming a singularity
 becoming a virus
 becoming abandoned
@@ -17,18 +23,25 @@ becoming an Elder God
 becoming bloat
 becoming faster
 becoming fully adopted
-becoming hated by dd
+becoming hated by dd86k
 becoming illegal
+becoming rolling-release
 becoming smaller
+becoming unmaintained
 becoming unpopular
 changing its gender
 coming out as gay
+consuming the sun
 consuming the world
+for Angels
+for Apollyon-class objects
+for Arknights Players
 for Artists
 for Assassins
 for Biblically-Accurate Angels
 for Bottoms
 for Business Majors
+for CS:GO Players
 for Catboys
 for Catgirls
 for Cats
@@ -38,9 +51,11 @@ for Devils
 for Dogboys
 for Doggirls
 for Dogs
+for Doms
 for Economists
 for Educators
 for Elders
+for Euclid-class objects
 for Farmers
 for Femboys
 for Foxes
@@ -48,17 +63,33 @@ for Furries
 for Gamers
 for Gay People
 for Gay Pirate Assassins
+for Geese
 for Genshin Players
 for Gnus
+for Incubi
 for IoT
 for Journalists
+for Keter-class objects
+for League of Legends players
+for Lions
+for Mice
 for Mobile Task Force units
 for Penguins
+for Penguins
 for Pirates
+for SCPs
+for Scalies
 for Scientists
+for Skeleton Army soldiers
+for Skeletons
 for Small Businesses
 for Streamers
+for Subs
+for Succubi
+for Switches
+for TF2 players
 for Tech Bros
+for Tops
 for Trans People
 for Weeaboos
 for Witches
@@ -66,12 +97,14 @@ for Wizards
 for Workgroups
 for Writers
 for edge computing
+for gacha whales
 for scientific computing
 for summoning the Elder Gods
 for the GameCube
 for the PlayStation
 for the PlayStation 2
 for the XBox
+getting a furry distro
 getting cancelled
 in Busybox
 in Chrome
@@ -80,8 +113,10 @@ in Firefox
 in Microsoft Excel
 in Microsoft PowerPoint
 in Minecraft Redstone
+in RBMK Reactors
 in SAP HANA
 in SPAAAAAAACE!
+in Smoke Detectors
 in Space
 in VR
 in Vim
@@ -122,6 +157,10 @@ on the Cargo Ship
 on the Chessboard
 on the Control Plane
 on the Cosmic AC
+on the Desktop
+on the Desktop
+on the Desktop
+on the Desktop
 on the Desktop
 on the Drawing Tablet
 on the Dumb Terminal
@@ -174,9 +213,12 @@ on the Universal AC
 on the Wi-Fi Hotspot
 on the Wireless Access Point
 on the iPhone
+over Tor
+rewritten in C#
 rewritten in Fortran
 rewritten in Go
 rewritten in Haskell
 rewritten in Java
 rewritten in Rust
+seeing a resurgence
 summoning The Elder Gods
