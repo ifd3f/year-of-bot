@@ -23,6 +23,7 @@ COBOL
 CP/M
 Cannabis
 CentOS
+CentOwOs
 ChibiOS
 ChromeOS
 ClosedBSD
@@ -35,11 +36,14 @@ Damn Vulnerable Linux
 Darwin
 Debian
 Debian, the Linux for Lesbians,
+Debinyan
 Docker
 Doom
 Emacs
 ExpensiveBSD
+FPGAs
 Fedora
+Fedowa
 FeeBSD
 Fire OS
 Firefox OS
@@ -51,10 +55,12 @@ GNU
 GNU Hurd
 GNU/Linux
 GRUB 2
+GentUwU
 Gentoo
 Golang
 Google Fuchsia
 Grapes
+Guix
 Guix
 Halal Linux
 Hallucinogens
@@ -96,11 +102,12 @@ Moeubuntu
 NaN
 NetBSD
 NixOS
+NixOwOs
 None
 None
 Nothing
 Nuclear Fusion
-Null
+Nyaarch Linyux
 OCI containers
 Onions
 OpenBSD
@@ -143,6 +150,7 @@ Solaris
 Steam OS
 Suicide Linux
 SunOS
+SunOwOs
 Super Mario
 System/390
 Systemd
