@@ -49,7 +49,6 @@ in with lib; {
 
     systemd.services.year-of-bot = {
       description = "Technology Prediction Pleroma Bot";
-      wantedBy = [ "network-online.target" ];
       wants = [ "year-of-bot-config.service" ];
       path = with pkgs; [ year-of-bot ];
       environment = {
