@@ -1,26 +1,49 @@
+-chan
+-kouhai
+-kun
+-senpai
+-tan
 Considered Bloat
 Considered Harmful
 Considered Harmless
 Gaming
 Music Production
 Piracy
+abandoning FHS
+added to a Toyota Hilux to turn it into a technical
+adding ActivityPub support
 adopting a bird as its mascot
 adopting a devil as its mascot
+adopting a donkey as its mascot
+adopting a elephant as its mascot
 adopting a fox as its mascot
+adopting a hat as its mascot
+adopting a mastodon as its mascot
 adopting a penguin as its mascot
+adopting a rabbit as its mascot
 adopting a trans fox as its mascot
 adopting a vegetable as its mascot
 adopting a window as its mascot
+adopting an angel as its mascot
+adopting an anime girl as its mascot
 adopting an onion as its mascot
+adopting squirrel as its mascot
 and Knuckles
 becoming a friendly AI
+becoming a meme distro
 becoming a penguin
 becoming a rogue AI
 becoming a singularity
 becoming a virus
 becoming abandoned
+becoming an Apache Foundation project
+becoming an Eclipse Foundation project
 becoming an Elder God
+becoming an SCP Foundation project
 becoming bloat
+becoming bloat
+becoming edible
+becoming emo
 becoming faster
 becoming fully adopted
 becoming hated by dd86k
@@ -29,86 +52,188 @@ becoming rolling-release
 becoming smaller
 becoming unmaintained
 becoming unpopular
+being bought by Elon Musk
+being bought by Meta
+being hated by FOSS people
+being liked by FOSS people
+causing a rapid unplanned disassembly
+causing a rapid unplanned disassembly on the launchpad
+causing an unplanned explosion
+challenging God himself
 changing its gender
+changing its name to something offensive
+collaborating with 100 Gecs
+collaborating with Adidas
+collaborating with Barbie
+collaborating with Dorian Electra
+collaborating with Eminem
+collaborating with Gloryhammer
+collaborating with Gucci
+collaborating with ICE
+collaborating with Justin Bieber
+collaborating with KFC
+collaborating with Lady Gaga
+collaborating with Lil Nas X
+collaborating with Maia Crimew
+collaborating with McDonald's
+collaborating with Pokemon
+collaborating with Ray-Ban
+collaborating with Razer
+collaborating with Sun Microsystems
+collaborating with Supreme
+collaborating with Taco Bell
+collaborating with Taylor Swift
+collaborating with the Chinese Government
+collaborating with the FBI
+collaborating with the FSB
+collaborating with the NSA
+coming out as a furry
+coming out as bisexual
+coming out as four kittens in a trench coat
 coming out as gay
+coming out as lesbian
+coming out as non-binary
+coming out as trans
+committing a war crime
+compromising on its morals
+considered political
 consuming the sun
 consuming the world
+creating a black hole
+destroying the universe
+fighting God
 for Angels
 for Apollyon-class objects
 for Arknights Players
 for Artists
 for Assassins
+for Atheists
+for Bears
+for Bees
 for Biblically-Accurate Angels
+for Birds
 for Bottoms
+for Buddhists
 for Business Majors
 for CS:GO Players
 for Catboys
+for Catfoxes
 for Catgirls
 for Cats
+for Chemists
+for Christians
 for Communists
 for Competitive Gamers
+for Cowboys
+for Cowgirls
+for Cows
 for Devils
 for Dogboys
 for Doggirls
 for Dogs
 for Doms
+for Dummies
 for Economists
 for Educators
 for Elders
+for Elves
 for Euclid-class objects
+for Evangelicals
+for FOSS people
 for Farmers
+for Fedi users
 for Femboys
+for Fighting Game Players
+for Foxboys
 for Foxes
+for Foxgirls
 for Furries
 for Gamers
 for Gay People
 for Gay Pirate Assassins
 for Geese
 for Genshin Players
+for Gentoo Penguins
 for Gnus
+for Hindus
 for Incubi
 for IoT
+for Jews
 for Journalists
+for Juggalos
+for K-Pop Stans
+for Kerbal Space Program Players
 for Keter-class objects
 for League of Legends players
+for Liberals
 for Lions
+for Mastodons
+for Metalheads
+for Meth Cooks
+for Meth Dealers
 for Mice
 for Mobile Task Force units
-for Penguins
+for Muslims
+for Nerds
+for Otters
+for Parrots
 for Penguins
 for Pirates
+for Pokemon fans
+for Protogens
+for Punks
 for SCPs
 for Scalies
 for Scientists
+for Sharks
 for Skeleton Army soldiers
 for Skeletons
 for Small Businesses
+for Sonic fans
 for Streamers
 for Subs
 for Succubi
 for Switches
 for TF2 players
 for Tech Bros
+for Technology Brothers
+for Technology Sisters
 for Tops
 for Trans People
+for Twinks
+for Vampires
+for War Criminals
 for Weeaboos
+for Werewolves
 for Witches
 for Wizards
 for Workgroups
 for Writers
+for committing war crimes
 for edge computing
+for fighting God
 for gacha whales
+for idiots like you
 for scientific computing
 for summoning the Elder Gods
+for the BTS ARMY
 for the GameCube
 for the PlayStation
 for the PlayStation 2
 for the XBox
+getting a brands.town account
 getting a furry distro
+getting a huge CVE
+getting a new package manager
+getting an HBO series about it
+getting an anime about it
 getting cancelled
+getting glitterbombed by Vermin Supreme
+getting riced
 in Busybox
 in Chrome
 in Emacs
+in Family Guy
 in Firefox
 in Microsoft Excel
 in Microsoft PowerPoint
@@ -135,19 +260,27 @@ in the Pocketwatch
 in the Pork Bun Stand
 in the Portal Gun
 in the Power Plant
+in the Refrigerator
 in the White House
 in the Workplace
 inside your head
 inside your walls
+killing God
 living rent-free in your head
+making a cartoon with Disney
+melting down like Chernobyl
+melting down like Kanye
 on Arduino
 on Embedded
+on Fedi
 on Mars
 on Mobile
 on the AC
+on the Air Conditioner
 on the Aircraft Carrier
 on the Airplane
 on the Airship
+on the Ambassador-class Starship
 on the Apple Watch
 on the Automobile
 on the Autonomous System
@@ -157,8 +290,12 @@ on the Car
 on the Cargo Ship
 on the Casio Watch
 on the Chessboard
+on the Cloud
+on the Console
 on the Control Plane
 on the Cosmic AC
+on the Death Star
+on the Defiant-class Starship
 on the Desktop
 on the Desktop
 on the Desktop
@@ -166,8 +303,7 @@ on the Desktop
 on the Desktop
 on the Drawing Tablet
 on the Dumb Terminal
-on the Eniac
-on the False
+on the ENIAC
 on the Fighter Jet
 on the Firearm
 on the Flip Phone
@@ -178,6 +314,8 @@ on the Garbage Truck
 on the GayStation
 on the Graphing Calculator
 on the Gun
+on the HAL 9000
+on the High-Performance Computing Cluster
 on the Horse
 on the Horse-Drawn Buggy
 on the Horse-Drawn Carriage
@@ -205,6 +343,7 @@ on the PDA
 on the Personal Computer
 on the Photonic Computer
 on the Positronic Computer
+on the Protogen
 on the Quantum Computer
 on the Refrigerator
 on the Router
@@ -231,17 +370,30 @@ on the Wi-Fi Hotspot
 on the Wireless Access Point
 on the You are trying to view Flash content, but you have no Flash plugin installed.
 on the [object Object]
-on the false
 on the iPhone
 on the nil
 on the null
 on the undefined
 over Tor
+pissing on a basement
+rewritten as a web app
+rewritten in Assembly
+rewritten in C
 rewritten in C#
 rewritten in Fortran
 rewritten in Go
 rewritten in Haskell
 rewritten in Java
+rewritten in JavaScript
+rewritten in Lua
+rewritten in Python
 rewritten in Rust
+rewritten in Zig
 seeing a resurgence
+selling branded computer mice
+selling branded edibles
+selling cute plushies
+slippin' an extra shrimp on the barbie for you
+sponsoring an eSports team
 summoning The Elder Gods
+with a little Tom Scott inside

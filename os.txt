@@ -4,6 +4,7 @@ AIX
 AMD64
 ARM
 AVR
+Adobe Flash Player
 Alcohol
 Alpine
 Amazon Linux
@@ -41,6 +42,7 @@ Debian
 Debian, the Linux for Lesbians,
 Debinyan
 Docker
+Docker Swarm
 Doom
 Eclipse Platform
 Emacs
@@ -76,6 +78,7 @@ Guix
 Halal Linux
 Hallucinogens
 Hannah Montana Linux
+Hashicorp Nomad
 Hello Kitty Slackware
 Heroin
 IPv6
@@ -91,6 +94,7 @@ Ketamine
 Kubernetes
 LC-3
 LSD
+LXC
 LXC
 Lennart Poettering
 Libvirt
@@ -133,6 +137,7 @@ Plan 10
 Plan 9
 Plan 9
 Plants vs Zombies
+Podman
 Poobuntu
 Power Glove
 PowerPC
@@ -195,6 +200,7 @@ Windows 9
 Windows Server
 Windows Vista
 YiffOS
+Yo Momma
 You are trying to view Flash content, but you have no Flash plugin installed.
 Z80
 [object Object]
