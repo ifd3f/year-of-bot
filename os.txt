@@ -1,27 +1,24 @@
 '()
 9front
-AIX
-AMD64
-ARM
-AVR
 Adobe Flash Player
+AIX
 Alcohol
 Alpine
 Amazon Linux
+AMD64
 AmigaOS
 AmogOS ඞ
 Android
 Arch Linux
+ARM
 Artix
-BESYS
-BSD
+AVR
 Bedrock Linux
 Benzos
+BESYS
 Biebian
+BSD
 Bungo Stray Dogs
-CISC architectures
-COBOL
-CP/M
 Cannabis
 Catboys
 Catgirls
@@ -29,10 +26,12 @@ CentOS
 CentOwOs
 ChibiOS
 ChromeOS
+CISC architectures
 ClosedBSD
+COBOL
 Cocaine
+CP/M
 Crysis
-DOS
 Damn Small Linux
 Damn Tasty Linux
 Damn Vulnerable Linux
@@ -44,58 +43,58 @@ Debinyan
 Docker
 Docker Swarm
 Doom
+DOS
 Eclipse Platform
 Emacs
 ExpensiveBSD
-FPGAs
 Fedora
 Fedowa
 FeeBSD
 Femboys
-Fire OS
 Firefox OS
+Fire OS
 Fortran
+FPGAs
 FreeBSD
 FreeDOS
 FreeNAS
 Functional Programming
+Gentoo
+GentUwU
 GNU
-GNU + Linux
 GNU Hurd
+GNU + Linux
 GNU++ Linux
 GNU/Linux
-GRUB 2
-GTK
-GUN + Linux
-GUN/Linux
-GentUwU
-Gentoo
 Golang
 Google Fuchsia
 Grapes
+GRUB 2
+GTK
 Guix
 Guix
+GUN + Linux
+GUN/Linux
 Halal Linux
 Hallucinogens
 Hannah Montana Linux
 Hashicorp Nomad
 Hello Kitty Slackware
 Heroin
-IPv6
 Internet Explorer
+iOS
+IPv6
 Itanium
 Java
 Jewbuntu
 John Carmack
 John Mastodon
 Justin Bieber Linux
+k3os
 Kali Linux
 Ketamine
 Kubernetes
 LC-3
-LSD
-LXC
-LXC
 Lennart Poettering
 Libvirt
 Linus Torvalds
@@ -105,33 +104,40 @@ Linux
 Linux
 Linux
 Linux
-MIPS
-MS-DOS
-MSP430
+LSD
+LXC
+LXC
 MacOS
 Marijuana
 Mark Zuckerberg
 Metasploitable
 Methamphetamine
+MIPS
 Moeubuntu
+MS-DOS
+MSP430
 NaN
 NetBSD
+nil
 NixOS
 NixOwOs
 None
 None
 Nothing
 Nuclear Fusion
+null
 Nyaarch Linyux
-OCI containers
+[object Object]
 Object-Oriented Programming
+OCI containers
 Onions
 OpenBSD
-OpenSUS ඞ
 OpenSUSE
+OpenSUS ඞ
 OpenVMS
 Oracle Linux
 PDP-11
+pfSense
 PIC
 Plan 10
 Plan 9
@@ -145,18 +151,17 @@ Proxmox
 Qt
 Quantum Computing
 Qubes OS
+ReactOS
+Rebecca Black OS
+Redox
+Red Star OS
 RHEL
+Richard M. Stallman
 RISC architectures
 RISC-V
 ROS
-ReactOS
-Rebecca Black OS
-Red Star OS
-Redox
-Richard M. Stallman
 Runit
 Rust
-SPARC
 Sabayon Linux
 Shit Linux
 Shrooms
@@ -165,6 +170,7 @@ Skyrim Anniversary Edition
 Slackware
 Snackware
 Solaris
+SPARC
 Steam OS
 Suicide Linux
 SunOS
@@ -172,25 +178,30 @@ SunOwOs
 Super Mario
 System/390
 Systemd
-TI-Basic
 TempleOS
+the Dark Web
+the World Wide Web
+TI-Basic
 Tim Apple
 Tinfoil Hat Linux
 Tobacco
-Tom Scott
 Tomboys
+Tom Scott
+uBoot
 Ubuntu
 Ubuntu Christian Edition
 Ubuntu Muslim Edition
 Ubuntu Satanic Edition
 Ubuntu Touch
+undefined
 Unix
 UwUntu
-VMS
 Vim
 Virtual Boy
+VMS
 Vodka
 Void Linux
+vSphere
 Wear OS
 Weed
 Whiskey
@@ -199,19 +210,8 @@ Windows 10
 Windows 9
 Windows Server
 Windows Vista
+x86
 YiffOS
 Yo Momma
 You are trying to view Flash content, but you have no Flash plugin installed.
 Z80
-[object Object]
-iOS
-k3os
-nil
-null
-pfSense
-the Dark Web
-the World Wide Web
-uBoot
-undefined
-vSphere
-x86
