@@ -9,6 +9,7 @@ adopting a donkey as its mascot
 adopting a dragon as its mascot
 adopting a elephant as its mascot
 adopting a fox as its mascot
+adopting a fursona
 adopting a hat as its mascot
 adopting a mastodon as its mascot
 adopting an angel as its mascot
@@ -16,14 +17,18 @@ adopting an anime girl as its mascot
 adopting an onion as its mascot
 adopting a penguin as its mascot
 adopting a rabbit as its mascot
+adopting a squirrel as its mascot
 adopting a trans fox as its mascot
 adopting a vegetable as its mascot
 adopting a window as its mascot
-adopting squirrel as its mascot
 and Knuckles
 becoming abandoned
+becoming a Cloud Native Computing Foundation project
 becoming a conscious AI
+becoming a fad
 becoming a friendly AI
+becoming a GNOME project
+becoming a KDE community project
 becoming a meme distro
 becoming an Apache Foundation project
 becoming an Eclipse Foundation project
@@ -32,8 +37,8 @@ becoming an SCP Foundation project
 becoming a penguin
 becoming a rogue AI
 becoming a singularity
+becoming a Suckless project
 becoming a virus
-becoming bloat
 becoming bloat
 becoming edible
 becoming emo
@@ -45,10 +50,19 @@ becoming rolling-release
 becoming smaller
 becoming unmaintained
 becoming unpopular
+being bought by Amazon
+being bought by Apple
+being bought by Disney
 being bought by Elon Musk
 being bought by Meta
+being bought by Microsoft
+being bought by Tencent
+being bought by the Koch Brother
+being bought by Warren Buffett
 being hated by FOSS people
 being liked by FOSS people
+being open-sourced
+cancelling its creator
 causing an unplanned explosion
 causing a rapid unplanned disassembly
 causing a rapid unplanned disassembly on the launchpad
@@ -58,27 +72,45 @@ changing its gender
 changing its name to something offensive
 collaborating with 100 Gecs
 collaborating with Adidas
+collaborating with Arknights
 collaborating with Barbie
+collaborating with Burger King
+collaborating with Coke
+collaborating with Counter-Strike: Global Offensive
+collaborating with Disney
 collaborating with Dorian Electra
 collaborating with Eminem
+collaborating with FaZe
+collaborating with Frito-Lay
+collaborating with Genshin Impact
 collaborating with Gloryhammer
 collaborating with Gucci
+collaborating with Harry Potter
 collaborating with ICE
+collaborating with In-N-Out
+collaborating with Intel
 collaborating with Justin Bieber
 collaborating with KFC
 collaborating with Lady Gaga
+collaborating with League of Legends
 collaborating with Lil Nas X
 collaborating with Maia Crimew
 collaborating with McDonald's
+collaborating with Pepsi
 collaborating with Pizza Hunt
+collaborating with Pizza Hut
+collaborating with Pizza the Hutt
 collaborating with Pokemon
+collaborating with Popeye's
 collaborating with Ray-Ban
 collaborating with Razer
 collaborating with Sony
+collaborating with Star Wars
 collaborating with Sun Microsystems
 collaborating with Supreme
 collaborating with Taco Bell
 collaborating with Taylor Swift
+collaborating with Team Fortress 2
 collaborating with the Chinese Government
 collaborating with the European Union
 collaborating with the FBI
@@ -86,6 +118,7 @@ collaborating with the FSB
 collaborating with the Interpol
 collaborating with the KGB
 collaborating with the NSA
+collaborating with Valve Software
 coming out as a brony
 coming out as a furry
 coming out as bisexual
@@ -105,8 +138,12 @@ consuming the moon
 consuming the sun
 consuming the world
 creating a black hole
+creating the Philosopher's Stone
 destroying the universe
+exploding in a beautiful wreck
 fighting God
+flopping
+for Anarchists
 for Angels
 for Apollyon-class objects
 for Arknights Players
@@ -124,6 +161,8 @@ for Catboys
 for Catfoxes
 for Catgirls
 for Cats
+for Centrists
+for CEOs
 for Chemists
 for Christians
 for committing war crimes
@@ -132,7 +171,9 @@ for Competitive Gamers
 for Cowboys
 for Cowgirls
 for Cows
+for C Purists
 for CS:GO Players
+for Democrats
 for Devils
 for Dogboys
 for Doggirls
@@ -146,7 +187,10 @@ for Elders
 for Elves
 for Euclid-class objects
 for Evangelicals
+for Executives
 for Farmers
+for Fascists
+for Featherless Bipeds
 for Fedi users
 for Femboys
 for Fighting Game Players
@@ -155,6 +199,7 @@ for FOSS people
 for Foxboys
 for Foxes
 for Foxgirls
+for Functional Programmers
 for Furries
 for gacha whales
 for Gamers
@@ -163,7 +208,10 @@ for Gay Pirate Assassins
 for Geese
 for Genshin Players
 for Gentoo Penguins
+for Giant Rats
 for Gnus
+for Guinea Pigs
+for Hamsters
 for Hindus
 for idiots like you
 for Incubi
@@ -176,11 +224,14 @@ for Keter-class objects
 for K-Pop Stans
 for League of Legends players
 for Liberals
+for Liberals
 for Lions
+for Magical Girls
 for Mastodons
 for Metalheads
 for Meth Cooks
 for Meth Dealers
+for Mice
 for Mice
 for Mobile Task Force units
 for Muslims
@@ -188,15 +239,19 @@ for Nerds
 for Otters
 for Parrots
 for Penguins
+for Photographers
 for Pirates
 for Pokemon fans
+for Posadists
 for Protogens
 for Punks
+for Republicans
 for Scalies
 for scientific computing
 for Scientists
 for SCPs
 for Sharks
+for Skeevers
 for Skeleton Army soldiers
 for Skeletons
 for Small Businesses
@@ -216,8 +271,10 @@ for the PlayStation
 for the PlayStation 2
 for the XBox
 for Tops
+for Tories
 for Trans People
 for Twinks
+for Unix Purists
 for Vampires
 for War Criminals
 for WebAssembly on the server
@@ -229,15 +286,29 @@ for Workgroups
 for Writers
 Gaming
 getting a brands.town account
+getting a city named after it
+getting a comic about it
 getting a DMCA takedown notice
+getting a documentary about it
 getting a furry distro
+getting a Hollywood film about it
 getting a huge CVE
+getting a JoJo character named after it
+getting a manga about it
 getting an anime about it
 getting a new package manager
 getting an HBO series about it
+getting an Ugandan action film about it
+getting a Superbowl ad
+getting a TV ad
+getting a very inaccurate documentary about it
+getting a virus
 getting cancelled
 getting glitterbombed by Vermin Supreme
 getting riced
+getting wrench-reacted
+going to the moon 🚀🚀🚀
+having its fandom die out
 in Busybox
 in Chrome
 in Emacs
@@ -268,11 +339,13 @@ in the Pork Bun Stand
 in the Portal Gun
 in the Power Plant
 in the Refrigerator
+in the Sandwich
 in the White House
 in the Workplace
 in Vim
 in VR
 in Wearables
+IPOing
 killing God
 -kouhai
 -kun
@@ -385,11 +458,13 @@ on the Universal AC
 on the Wi-Fi Hotspot
 on the Wireless Access Point
 on the You are trying to view Flash content, but you have no Flash plugin installed.
+opening the Gate of Truth
 over Tor
 Piracy
 pissing on a basement
 rewritten as a web app
 rewritten in Assembly
+rewritten in Brainfuck
 rewritten in C
 rewritten in C#
 rewritten in Fortran
@@ -403,11 +478,16 @@ rewritten in Rust
 rewritten in Zig
 seeing a resurgence
 selling branded computer mice
+selling branded condoms
+selling branded drinks
 selling branded edibles
-selling cute plushies
+selling branded juice
+selling branded soda
+selling cute plushies of its mascot
 -senpai
 slippin' an extra shrimp on the barbie for you
 sponsoring an eSports team
 summoning The Elder Gods
 -tan
+triggering Ragnarok
 with a little Tom Scott inside
