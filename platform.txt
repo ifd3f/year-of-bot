@@ -12,6 +12,9 @@ Piracy
 abandoning FHS
 added to a Toyota Hilux to turn it into a technical
 adding ActivityPub support
+adding OpenID support
+adding support for non-binary gender options
+adopting a dragon as its mascot
 adopting a bird as its mascot
 adopting a devil as its mascot
 adopting a donkey as its mascot
@@ -29,6 +32,7 @@ adopting an anime girl as its mascot
 adopting an onion as its mascot
 adopting squirrel as its mascot
 and Knuckles
+becoming a conscious AI
 becoming a friendly AI
 becoming a meme distro
 becoming a penguin
@@ -76,18 +80,24 @@ collaborating with Lady Gaga
 collaborating with Lil Nas X
 collaborating with Maia Crimew
 collaborating with McDonald's
+collaborating with Pizza Hunt
 collaborating with Pokemon
 collaborating with Ray-Ban
 collaborating with Razer
+collaborating with Sony
 collaborating with Sun Microsystems
 collaborating with Supreme
 collaborating with Taco Bell
 collaborating with Taylor Swift
 collaborating with the Chinese Government
+collaborating with the European Union
 collaborating with the FBI
 collaborating with the FSB
+collaborating with the Interpol
+collaborating with the KGB
 collaborating with the NSA
 coming out as a furry
+coming out as a brony
 coming out as bisexual
 coming out as four kittens in a trench coat
 coming out as gay
@@ -97,6 +107,8 @@ coming out as trans
 committing a war crime
 compromising on its morals
 considered political
+consuming the galaxy
+consuming the moon
 consuming the sun
 consuming the world
 creating a black hole
@@ -115,18 +127,19 @@ for Birds
 for Bottoms
 for Buddhists
 for Business Majors
-for CS:GO Players
 for Catboys
 for Catfoxes
 for Catgirls
 for Cats
 for Chemists
 for Christians
+for committing war crimes
 for Communists
 for Competitive Gamers
 for Cowboys
 for Cowgirls
 for Cows
+for CS:GO Players
 for Devils
 for Dogboys
 for Doggirls
@@ -134,20 +147,23 @@ for Dogs
 for Doms
 for Dummies
 for Economists
+for edge computing
 for Educators
 for Elders
 for Elves
 for Euclid-class objects
 for Evangelicals
-for FOSS people
 for Farmers
 for Fedi users
 for Femboys
 for Fighting Game Players
+for fighting God
+for FOSS people
 for Foxboys
 for Foxes
 for Foxgirls
 for Furries
+for gacha whales
 for Gamers
 for Gay People
 for Gay Pirate Assassins
@@ -156,6 +172,7 @@ for Genshin Players
 for Gentoo Penguins
 for Gnus
 for Hindus
+for idiots like you
 for Incubi
 for IoT
 for Jews
@@ -182,9 +199,10 @@ for Pirates
 for Pokemon fans
 for Protogens
 for Punks
-for SCPs
 for Scalies
+for scientific computing
 for Scientists
+for SCPs
 for Sharks
 for Skeleton Army soldiers
 for Skeletons
@@ -193,40 +211,36 @@ for Sonic fans
 for Streamers
 for Subs
 for Succubi
+for summoning the Elder Gods
 for Switches
-for TF2 players
 for Tech Bros
 for Technology Brothers
 for Technology Sisters
+for TF2 players
 for Tops
 for Trans People
 for Twinks
 for Vampires
 for War Criminals
+for WebAssembly on the server
 for Weeaboos
 for Werewolves
 for Witches
 for Wizards
 for Workgroups
 for Writers
-for committing war crimes
-for edge computing
-for fighting God
-for gacha whales
-for idiots like you
-for scientific computing
-for summoning the Elder Gods
 for the BTS ARMY
 for the GameCube
 for the PlayStation
 for the PlayStation 2
 for the XBox
 getting a brands.town account
+getting a DMCA takedown notice
 getting a furry distro
 getting a huge CVE
 getting a new package manager
-getting an HBO series about it
 getting an anime about it
+getting an HBO series about it
 getting cancelled
 getting glitterbombed by Vermin Supreme
 getting riced
