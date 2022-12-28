@@ -3,6 +3,7 @@
 import asyncio
 import os
 import random
+import sys
 
 from datetime import datetime
 
@@ -16,11 +17,7 @@ def generate_prediction():
     y = random.randint(today.year, today.year + 25)
     p_template = random.choice(data.predictions)
 
-    fmt_dict = {
-        f's{i}': random.choice(data.subjects)
-        for i in range(1, 10)
-    }
-    fmt_dict['s'] = random.choice(data.subjects)
+    fmt_dict = generate_fmt_dict()
 
     prediction = p_template.format(**fmt_dict)
 
@@ -28,6 +25,10 @@ def generate_prediction():
 
 
 async def main():
+    if len(sys.argv) > 1 and sys.argv[1] == 'verify':
+        verify_data()
+        return
+
     prediction = generate_prediction()
     print(prediction)
 
@@ -35,6 +36,23 @@ async def main():
     access_token = os.environ["ACCESS_TOKEN"]
     async with Pleroma(api_base_url=server_url, access_token=access_token) as pl:
         await pl.post(prediction, visibility='unlisted')
+
+
+def verify_data():
+    d = generate_fmt_dict()
+    for t in data.predictions:
+        t.format(**d)
+    print("All predictions are OK")
+
+
+def generate_fmt_dict():
+    fmt_dict = {
+        f's{i}': random.choice(data.subjects)
+        for i in range(1, 10)
+    }
+    fmt_dict['s'] = random.choice(data.subjects)
+
+    return fmt_dict
 
 
 if __name__ == '__main__':
