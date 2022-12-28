@@ -1,0 +1,567 @@
+{s} abandoning FHS
+{s} added to a Toyota Hilux to turn it into a technical
+{s} adding ActivityPub support
+{s} adding OpenID support
+{s} adding support for non-binary gender options
+{s} adopting a bird as its mascot
+{s} adopting a devil as its mascot
+{s} adopting a donkey as its mascot
+{s} adopting a dragon as its mascot
+{s} adopting a elephant as its mascot
+{s} adopting a fox as its mascot
+{s} adopting a fursona
+{s} adopting a hat as its mascot
+{s} adopting a mastodon as its mascot
+{s} adopting an angel as its mascot
+{s} adopting an anime girl as its mascot
+{s} adopting an onion as its mascot
+{s} adopting a penguin as its mascot
+{s} adopting a rabbit as its mascot
+{s} adopting a squirrel as its mascot
+{s} adopting a trans fox as its mascot
+{s} adopting a vegetable as its mascot
+{s} adopting a window as its mascot
+{s} and Knuckles
+{s} asking "who asked"
+{s} becoming abandoned
+{s} becoming a Cloud Native Computing Foundation project
+{s} becoming a conscious AI
+{s} becoming a fad
+{s} becoming a friendly AI
+{s} becoming a GNOME project
+{s} becoming a KDE community project
+{s} becoming a meme distro
+{s} becoming an Apache Foundation project
+{s} becoming an Eclipse Foundation project
+{s} becoming an Elder God
+{s} becoming an SCP Foundation project
+{s} becoming a penguin
+{s} becoming a rogue AI
+{s} becoming a singularity
+{s} becoming a Suckless project
+{s} becoming a virus
+{s} becoming bloat
+{s} becoming edible
+{s} becoming emo
+{s} becoming faster
+{s} becoming fully adopted
+{s} becoming hated by dd86k
+{s} becoming illegal
+{s} becoming rolling-release
+{s} becoming smaller
+{s} becoming unmaintained
+{s} becoming unpopular
+{s} being open-sourced
+{s} bought by Amazon
+{s} bought by Apple
+{s} bought by Disney
+{s} bought by Elon Musk
+{s} bought by Meta
+{s} bought by Microsoft
+{s} bought by Tencent
+{s} bought by the Koch Brother
+{s} bought by Warren Buffett
+{s} cancelling its creator
+{s} causing an unplanned explosion
+{s} causing a rapid unplanned disassembly
+{s} causing a rapid unplanned disassembly on the launchpad
+{s} challenging God himself
+{s}-chan
+{s} changing its gender
+{s} changing its name to something offensive
+{s} collaborating with 100 Gecs
+{s} collaborating with Adidas
+{s} collaborating with Arknights
+{s} collaborating with Barbie
+{s} collaborating with Burger King
+{s} collaborating with Coke
+{s} collaborating with Counter-Strike: Global Offensive
+{s} collaborating with Disney
+{s} collaborating with Dorian Electra
+{s} collaborating with Eminem
+{s} collaborating with FaZe
+{s} collaborating with Frito-Lay
+{s} collaborating with Genshin Impact
+{s} collaborating with Gloryhammer
+{s} collaborating with Gucci
+{s} collaborating with Harry Potter
+{s} collaborating with ICE
+{s} collaborating with In-N-Out
+{s} collaborating with Intel
+{s} collaborating with Justin Bieber
+{s} collaborating with KFC
+{s} collaborating with Lady Gaga
+{s} collaborating with League of Legends
+{s} collaborating with Lil Nas X
+{s} collaborating with Maia Crimew
+{s} collaborating with McDonald's
+{s} collaborating with Pepsi
+{s} collaborating with Pizza Hunt
+{s} collaborating with Pizza Hut
+{s} collaborating with Pizza the Hutt
+{s} collaborating with Pokemon
+{s} collaborating with Popeye's
+{s} collaborating with Ray-Ban
+{s} collaborating with Razer
+{s} collaborating with Sony
+{s} collaborating with Star Wars
+{s} collaborating with Sun Microsystems
+{s} collaborating with Supreme
+{s} collaborating with Taco Bell
+{s} collaborating with Taylor Swift
+{s} collaborating with Team Fortress 2
+{s} collaborating with the Chinese Government
+{s} collaborating with the European Union
+{s} collaborating with the FBI
+{s} collaborating with the FSB
+{s} collaborating with the Interpol
+{s} collaborating with the KGB
+{s} collaborating with the NSA
+{s} collaborating with Valve Software
+{s} coming out as a brony
+{s} coming out as a furry
+{s} coming out as a scalie
+{s} coming out as bisexual
+{s} coming out as four kittens in a trench coat
+{s} coming out as gay
+{s} coming out as lesbian
+{s} coming out as non-binary
+{s} coming out as plural
+{s} coming out as trans
+{s} committing a war crime
+{s} compromising on its morals
+{s} Considered Bloat
+{s} Considered Harmful
+{s} Considered Harmless
+{s} considered political
+{s} considered problematic
+{s} consuming the galaxy
+{s} consuming the moon
+{s} consuming the sun
+{s} consuming the world
+{s} creating a black hole
+{s} creating the Philosopher's Stone
+{s} destroying the universe
+{s} exploding in a beautiful wreck
+{s} fighting God
+{s} filing for bankruptcy
+{s} flopping
+{s} for Anarchists
+{s} for Angels
+{s} for Apollyon-class objects
+{s} for Arknights Players
+{s} for Artists
+{s} for Assassins
+{s} for Atheists
+{s} for Bears
+{s} for Bees
+{s} for Biblically-Accurate Angels
+{s} for Birds
+{s} for Bottoms
+{s} for Buddhists
+{s} for Business Majors
+{s} for Catboys
+{s} for Catfoxes
+{s} for Catgirls
+{s} for Cats
+{s} for Centrists
+{s} for CEOs
+{s} for Chemists
+{s} for Christians
+{s} for committing war crimes
+{s} for Communists
+{s} for Competitive Gamers
+{s} for Cowboys
+{s} for Cowgirls
+{s} for Cows
+{s} for C Purists
+{s} for CS:GO Players
+{s} for Democrats
+{s} for Devils
+{s} for Disney Lawyers
+{s} for Dogboys
+{s} for Doggirls
+{s} for Dogs
+{s} for Doms
+{s} for Dudeists
+{s} for Dummies
+{s} for Economists
+{s} for edge computing
+{s} for Educators
+{s} for Elders
+{s} for Elves
+{s} for Euclid-class objects
+{s} for Evangelicals
+{s} for Executives
+{s} for Farmers
+{s} for Fascists
+{s} for Featherless Bipeds
+{s} for Fedi users
+{s} for Femboys
+{s} for Fighting Game Players
+{s} for fighting God
+{s} for FOSS people
+{s} for Foxboys
+{s} for Foxes
+{s} for Foxgirls
+{s} for Functional Programmers
+{s} for Furries
+{s} for gacha whales
+{s} for Gamers
+{s} for Gay People
+{s} for Gay Pirate Assassins
+{s} for Geese
+{s} for Genshin Players
+{s} for Gentoo Penguins
+{s} for Giant Rats
+{s} for Gnus
+{s} for Guinea Pigs
+{s} for Hamsters
+{s} for Hindus
+{s} for idiots like you
+{s} for Incubi
+{s} for IoT
+{s} for Jews
+{s} for Journalists
+{s} for Juggalos
+{s} for Kerbal Space Program Players
+{s} for Keter-class objects
+{s} for K-Pop Stans
+{s} for League of Legends players
+{s} for Liberals
+{s} for Liberals
+{s} for Lions
+{s} for Magical Girls
+{s} for Mastodons
+{s} for Metalheads
+{s} for Meth Cooks
+{s} for Meth Dealers
+{s} for Mice
+{s} for Mice
+{s} for Mobile Task Force units
+{s} for Muslims
+{s} for Nerds
+{s} for Oracle Lawyers
+{s} for Otters
+{s} for Parrots
+{s} for Pastafarians
+{s} for Penguins
+{s} for Photographers
+{s} for Pirates
+{s} for Plural Systems
+{s} for Pokemon fans
+{s} for Posadists
+{s} for privacy-obsessed crazies
+{s} for Protogens
+{s} for Punks
+{s} for Republicans
+{s} for Rule 34 Artists
+{s} for Scalies
+{s} for scientific computing
+{s} for Scientists
+{s} for SCPs
+{s} for Sharks
+{s} for Skeevers
+{s} for Skeleton Army soldiers
+{s} for Skeletons
+{s} for Small Businesses
+{s} for Sonic fans
+{s} for Streamers
+{s} for Subs
+{s} for Succubi
+{s} for summoning the Elder Gods
+{s} for Switches
+{s} for Tech Bros
+{s} for Technology Brothers
+{s} for Technology Sisters
+{s} for TF2 players
+{s} for the BTS ARMY
+{s} for the GameCube
+{s} for Theists
+{s} for the PlayStation
+{s} for the PlayStation 2
+{s} for the Royal Family
+{s} for the XBox
+{s} for Tops
+{s} for Tories
+{s} for Trans People
+{s} for Twinks
+{s} for Unix Purists
+{s} for Vampires
+{s} for War Criminals
+{s} for WebAssembly on the server
+{s} for Weeaboos
+{s} for Werewolves
+{s} for Witches
+{s} for Wizards
+{s} for Workgroups
+{s} for Writers
+{s} Gaming
+{s} getting a brands.town account
+{s} getting a city named after it
+{s} getting a comic about it
+{s} getting a CVE
+{s} getting a DMCA takedown notice
+{s} getting a documentary about it
+{s} getting a furry distro
+{s} getting a Hollywood film about it
+{s} getting a huge CVE
+{s} getting a JoJo character named after it
+{s} getting a manga about it
+{s} getting an anime about it
+{s} getting a new package manager
+{s} getting an HBO series about it
+{s} getting an Ugandan action film about it
+{s} getting a security breach
+{s} getting a Superbowl ad
+{s} getting a TV ad
+{s} getting a very inaccurate documentary about it
+{s} getting a virus
+{s} getting cancelled
+{s} getting glitterbombed by Vermin Supreme
+{s} getting got
+{s} getting its mascot Rule 34'd
+{s} getting riced
+{s} getting Rule 34'd
+{s} getting wrench-reacted
+{s} going back into the closet
+{s} going to the moon 🚀🚀🚀
+{s} hated by FOSS people
+{s} having an official Akkoma account
+{s} having an official CalcKey account
+{s} having an official Fediverse account
+{s} having an official FoundKey account
+{s} having an official Instagram account
+{s} having an official LinkedIn account
+{s} having an official Mastodon account
+{s} having an official Misskey account
+{s} having an official Pleroma account
+{s} having an official Soapbox account
+{s} having an official TikTok account
+{s} having an official YouTube account
+{s} having its fandom die out
+{s} hiring a controversial figure
+{s} in 10 Downing Street
+{s} in Busybox
+{s} in Chrome
+{s} in Emacs
+{s} in Family Guy
+{s} in Firefox
+{s} in Microsoft Excel
+{s} in Microsoft PowerPoint
+{s} in Minecraft Redstone
+{s} in RBMK Reactors
+{s} in SAP HANA
+{s} inside your head
+{s} inside your walls
+{s} in Smoke Detectors
+{s} in SPAAAAAAACE!
+{s} in Space
+{s} in the Browser
+{s} in the Classroom
+{s} in the Datacenter
+{s} in the Gravity Gun
+{s} in the Hydroelectric Dam
+{s} in the Lemonade Stand
+{s} in the Medical Implant
+{s} in the Metaverse
+{s} in the Nuclear Power Plant
+{s} in the Office
+{s} in the Pocketwatch
+{s} in the Pork Bun Stand
+{s} in the Portal Gun
+{s} in the Power Plant
+{s} in the Refrigerator
+{s} in the Sandwich
+{s} in the White House
+{s} in the Workplace
+{s} in Vim
+{s} in VR
+{s} in Wearables
+{s} IPOing
+{s} killing God
+{s}-kouhai
+{s}-kun
+{s} launching a nuclear weapon
+{s} liked by FOSS people
+{s} living rent-free in your head
+{s} making a cartoon with Disney
+{s} melting down like Chernobyl
+{s} melting down like Kanye
+{s} Music Production
+{s} on Arduino
+{s} on Embedded
+{s} on Fedi
+{s} on Mars
+{s} on Mobile
+{s} on the AC
+{s} on the Air Conditioner
+{s} on the Aircraft Carrier
+{s} on the Airplane
+{s} on the Airship
+{s} on the Ambassador-class Starship
+{s} on the Apple Watch
+{s} on the Automobile
+{s} on the Autonomous System
+{s} on the Calculator
+{s} on the Calculator Watch
+{s} on the Car
+{s} on the Cargo Ship
+{s} on the Casio Watch
+{s} on the Chessboard
+{s} on the Cloud
+{s} on the Console
+{s} on the Control Plane
+{s} on the Cosmic AC
+{s} on the Death Star
+{s} on the Defiant-class Starship
+{s} on the Desktop
+{s} on the Desktop
+{s} on the Desktop
+{s} on the Desktop
+{s} on the Desktop
+{s} on the Drawing Tablet
+{s} on the Dumb Terminal
+{s} on the ENIAC
+{s} on the Fighter Jet
+{s} on the Firearm
+{s} on the Flip Phone
+{s} on the Galactic AC
+{s} on the GameBoy
+{s} on the GameCube
+{s} on the Garbage Truck
+{s} on the GayStation
+{s} on the Graphing Calculator
+{s} on the Gun
+{s} on the HAL 9000
+{s} on the High-Performance Computing Cluster
+{s} on the Horse
+{s} on the Horse-Drawn Buggy
+{s} on the Horse-Drawn Carriage
+{s} on the Intercontinental Ballistic Missile
+{s} on the iPhone
+{s} on the Juicero
+{s} on the Laptop
+{s} on the Lisp Machine
+{s} on the Luggable
+{s} on the Main Battle Tank
+{s} on the Mainframe
+{s} on the Microvac
+{s} on the Microwave
+{s} on the Minicomputer
+{s} on the Missile Launcher
+{s} on the Moon
+{s} on the Multivac
+{s} on the NAS
+{s} on the Network Switch
+{s} on the new iPhone
+{s} on the new Macbook
+{s} on the new Meta VR headset
+{s} on the nil
+{s} on the Nintendo Bottom
+{s} on the Nintendo Switch
+{s} on the None
+{s} on the Nothing
+{s} on the Nuclear Submarine
+{s} on the null
+{s} on the [object Object]
+{s} on the PDA
+{s} on the Personal Computer
+{s} on the Photonic Computer
+{s} on the Positronic Computer
+{s} on the Protogen
+{s} on the Quantum Computer
+{s} on the Refrigerator
+{s} on the Router
+{s} on the Server
+{s} on the Smart Gun
+{s} on the Smartphone
+{s} on the Smartwatch
+{s} on the Supersonic Missile
+{s} on the Tablet
+{s} on the Technical
+{s} on the TI-83+ Graphing Calculator
+{s} on the TI-84 Graphing Calculator
+{s} on the TI-89 Graphing Calculator
+{s} on the TI-92 Graphing Calculator
+{s} on the Toaster
+{s} on the Toyota Corolla
+{s} on the Toyota Hilux
+{s} on the Tractor
+{s} on the Train
+{s} on the Truck
+{s} on the Turing Machine
+{s} on the undefined
+{s} on the Universal AC
+{s} on the Wi-Fi Hotspot
+{s} on the Wireless Access Point
+{s} on the You are trying to view Flash content, but you have no Flash plugin installed.
+{s} opening the Gate of Truth
+{s} ordering a pizza
+{s} over Tor
+{s} performing tax evasion
+{s} Piracy
+{s} pissing on a basement
+{s} prosecuted for tax evasion
+{s} rappin' for Jesus
+{s} rewritten as a web app
+{s} rewritten in Assembly
+{s} rewritten in Brainfuck
+{s} rewritten in C
+{s} rewritten in C#
+{s} rewritten in Fortran
+{s} rewritten in Go
+{s} rewritten in Haskell
+{s} rewritten in Java
+{s} rewritten in JavaScript
+{s} rewritten in Lua
+{s} rewritten in Python
+{s} rewritten in Rust
+{s} rewritten in Zig
+{s} running Crysis
+{s} running DOOM
+{s} seeing a resurgence
+{s} selling branded computer mice
+{s} selling branded condoms
+{s} selling branded drinks
+{s} selling branded edibles
+{s} selling branded juice
+{s} selling branded soda
+{s} selling cute plushies of its mascot
+{s}-senpai
+{s} slippin' an extra shrimp on the barbie for you
+{s} sponsored by 23andMe
+{s} sponsored by Audible
+{s} sponsored by Brilliant
+{s} sponsored by Crunchyroll
+{s} sponsored by Curiosity Stream
+{s} sponsored by Dollar Shave Club
+{s} sponsored by DoorDash
+{s} sponsored by Doritos
+{s} sponsored by ExpressVPN
+{s} sponsored by Genshin Impact
+{s} sponsored by GFuel
+{s} sponsored by Google Search
+{s} sponsored by Grammarly
+{s} sponsored by Honey
+{s} sponsored by Mountain Dew
+{s} sponsored by NordVPN
+{s} sponsored by Raid: Shadow Legends
+{s} sponsored by Raycon
+{s} sponsored by Razer
+{s} sponsored by Shopify
+{s} sponsored by Skillshare
+{s} sponsored by Squarespace
+{s} sponsored by War Thunder
+{s} sponsored by Wix
+{s} sponsoring an eSports team
+{s} starting a bloody revolution
+{s} starting a communist revolution
+{s} starting WW3
+{s} sued by Elon Musk for defamation
+{s} sued by Elon Musk for hurting his feelings
+{s} sued by Oracle
+{s} summoning The Elder Gods
+{s}-tan
+{s} triggering Ragnarok
+{s} with a little Tom Scott inside
