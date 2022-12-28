@@ -5,40 +5,26 @@ import os
 import random
 
 from datetime import datetime
-from pathlib import Path
+
+import data
 
 from pleroma import Pleroma
-
-
-DATA_DIR = Path(__file__).parent
-
-with (DATA_DIR / 'subjects.txt').open() as f:
-    SUBJECTS = [
-        l.strip() for l in f
-        if not l.isspace()
-    ]
-
-with (DATA_DIR / 'predictions.txt').open() as f:
-    PREDICTIONS = [
-        l.strip() for l in f
-        if not l.isspace()
-    ]
 
 
 def generate_prediction():
     today = datetime.now()
     y = random.randint(today.year, today.year + 25)
-    p = random.choice(PREDICTIONS)
+    p_template = random.choice(data.predictions)
 
     fmt_dict = {
-        f's{i}': random.choice(SUBJECTS)
+        f's{i}': random.choice(data.subjects)
         for i in range(1, 10)
     }
-    fmt_dict['s'] = random.choice(SUBJECTS)
+    fmt_dict['s'] = random.choice(data.subjects)
 
-    pred = p.format(**fmt_dict)
+    prediction = p_template.format(**fmt_dict)
 
-    return f'{y} will be the year of {pred}'
+    return f'{y} will be the year of {prediction}'
 
 
 async def main():
