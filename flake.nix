@@ -38,6 +38,7 @@
             meta = {
               description = "A Pleroma bot that makes technology predictions.";
               mainProgram = "year-of-bot.py";
+              license = lib.licenses.agpl3Only;
             };
           };
 
