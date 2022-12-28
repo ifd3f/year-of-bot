@@ -1,7 +1,9 @@
 '()
+23andMe
 9front
 Adobe Flash Player
 AIX
+Akkoma
 Alcohol
 Alpine
 Amazon Linux
@@ -9,16 +11,25 @@ AMD64
 AmigaOS
 AmogOS ඞ
 Android
+Android Studio
+Angels
+Apache
 Arch Linux
 ARM
 Artix
+Atom
+Audible
 AVR
 Bedrock Linux
 Benzos
 BESYS
 Biebian
+BlueJ
+Brilliant
 BSD
 Bungo Stray Dogs
+C#
+CalcKey
 Cannabis
 Catboys
 Catgirls
@@ -27,40 +38,60 @@ CentOwOs
 ChibiOS
 ChromeOS
 CISC architectures
+Clang
+CLion
 ClosedBSD
 COBOL
 Cocaine
+Code::Blocks
 CP/M
+Crunchyroll
 Crysis
+Curiosity Stream
 Damn Small Linux
 Damn Tasty Linux
 Damn Vulnerable Linux
+Dark Soul, protagonist of Dark Souls
 Darwin
 Data-Oriented Programming
 Debian
-Debian, the Linux for Lesbians,
+Debian (the Linux for Lesbians)
 Debinyan
 Docker
 Docker Swarm
+Dollar Shave Club
 Doom
+DoorDash
+Doritos
 DOS
+DrRacket
+Eclipse
 Eclipse Platform
+Elixir
 Emacs
 ExpensiveBSD
+ExpressVPN
+Fediverse
 Fedora
 Fedowa
 FeeBSD
 Femboys
 Firefox OS
 Fire OS
+FlashDevelop
 Fortran
+FoundKey
 FPGAs
 FreeBSD
 FreeDOS
 FreeNAS
 Functional Programming
+Geany
+Genshin Impact
 Gentoo
 GentUwU
+GFuel
+Github Copilot
 GNU
 GNU Hurd
 GNU + Linux
@@ -68,6 +99,8 @@ GNU++ Linux
 GNU/Linux
 Golang
 Google Fuchsia
+Google Search
+Grammarly
 Grapes
 GRUB 2
 GTK
@@ -81,11 +114,16 @@ Hannah Montana Linux
 Hashicorp Nomad
 Hello Kitty Slackware
 Heroin
+Honda Civic
+IDLE
+Instagram
+IntelliJ
 Internet Explorer
 iOS
 IPv6
 Itanium
 Java
+JetBrains Fleet
 Jewbuntu
 John Carmack
 John Mastodon
@@ -95,37 +133,46 @@ Kali Linux
 Ketamine
 Kubernetes
 LC-3
+Leafpad
 Lennart Poettering
+LibGen
 Libvirt
+LinkedIn
 Linus Torvalds
 Linux
-Linux
-Linux
-Linux
-Linux
-Linux
+LLVM
 LSD
 LXC
 LXC
 MacOS
 Marijuana
 Mark Zuckerberg
+Mastodon
 Metasploitable
 Methamphetamine
 MIPS
+Misskey
 Moeubuntu
+MonoDevelop
+Mountain Dew
 MS-DOS
 MSP430
 NaN
+Nano
+.NET
+NetBeans
 NetBSD
+Nginx
 nil
 NixOS
 NixOwOs
 None pizza with left beef
+NordVPN
 Nothing
 Nuclear Fusion
 null
 Nyaarch Linyux
+nyaa.se
 [object Object]
 Object-Oriented Programming
 OCI containers
@@ -137,19 +184,29 @@ OpenVMS
 Oracle Linux
 PDP-11
 pfSense
+PHP
 PIC
 Plan 10
 Plan 9
 Plan 9
 Plants vs Zombies
+Pleroma
 Podman
 Poobuntu
 Power Glove
 PowerPC
 Proxmox
+PyCharm
+Pyro TF2
+Python
 Qt
+Qt Creator
 Quantum Computing
 Qubes OS
+Raid: Shadow Legends
+Rats
+Raycon
+Razer
 ReactOS
 Rebecca Black OS
 Redox
@@ -159,17 +216,29 @@ Richard M. Stallman
 RISC architectures
 RISC-V
 ROS
+RStudio
+Ruby
 Runit
 Rust
 Sabayon Linux
+Scala
+Sci-Hub
+Shit
 Shit Linux
+Shopify
 Shrooms
+Skillshare
 Skyrim
 Skyrim Anniversary Edition
 Slackware
+SlickEdit
+Smalltalk
 Snackware
+Soapbox
 Solaris
+Spacemacs
 SPARC
+Squarespace
 Steam OS
 Suicide Linux
 SunOS
@@ -180,12 +249,20 @@ Systemd
 TempleOS
 the Dark Web
 the World Wide Web
+TI-83+ Graphing Calculator
+TI-84 Graphing Calculator
+TI-89 Graphing Calculator
+TI-92 Graphing Calculator
 TI-Basic
+TikTok
 Tim Apple
 Tinfoil Hat Linux
 Tobacco
+Tomboy Editor
 Tomboys
 Tom Scott
+Toyota Corolla
+Toyota Hilux
 uBoot
 Ubuntu
 Ubuntu Christian Edition
@@ -197,11 +274,17 @@ Unix
 UwUntu
 Vim
 Virtual Boy
+Visual Studio
+Visual Studio Code
+Vivado
 VMS
 Vodka
 Void Linux
+Volkswagen Beetle
 vSphere
+War Thunder
 Wear OS
+WebStorm
 Weed
 Whiskey
 Windows
@@ -209,8 +292,11 @@ Windows 10
 Windows 9
 Windows Server
 Windows Vista
+Wix
 x86
+XCode
 YiffOS
 Yo Momma
 You are trying to view Flash content, but you have no Flash plugin installed.
+YouTube
 Z80

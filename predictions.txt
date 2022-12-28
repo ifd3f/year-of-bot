@@ -1,3 +1,34 @@
+{s1} becoming an {s2} project
+{s1} becoming {s2} but better
+{s1} being the Apollo to {s2}'s Dionysus
+{s1} being the Romeo to {s2}'s Juliet
+{s1} calling {s2} "woke"
+{s1} dating {s2}
+{s1} developers hating on {s2}
+{s1} eloping with {s2}
+{s1} emulated in {s2}
+{s1} fighting {s2}
+{s1} for {s2}
+{s1} for {s2} users
+{s1} in {s2}
+{s1} like {s2} with {s3}
+{s1} merging with {s2}
+{s1} ported to {s2}
+{s1} revolting against {s2}
+{s1} stealing {s2}'s mascot
+{s1} suing {s2}
+{s1} suing {s2} for being a lamer version of {s1}
+{s1} suing {s2} for copyright infringement
+{s1} turning into {s2}
+{s1} turning into {s2} for {s3}
+{s1} users beating up {s2} users
+{s1} users breaking up with {s2} users
+{s1} users collaborating with {s2}
+{s1} users dating {s2} users
+{s1} users eating {s2} users
+{s1} users fighting {s2} users
+{s1} users fucking {s2} users
+{s1} users kissing {s2} users
 {s} abandoning FHS
 {s} added to a Toyota Hilux to turn it into a technical
 {s} adding ActivityPub support
@@ -72,6 +103,7 @@
 {s} collaborating with 100 Gecs
 {s} collaborating with Adidas
 {s} collaborating with Arknights
+{s} collaborating with a video game
 {s} collaborating with Barbie
 {s} collaborating with Burger King
 {s} collaborating with Coke
@@ -103,6 +135,7 @@
 {s} collaborating with Popeye's
 {s} collaborating with Ray-Ban
 {s} collaborating with Razer
+{s} collaborating with Sci-Hub
 {s} collaborating with Sony
 {s} collaborating with Star Wars
 {s} collaborating with Sun Microsystems
@@ -336,6 +369,7 @@
 {s} having an official Mastodon account
 {s} having an official Misskey account
 {s} having an official Pleroma account
+{s} having an official Reddit account
 {s} having an official Soapbox account
 {s} having an official TikTok account
 {s} having an official YouTube account
@@ -415,10 +449,6 @@
 {s} on the Cosmic AC
 {s} on the Death Star
 {s} on the Defiant-class Starship
-{s} on the Desktop
-{s} on the Desktop
-{s} on the Desktop
-{s} on the Desktop
 {s} on the Desktop
 {s} on the Drawing Tablet
 {s} on the Dumb Terminal
@@ -528,6 +558,8 @@
 {s} selling branded juice
 {s} selling branded soda
 {s} selling cute plushies of its mascot
+{s} selling scary plushies of its mascot
+{s} selling ugly plushies of its mascot
 {s}-senpai
 {s} slippin' an extra shrimp on the barbie for you
 {s} sponsored by 23andMe
@@ -565,3 +597,6 @@
 {s}-tan
 {s} triggering Ragnarok
 {s} with a little Tom Scott inside
+the Holy Trinity of {s1}, {s2}, and {s3}
+the {s1} community feuding with the {s2} community
+the {s1} community renouncing it and moving to {s2}
