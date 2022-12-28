@@ -22,6 +22,7 @@ adopting a trans fox as its mascot
 adopting a vegetable as its mascot
 adopting a window as its mascot
 and Knuckles
+asking "who asked"
 becoming abandoned
 becoming a Cloud Native Computing Foundation project
 becoming a conscious AI
@@ -50,18 +51,16 @@ becoming rolling-release
 becoming smaller
 becoming unmaintained
 becoming unpopular
-being bought by Amazon
-being bought by Apple
-being bought by Disney
-being bought by Elon Musk
-being bought by Meta
-being bought by Microsoft
-being bought by Tencent
-being bought by the Koch Brother
-being bought by Warren Buffett
-being hated by FOSS people
-being liked by FOSS people
 being open-sourced
+bought by Amazon
+bought by Apple
+bought by Disney
+bought by Elon Musk
+bought by Meta
+bought by Microsoft
+bought by Tencent
+bought by the Koch Brother
+bought by Warren Buffett
 cancelling its creator
 causing an unplanned explosion
 causing a rapid unplanned disassembly
@@ -121,11 +120,13 @@ collaborating with the NSA
 collaborating with Valve Software
 coming out as a brony
 coming out as a furry
+coming out as a scalie
 coming out as bisexual
 coming out as four kittens in a trench coat
 coming out as gay
 coming out as lesbian
 coming out as non-binary
+coming out as plural
 coming out as trans
 committing a war crime
 compromising on its morals
@@ -133,6 +134,7 @@ Considered Bloat
 Considered Harmful
 Considered Harmless
 considered political
+considered problematic
 consuming the galaxy
 consuming the moon
 consuming the sun
@@ -142,6 +144,7 @@ creating the Philosopher's Stone
 destroying the universe
 exploding in a beautiful wreck
 fighting God
+filing for bankruptcy
 flopping
 for Anarchists
 for Angels
@@ -175,10 +178,12 @@ for C Purists
 for CS:GO Players
 for Democrats
 for Devils
+for Disney Lawyers
 for Dogboys
 for Doggirls
 for Dogs
 for Doms
+for Dudeists
 for Dummies
 for Economists
 for edge computing
@@ -236,16 +241,21 @@ for Mice
 for Mobile Task Force units
 for Muslims
 for Nerds
+for Oracle Lawyers
 for Otters
 for Parrots
+for Pastafarians
 for Penguins
 for Photographers
 for Pirates
+for Plural Systems
 for Pokemon fans
 for Posadists
+for privacy-obsessed crazies
 for Protogens
 for Punks
 for Republicans
+for Rule 34 Artists
 for Scalies
 for scientific computing
 for Scientists
@@ -267,8 +277,10 @@ for Technology Sisters
 for TF2 players
 for the BTS ARMY
 for the GameCube
+for Theists
 for the PlayStation
 for the PlayStation 2
+for the Royal Family
 for the XBox
 for Tops
 for Tories
@@ -288,6 +300,7 @@ Gaming
 getting a brands.town account
 getting a city named after it
 getting a comic about it
+getting a CVE
 getting a DMCA takedown notice
 getting a documentary about it
 getting a furry distro
@@ -299,16 +312,36 @@ getting an anime about it
 getting a new package manager
 getting an HBO series about it
 getting an Ugandan action film about it
+getting a security breach
 getting a Superbowl ad
 getting a TV ad
 getting a very inaccurate documentary about it
 getting a virus
 getting cancelled
 getting glitterbombed by Vermin Supreme
+getting got
+getting its mascot Rule 34'd
 getting riced
+getting Rule 34'd
 getting wrench-reacted
+going back into the closet
 going to the moon 🚀🚀🚀
+hated by FOSS people
+having an official Akkoma account
+having an official CalcKey account
+having an official Fediverse account
+having an official FoundKey account
+having an official Instagram account
+having an official LinkedIn account
+having an official Mastodon account
+having an official Misskey account
+having an official Pleroma account
+having an official Soapbox account
+having an official TikTok account
+having an official YouTube account
 having its fandom die out
+hiring a controversial figure
+in 10 Downing Street
 in Busybox
 in Chrome
 in Emacs
@@ -349,6 +382,8 @@ IPOing
 killing God
 -kouhai
 -kun
+launching a nuclear weapon
+liked by FOSS people
 living rent-free in your head
 making a cartoon with Disney
 melting down like Chernobyl
@@ -419,6 +454,9 @@ on the Moon
 on the Multivac
 on the NAS
 on the Network Switch
+on the new iPhone
+on the new Macbook
+on the new Meta VR headset
 on the nil
 on the Nintendo Bottom
 on the Nintendo Switch
@@ -459,9 +497,13 @@ on the Wi-Fi Hotspot
 on the Wireless Access Point
 on the You are trying to view Flash content, but you have no Flash plugin installed.
 opening the Gate of Truth
+ordering a pizza
 over Tor
+performing tax evasion
 Piracy
 pissing on a basement
+prosecuted for tax evasion
+rappin' for Jesus
 rewritten as a web app
 rewritten in Assembly
 rewritten in Brainfuck
@@ -476,6 +518,8 @@ rewritten in Lua
 rewritten in Python
 rewritten in Rust
 rewritten in Zig
+running Crysis
+running DOOM
 seeing a resurgence
 selling branded computer mice
 selling branded condoms
@@ -486,7 +530,37 @@ selling branded soda
 selling cute plushies of its mascot
 -senpai
 slippin' an extra shrimp on the barbie for you
+sponsored by 23andMe
+sponsored by Audible
+sponsored by Brilliant
+sponsored by Crunchyroll
+sponsored by Curiosity Stream
+sponsored by Dollar Shave Club
+sponsored by DoorDash
+sponsored by Doritos
+sponsored by ExpressVPN
+sponsored by Genshin Impact
+sponsored by GFuel
+sponsored by Google Search
+sponsored by Grammarly
+sponsored by Honey
+sponsored by Mountain Dew
+sponsored by NordVPN
+sponsored by Raid: Shadow Legends
+sponsored by Raycon
+sponsored by Razer
+sponsored by Shopify
+sponsored by Skillshare
+sponsored by Squarespace
+sponsored by War Thunder
+sponsored by Wix
 sponsoring an eSports team
+starting a bloody revolution
+starting a communist revolution
+starting WW3
+sued by Elon Musk for defamation
+sued by Elon Musk for hurting his feelings
+sued by Oracle
 summoning The Elder Gods
 -tan
 triggering Ragnarok
