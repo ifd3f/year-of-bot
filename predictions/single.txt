@@ -1,35 +1,12 @@
-{s1} becoming an {s2} project
-{s1} becoming {s2} but better
-{s1} being the Apollo to {s2}'s Dionysus
-{s1} being the Romeo to {s2}'s Juliet
-{s1} calling {s2} "woke"
-{s1} dating {s2}
-{s1} developers hating on {s2}
-{s1} eloping with {s2}
-{s1} emulated in {s2}
-{s1} fighting {s2}
-{s1} for {s2}
-{s1} for {s2} users
-{s1} in {s2}
-{s1} like {s2} with {s3}
-{s1} merging with {s2}
-{s1} ported to {s2}
-{s1} revolting against {s2}
-{s1} stealing {s2}'s mascot
-{s1} suing {s2}
-{s1} suing {s2} for being a lamer version of {s1}
-{s1} suing {s2} for copyright infringement
-{s1} turning into {s2}
-{s1} turning into {s2} for {s3}
-{s1} users beating up {s2} users
-{s1} users breaking up with {s2} users
-{s1} users collaborating with {s2}
-{s1} users dating {s2} users
-{s1} users eating {s2} users
-{s1} users fighting {s2} users
-{s1} users fucking {s2} users
-{s1} users kissing {s2} users
+a foam pit at an {s} convention causing injuries
+an abandoned ball pit at an {s} convention
+Anarcho-{s}ism
+{s}
 {s} abandoning FHS
+{s} accelerating global warming
+{s} accidentally creating Fediverse discourse
+{s} accidentally creating Reddit discourse
+{s} accidentally creating Twitter discourse
 {s} added to a Toyota Hilux to turn it into a technical
 {s} adding ActivityPub support
 {s} adding OpenID support
@@ -93,6 +70,7 @@
 {s} bought by the Koch Brother
 {s} bought by Warren Buffett
 {s} cancelling its creator
+{s} causing a natural disaster
 {s} causing an unplanned explosion
 {s} causing a rapid unplanned disassembly
 {s} causing a rapid unplanned disassembly on the launchpad
@@ -299,6 +277,7 @@
 {s} for Skeletons
 {s} for Small Businesses
 {s} for Sonic fans
+{s} for space heating
 {s} for Streamers
 {s} for Subs
 {s} for Succubi
@@ -507,6 +486,7 @@
 {s} on the Smart Gun
 {s} on the Smartphone
 {s} on the Smartwatch
+{s} on the Space Heater
 {s} on the Supersonic Missile
 {s} on the Tablet
 {s} on the Technical
@@ -534,6 +514,7 @@
 {s} pissing on a basement
 {s} prosecuted for tax evasion
 {s} rappin' for Jesus
+{s} replacing your space heater
 {s} rewritten as a web app
 {s} rewritten in Assembly
 {s} rewritten in Brainfuck
@@ -550,6 +531,7 @@
 {s} rewritten in Zig
 {s} running Crysis
 {s} running DOOM
+{s}'s creator taking hostages at a bank
 {s} seeing a resurgence
 {s} selling branded computer mice
 {s} selling branded condoms
@@ -597,6 +579,3 @@
 {s}-tan
 {s} triggering Ragnarok
 {s} with a little Tom Scott inside
-the Holy Trinity of {s1}, {s2}, and {s3}
-the {s1} community feuding with the {s2} community
-the {s1} community renouncing it and moving to {s2}

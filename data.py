@@ -9,9 +9,11 @@ with (data_dir / 'subjects.txt').open() as f:
         if not l.isspace()
     ]
 
-with (data_dir / 'predictions.txt').open() as f:
-    predictions = [
-        l.strip() for l in f
-        if not l.isspace()
-    ]
+for file in (data_dir / 'predictions').glob('*.txt'):
+    predictions = []
+    with file.open() as f:
+        predictions.append([
+            l.strip() for l in f
+            if not l.isspace()
+        ])
 

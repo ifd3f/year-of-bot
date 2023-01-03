@@ -1,5 +1,8 @@
-#!/bin/sh
+#!/usr/bin/env bash
 
-sort -f -o predictions.txt predictions.txt
-sort -f -o subjects.txt subjects.txt
+files=(subjects.txt predictions/*.txt)
+
+for f in "${files[@]}"; do
+    sort -f -o "$f" "$f"
+done
 

@@ -31,8 +31,12 @@
 
             installPhase = ''
               mkdir -p $out/bin
-              cp * $out/bin
+              cp -r * $out/bin
               chmod +x $out/bin/year-of-bot.py
+            '';
+
+            verifyPhase = ''
+              $out/bin/year-of-bot.py verify
             '';
 
             meta = {

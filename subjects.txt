@@ -1,6 +1,8 @@
 '()
+100 Gecs
 23andMe
 9front
+Adidas
 Adobe Flash Player
 AIX
 Akkoma
@@ -15,26 +17,34 @@ Android Studio
 Angels
 Apache
 Arch Linux
+Arknights
 ARM
 Artix
 Atom
 Audible
+a video game
 AVR
+Barbie
 Bedrock Linux
 Benzos
 BESYS
 Biebian
+Bitcoin
+BitConnect
 BlueJ
 Brilliant
 BSD
 Bungo Stray Dogs
+Burger King
 C#
 CalcKey
 Cannabis
+Cardano
 Catboys
 Catgirls
 CentOS
 CentOwOs
+Chaos Computer Club
 ChibiOS
 ChromeOS
 CISC architectures
@@ -44,8 +54,11 @@ ClosedBSD
 COBOL
 Cocaine
 Code::Blocks
+Coke
+Counter-Strike: Global Offensive
 CP/M
 Crunchyroll
+Cryptocurrency
 Crysis
 Curiosity Stream
 Damn Small Linux
@@ -54,14 +67,19 @@ Damn Vulnerable Linux
 Dark Soul, protagonist of Dark Souls
 Darwin
 Data-Oriented Programming
+Debate Streamers
 Debian
 Debian (the Linux for Lesbians)
 Debinyan
+Disney
 Docker
 Docker Swarm
+Dogecoin
+Doges
 Dollar Shave Club
 Doom
 DoorDash
+Dorian Electra
 Doritos
 DOS
 DrRacket
@@ -69,12 +87,14 @@ Eclipse
 Eclipse Platform
 Elixir
 Emacs
+Eminem
+Ethereum
 ExpensiveBSD
 ExpressVPN
+FaZe
 Fediverse
 Fedora
 Fedowa
-FeeBSD
 Femboys
 Firefox OS
 Fire OS
@@ -85,6 +105,7 @@ FPGAs
 FreeBSD
 FreeDOS
 FreeNAS
+Frito-Lay
 Functional Programming
 Geany
 Genshin Impact
@@ -92,10 +113,10 @@ Gentoo
 GentUwU
 GFuel
 Github Copilot
+Gloryhammer
 GNU
 GNU Hurd
 GNU + Linux
-GNU++ Linux
 GNU/Linux
 Golang
 Google Fuchsia
@@ -104,19 +125,27 @@ Grammarly
 Grapes
 GRUB 2
 GTK
-Guix
+Gucci
 Guix
 GUN + Linux
 GUN/Linux
+HAL 9000
 Halal Linux
 Hallucinogens
 Hannah Montana Linux
+Harry Potter
 Hashicorp Nomad
 Hello Kitty Slackware
 Heroin
 Honda Civic
+Honey
+ICE
 IDLE
+IndieWeb
+Influencers
+In-N-Out
 Instagram
+Intel
 IntelliJ
 Internet Explorer
 iOS
@@ -127,32 +156,42 @@ JetBrains Fleet
 Jewbuntu
 John Carmack
 John Mastodon
+Justin Bieber
 Justin Bieber Linux
 k3os
 Kali Linux
 Ketamine
+KFC
+KodakCoin
 Kubernetes
+Lady Gaga
 LC-3
 Leafpad
+League of Legends
 Lennart Poettering
 LibGen
 Libvirt
+Lifestyle Vloggers
 LinkedIn
 Linus Torvalds
 Linux
+Litecoin
 LLVM
 LSD
 LXC
-LXC
 MacOS
+Maia Crimew
 Marijuana
 Mark Zuckerberg
 Mastodon
+McDonald's
 Metasploitable
 Methamphetamine
+Microcelebrities
 MIPS
 Misskey
 Moeubuntu
+Monero
 MonoDevelop
 Mountain Dew
 MS-DOS
@@ -162,6 +201,7 @@ Nano
 .NET
 NetBeans
 NetBSD
+NFTs
 Nginx
 nil
 NixOS
@@ -182,17 +222,23 @@ OpenSUSE
 OpenSUS ඞ
 OpenVMS
 Oracle Linux
+Parasocials
 PDP-11
+Pepsi
 pfSense
 PHP
 PIC
+Pizza Hunt
+Pizza Hut
+Pizza the Hutt
 Plan 10
-Plan 9
 Plan 9
 Plants vs Zombies
 Pleroma
 Podman
+Pokemon
 Poobuntu
+Popeye's
 Power Glove
 PowerPC
 Proxmox
@@ -202,9 +248,12 @@ Python
 Qt
 Qt Creator
 Quantum Computing
+Quantum-Resistant Cryptography
 Qubes OS
 Raid: Shadow Legends
+Rantsonas
 Rats
+Ray-Ban
 Raycon
 Razer
 ReactOS
@@ -235,19 +284,34 @@ SlickEdit
 Smalltalk
 Snackware
 Soapbox
+Social Media
 Solaris
+Sony
 Spacemacs
 SPARC
 Squarespace
+Star Wars
 Steam OS
 Suicide Linux
+Sun Microsystems
 SunOS
 SunOwOs
 Super Mario
+Supreme
 System/390
 Systemd
+Taco Bell
+Taylor Swift
+Team Fortress 2
 TempleOS
+the Chinese Government
 the Dark Web
+the European Union
+the FBI
+the FSB
+the Interpol
+the KGB
+the NSA
 the World Wide Web
 TI-83+ Graphing Calculator
 TI-84 Graphing Calculator
@@ -257,12 +321,15 @@ TI-Basic
 TikTok
 Tim Apple
 Tinfoil Hat Linux
+Titcoin
 Tobacco
 Tomboy Editor
 Tomboys
 Tom Scott
 Toyota Corolla
 Toyota Hilux
+Tron
+TRX
 uBoot
 Ubuntu
 Ubuntu Christian Edition
@@ -272,10 +339,13 @@ Ubuntu Touch
 undefined
 Unix
 UwUntu
+Valve Software
+Video Essays
 Vim
 Virtual Boy
 Visual Studio
 Visual Studio Code
+Vitalik Buterin
 Vivado
 VMS
 Vodka
@@ -295,8 +365,10 @@ Windows Vista
 Wix
 x86
 XCode
+XRP
 YiffOS
 Yo Momma
 You are trying to view Flash content, but you have no Flash plugin installed.
 YouTube
 Z80
+Zcash

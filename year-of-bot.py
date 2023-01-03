@@ -15,7 +15,7 @@ from pleroma import Pleroma
 def generate_prediction():
     today = datetime.now()
     y = random.randint(today.year, today.year + 25)
-    p_template = random.choice(data.predictions)
+    p_template = random.choice(random.choice(data.predictions))
 
     fmt_dict = generate_fmt_dict()
 
@@ -40,8 +40,9 @@ async def main():
 
 def verify_data():
     d = generate_fmt_dict()
-    for t in data.predictions:
-        t.format(**d)
+    for g in data.predictions:
+        for t in g:
+            t.format(**d)
     print("All predictions are OK")
 
 
