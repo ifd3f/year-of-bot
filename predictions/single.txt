@@ -57,6 +57,7 @@ Anarcho-{s}ism
 {s} becoming illegal
 {s} becoming rolling-release
 {s} becoming smaller
+{s} becoming Speaker of the House
 {s} becoming unmaintained
 {s} becoming unpopular
 {s} being open-sourced
@@ -398,6 +399,7 @@ Anarcho-{s}ism
 {s} launching a nuclear weapon
 {s} liked by FOSS people
 {s} living rent-free in your head
+{s} losing the vote for Speaker of the House
 {s} making a cartoon with Disney
 {s} melting down like Chernobyl
 {s} melting down like Kanye
