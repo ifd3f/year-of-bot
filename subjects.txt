@@ -2,60 +2,91 @@
 100 Gecs
 23andMe
 9front
+Acer
 Adidas
 Adobe Flash Player
+AES Encryption
 AIX
 Akkoma
 Alcohol
+Alienware
 Alpine
 Amazon Linux
 AMD64
 AmigaOS
 AmogOS ඞ
+Amplitude Modulation
+Anarchists
+Androgyny
 Android
 Android Studio
 Angels
 Apache
+Apple
+Apple I
+Apple II
+APRS
 Arch Linux
 Arknights
 ARM
 Artix
+ASUS
+aSUS ඞ
+Atari
 Atom
 Audible
-a video game
 AVR
 Barbie
+BBC Micro
 Bedrock Linux
 Benzos
 BESYS
+Bethesda
 Biebian
 Bitcoin
 BitConnect
+Blackberry
 BlueJ
 Brilliant
 BSD
 Bungo Stray Dogs
 Burger King
+Bytedance
 C#
 CalcKey
+California
 Cannabis
 Cardano
 Catboys
 Catgirls
+CD Projekt Red
 CentOS
 CentOwOs
 Chaos Computer Club
 ChibiOS
+Chinese Government
+Chromebook
 ChromeOS
+CIA
 CISC architectures
+Civ Meier
 Clang
 CLion
 ClosedBSD
 COBOL
 Cocaine
 Code::Blocks
+Cogent Communications
 Coke
+Colorado
+Commodore 64
+Commodore PET
+Communists
+Cooler Master
+Corsair
+Corvids
 Counter-Strike: Global Offensive
+COVID-19
 CP/M
 Crunchyroll
 Cryptocurrency
@@ -65,13 +96,18 @@ Damn Small Linux
 Damn Tasty Linux
 Damn Vulnerable Linux
 Dark Soul, protagonist of Dark Souls
+Dark Web
 Darwin
 Data-Oriented Programming
+Death Star
 Debate Streamers
 Debian
 Debian (the Linux for Lesbians)
 Debinyan
+Dell
+Digital Equipment Corporation
 Disney
+DMR Radio
 Docker
 Docker Swarm
 Dogecoin
@@ -88,25 +124,43 @@ Eclipse Platform
 Elixir
 Emacs
 Eminem
+Epic Games
+Epson
+Estradiol Valerate
 Ethereum
+European Union
 ExpensiveBSD
 ExpressVPN
 FaZe
+FBI
+FBI
 Fediverse
 Fedora
 Fedowa
 Femboys
+Feminization
 Firefox OS
 Fire OS
+Fishsonas
 FlashDevelop
+Florida
 Fortran
 FoundKey
+Foxconn
 FPGAs
+Framework Laptop
 FreeBSD
 FreeDOS
 FreeNAS
+Frequency Modulation
 Frito-Lay
+FSB
+FSB
+FT8
+Fujitsu
 Functional Programming
+Fursonas
+Gabe Newell
 Geany
 Genshin Impact
 Gentoo
@@ -129,16 +183,25 @@ Gucci
 Guix
 GUN + Linux
 GUN/Linux
+Hackers on Estradiol
 HAL 9000
 Halal Linux
 Hallucinogens
+Ham Radio
 Hannah Montana Linux
 Harry Potter
 Hashicorp Nomad
 Hello Kitty Slackware
 Heroin
+Hewlett-Packard
 Honda Civic
 Honey
+Horny
+HTC
+Huawei
+Hulu
+Hurricane Electric
+IBM
 ICE
 IDLE
 IndieWeb
@@ -148,6 +211,7 @@ Instagram
 Intel
 IntelliJ
 Internet Explorer
+Interpol
 iOS
 IPv6
 Itanium
@@ -162,13 +226,18 @@ k3os
 Kali Linux
 Ketamine
 KFC
+KGB
 KodakCoin
 Kubernetes
 Lady Gaga
 LC-3
 Leafpad
 League of Legends
+League of Legends
 Lennart Poettering
+Lenovo
+LenOwO
+LG
 LibGen
 Libvirt
 Lifestyle Vloggers
@@ -178,43 +247,62 @@ Linux
 Litecoin
 LLVM
 LSD
+Lucasfilm
 LXC
 MacOS
 Maia Crimew
 Marijuana
 Mark Zuckerberg
+Marvel
+Marvel Cinematic Universe
+Masculinization
 Mastodon
 McDonald's
 Metasploitable
 Methamphetamine
+MI6
 Microcelebrities
+Microsoft
+Microsoft Surface
 MIPS
 Misskey
+Moderna
 Moeubuntu
 Monero
 MonoDevelop
+Moonbounce
+Morse Code
+Mothboys
+Mothgirls
+Moths
 Mountain Dew
 MS-DOS
+MSI
 MSP430
 NaN
 Nano
 .NET
 NetBeans
 NetBSD
+New York
 NFTs
 Nginx
 nil
 NixOS
 NixOwOs
+Nokia
 None pizza with left beef
 NordVPN
 Nothing
+NSA
 Nuclear Fusion
 null
+Nvidia
 Nyaarch Linyux
 nyaa.se
 [object Object]
 Object-Oriented Programming
+Obsidian
 OCI containers
 Onions
 OpenBSD
@@ -222,9 +310,13 @@ OpenSUSE
 OpenSUS ඞ
 OpenVMS
 Oracle Linux
+Packet Radio
+Palm Pilot
 Parasocials
+Paxlovid
 PDP-11
 Pepsi
+Pfizer
 pfSense
 PHP
 PIC
@@ -241,6 +333,7 @@ Poobuntu
 Popeye's
 Power Glove
 PowerPC
+Progesterone
 Proxmox
 PyCharm
 Pyro TF2
@@ -260,8 +353,10 @@ ReactOS
 Rebecca Black OS
 Redox
 Red Star OS
+Republic of Gamers
 RHEL
 Richard M. Stallman
+Riot Games
 RISC architectures
 RISC-V
 ROS
@@ -270,12 +365,16 @@ Ruby
 Runit
 Rust
 Sabayon Linux
+Samsung
 Scala
 Sci-Hub
+Sega
 Shit
 Shit Linux
 Shopify
 Shrooms
+Sid Meier
+Single Sideband
 Skillshare
 Skyrim
 Skyrim Anniversary Edition
@@ -289,8 +388,13 @@ Solaris
 Sony
 Spacemacs
 SPARC
+Spidergirls
+Spiders
+Spironolactone
 Squarespace
+SSTV
 Star Wars
+Steam
 Steam OS
 Suicide Linux
 Sun Microsystems
@@ -299,20 +403,17 @@ SunOwOs
 Super Mario
 Supreme
 System/390
+System76
 Systemd
 Taco Bell
 Taylor Swift
 Team Fortress 2
 TempleOS
-the Chinese Government
-the Dark Web
-the European Union
-the FBI
-the FSB
-the Interpol
-the KGB
-the NSA
-the World Wide Web
+Tencent
+Testosterone undecanoate
+Texas
+Texas Instruments
+ThinkPad
 TI-83+ Graphing Calculator
 TI-84 Graphing Calculator
 TI-89 Graphing Calculator
@@ -326,6 +427,7 @@ Tobacco
 Tomboy Editor
 Tomboys
 Tom Scott
+Toshiba
 Toyota Corolla
 Toyota Hilux
 Tron
@@ -339,6 +441,7 @@ Ubuntu Touch
 undefined
 Unix
 UwUntu
+VAIO
 Valve Software
 Video Essays
 Vim
@@ -363,8 +466,11 @@ Windows 9
 Windows Server
 Windows Vista
 Wix
+World Wide Web
+Wyoming
 x86
 XCode
+Xiaomi
 XRP
 YiffOS
 Yo Momma
@@ -372,3 +478,4 @@ You are trying to view Flash content, but you have no Flash plugin installed.
 YouTube
 Z80
 Zcash
+ZX Spectrum

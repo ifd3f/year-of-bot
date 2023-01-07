@@ -1,10 +1,14 @@
 {s1} accidentally reinventing {s2}
+{s1} acquired by {s2}
+{s1} baking a cake for {s2}
 {s1} becoming an {s2} project
 {s1} becoming {s2} but better
 {s1} being adopted by {s2}
 {s1} being the Apollo to {s2}'s Dionysus
 {s1} being the Romeo to {s2}'s Juliet
+{s1} bought by {s2}
 {s1} calling {s2} "woke"
+{s1} cancelling {s2}
 {s1} collaborating with {s2}
 {s1} considered {s2} with {s3}
 {s1} dating {s2}
@@ -12,6 +16,7 @@
 {s1} developers sleeping with {s2} developers
 {s1} eloping with {s2}
 {s1} emulated in {s2}
+{s1} fediblocking {s2}
 {s1} fighting {s2}
 {s1} for {s2}
 {s1} for {s2} developers
@@ -39,6 +44,7 @@
 {s1} users kissing {s2} users
 {s1} users sleeping with {s2} users
 {s1} with {s2} characteristics
+{s1} writing a call-out post about {s2}
 something like {s1} if it was actually {s2} with {s3}
 something like {s1} if it was made by {s2} developers
 something like {s1} with {s2}
