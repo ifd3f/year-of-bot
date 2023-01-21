@@ -154,6 +154,7 @@ Anarcho-{s}ism
 {s} creating a black hole
 {s} creating the Philosopher's Stone
 {s} destroying the universe
+{s} ending a popular product against all common sense
 {s} exploding in a beautiful wreck
 {s} fighting God
 {s} filing for bankruptcy
@@ -517,6 +518,8 @@ Anarcho-{s}ism
 {s} pissing on a basement
 {s} prosecuted for tax evasion
 {s} rappin' for Jesus
+{s} releasing a cool new product
+{s} releasing a hot new product
 {s} replacing your space heater
 {s} rewritten as a web app
 {s} rewritten in Assembly

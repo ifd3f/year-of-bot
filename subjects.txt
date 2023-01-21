@@ -5,6 +5,7 @@
 Acer
 Adidas
 Adobe Flash Player
+Adversarial Neural Networks
 AES Encryption
 AIX
 Akkoma
@@ -21,6 +22,7 @@ Androgyny
 Android
 Android Studio
 Angels
+Anytone
 Apache
 Apple
 Apple I
@@ -30,12 +32,15 @@ Arch Linux
 Arknights
 ARM
 Artix
+Asexuality
 ASUS
 aSUS ඞ
 Atari
 Atom
 Audible
+Autoencoder Neural Networks
 AVR
+Baofeng
 Barbie
 BBC Micro
 Bedrock Linux
@@ -43,14 +48,19 @@ Benzos
 BESYS
 Bethesda
 Biebian
+Bisexuality
 Bitcoin
 BitConnect
 Blackberry
 BlueJ
+Boeing
+Bonds
 Brilliant
 BSD
+Buddhism
 Bungo Stray Dogs
 Burger King
+Bussy
 Bytedance
 C#
 CalcKey
@@ -59,12 +69,15 @@ Cannabis
 Cardano
 Catboys
 Catgirls
+Catholicism
 CD Projekt Red
 CentOS
 CentOwOs
 Chaos Computer Club
+Cheerios
 ChibiOS
 Chinese Government
+Christianity
 Chromebook
 ChromeOS
 CIA
@@ -74,6 +87,7 @@ Clang
 CLion
 ClosedBSD
 COBOL
+Coca-Cola
 Cocaine
 Code::Blocks
 Cogent Communications
@@ -82,6 +96,8 @@ Colorado
 Commodore 64
 Commodore PET
 Communists
+Congress
+Convolutional Neural Networks
 Cooler Master
 Corsair
 Corvids
@@ -91,7 +107,9 @@ CP/M
 Crunchyroll
 Cryptocurrency
 Crysis
+Crystal Meth
 Curiosity Stream
+Daddy kinks
 Damn Small Linux
 Damn Tasty Linux
 Damn Vulnerable Linux
@@ -104,7 +122,12 @@ Debate Streamers
 Debian
 Debian (the Linux for Lesbians)
 Debinyan
+Definitely Not George Santos
 Dell
+Demisexuality
+Deng Xiaoping Thought
+Department of Defense
+Department of Justice
 Digital Equipment Corporation
 Disney
 DMR Radio
@@ -124,6 +147,7 @@ Eclipse Platform
 Elixir
 Emacs
 Eminem
+Enbies
 Epic Games
 Epson
 Estradiol Valerate
@@ -131,14 +155,18 @@ Ethereum
 European Union
 ExpensiveBSD
 ExpressVPN
+Fanta
 FaZe
 FBI
 FBI
+Federal Reserve
 Fediverse
 Fedora
 Fedowa
+Feed-Forward Neural Networks
 Femboys
 Feminization
+Fentanyl
 Firefox OS
 Fire OS
 Fishsonas
@@ -148,6 +176,7 @@ Fortran
 FoundKey
 Foxconn
 FPGAs
+Fractals
 Framework Laptop
 FreeBSD
 FreeDOS
@@ -161,7 +190,10 @@ Fujitsu
 Functional Programming
 Fursonas
 Gabe Newell
+Gay
+Gay Gay Homosexual Gay
 Geany
+Gender
 Genshin Impact
 Gentoo
 GentUwU
@@ -183,6 +215,7 @@ Gucci
 Guix
 GUN + Linux
 GUN/Linux
+Gussy
 Hackers on Estradiol
 HAL 9000
 Halal Linux
@@ -192,8 +225,13 @@ Hannah Montana Linux
 Harry Potter
 Hashicorp Nomad
 Hello Kitty Slackware
+Henry Kissinger
 Heroin
 Hewlett-Packard
+Hinduism
+Hitachi
+Hogwarts
+Homosexuality
 Honda Civic
 Honey
 Horny
@@ -201,8 +239,10 @@ HTC
 Huawei
 Hulu
 Hurricane Electric
+Hypersexuality
 IBM
 ICE
+Icom
 IDLE
 IndieWeb
 Influencers
@@ -214,19 +254,25 @@ Internet Explorer
 Interpol
 iOS
 IPv6
+Islam
 Itanium
 Java
 JetBrains Fleet
 Jewbuntu
 John Carmack
 John Mastodon
+Judaism
+Julia
 Justin Bieber
 Justin Bieber Linux
 k3os
 Kali Linux
+Kellogg's
+Kenwood
 Ketamine
 KFC
 KGB
+Kinks
 KodakCoin
 Kubernetes
 Lady Gaga
@@ -245,13 +291,19 @@ LinkedIn
 Linus Torvalds
 Linux
 Litecoin
+Liz Truss
+Liz Trussy
 LLVM
+Lovense
 LSD
 Lucasfilm
 LXC
 MacOS
 Maia Crimew
+Mandelbussy
+Mao Zedong Thought
 Marijuana
+Markov Chains
 Mark Zuckerberg
 Marvel
 Marvel Cinematic Universe
@@ -268,6 +320,7 @@ MIPS
 Misskey
 Moderna
 Moeubuntu
+Mommy kinks
 Monero
 MonoDevelop
 Moonbounce
@@ -275,6 +328,7 @@ Morse Code
 Mothboys
 Mothgirls
 Moths
+Motorola
 Mountain Dew
 MS-DOS
 MSI
@@ -284,6 +338,7 @@ Nano
 .NET
 NetBeans
 NetBSD
+Neural Networks
 New York
 NFTs
 Nginx
@@ -291,8 +346,11 @@ nil
 NixOS
 NixOwOs
 Nokia
+Nokia
+Non-binary people
 None pizza with left beef
 NordVPN
+Northrop-Grumman
 Nothing
 NSA
 Nuclear Fusion
@@ -310,11 +368,14 @@ OpenSUSE
 OpenSUS ඞ
 OpenVMS
 Oracle Linux
+Orundum
 Packet Radio
 Palm Pilot
 Parasocials
+Parliament
 Paxlovid
 PDP-11
+Pepsi
 Pepsi
 Pfizer
 pfSense
@@ -329,12 +390,15 @@ Plants vs Zombies
 Pleroma
 Podman
 Pokemon
+Police
 Poobuntu
 Popeye's
 Power Glove
 PowerPC
+Primogems
 Progesterone
 Proxmox
+Pussy
 PyCharm
 Pyro TF2
 Python
@@ -343,14 +407,17 @@ Qt Creator
 Quantum Computing
 Quantum-Resistant Cryptography
 Qubes OS
+Queer
 Raid: Shadow Legends
 Rantsonas
 Rats
 Ray-Ban
 Raycon
+Raytheon
 Razer
 ReactOS
 Rebecca Black OS
+Recurrent Neural Networks
 Redox
 Red Star OS
 Republic of Gamers
@@ -384,10 +451,13 @@ Smalltalk
 Snackware
 Soapbox
 Social Media
+Soda
 Solaris
+Sony
 Sony
 Spacemacs
 SPARC
+Special K
 Spidergirls
 Spiders
 Spironolactone
@@ -396,24 +466,30 @@ SSTV
 Star Wars
 Steam
 Steam OS
+Stocks
 Suicide Linux
 Sun Microsystems
 SunOS
 SunOwOs
 Super Mario
 Supreme
+Supreme Court
 System/390
 System76
 Systemd
 Taco Bell
 Taylor Swift
 Team Fortress 2
+Technology Predictions Bot
 TempleOS
 Tencent
 Testosterone undecanoate
 Texas
 Texas Instruments
+the Koch Brother
+the late Queen Elizabeth
 ThinkPad
+Thussy
 TI-83+ Graphing Calculator
 TI-84 Graphing Calculator
 TI-89 Graphing Calculator
@@ -427,9 +503,14 @@ Tobacco
 Tomboy Editor
 Tomboys
 Tom Scott
+Tony the Tiger
 Toshiba
 Toyota Corolla
 Toyota Hilux
+Trans Girls
+Trans Guys
+Trans Men
+Trans Women
 Tron
 TRX
 uBoot
@@ -438,7 +519,9 @@ Ubuntu Christian Edition
 Ubuntu Muslim Edition
 Ubuntu Satanic Edition
 Ubuntu Touch
+Ultranationalism
 undefined
+Uniden
 Unix
 UwUntu
 VAIO
@@ -450,6 +533,7 @@ Visual Studio
 Visual Studio Code
 Vitalik Buterin
 Vivado
+Vladimir Lenin Thought
 VMS
 Vodka
 Void Linux
@@ -460,6 +544,7 @@ Wear OS
 WebStorm
 Weed
 Whiskey
+White House
 Windows
 Windows 10
 Windows 9
@@ -471,7 +556,10 @@ Wyoming
 x86
 XCode
 Xiaomi
+Xi Jinping Thought
 XRP
+Yaesu
+@yearof@fedi.astrid.tech
 YiffOS
 Yo Momma
 You are trying to view Flash content, but you have no Flash plugin installed.
@@ -479,3 +567,4 @@ YouTube
 Z80
 Zcash
 ZX Spectrum
+Þussy
