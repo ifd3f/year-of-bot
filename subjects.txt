@@ -130,7 +130,6 @@ CISC architectures
 Cisco
 Civ Meier
 Clang
-Clang
 CLion
 ClosedBSD
 COBOL
@@ -264,7 +263,6 @@ Gay Gay Homosexual Gay
 GCC
 Geany
 Gen Alpha
-Gender
 Gender
 Genshin Impact
 Gentoo
