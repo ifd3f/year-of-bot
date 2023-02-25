@@ -67,11 +67,16 @@ Millenials ruining {s}
 {s} becoming faster
 {s} becoming fully adopted
 {s} becoming illegal
+{s} becoming mainstream
 {s} becoming rolling-release
 {s} becoming smaller
 {s} becoming Speaker of the House
 {s} becoming unmaintained
 {s} becoming unpopular
+{s} being 20 years away
+{s} being accused of fraud
+{s} being exposed as undercover cops
+{s} being leaked
 {s} being open-sourced
 {s} bought by Amazon
 {s} bought by Apple
@@ -82,6 +87,7 @@ Millenials ruining {s}
 {s} bought by Tencent
 {s} bought by the Koch Brother
 {s} bought by Warren Buffett
+{s} cancelled by Google
 {s} cancelling its creator
 {s} causing a natural disaster
 {s} causing an unplanned explosion
@@ -153,6 +159,7 @@ Millenials ruining {s}
 {s} coming out as plural
 {s} coming out as trans
 {s} committing a war crime
+{s}-communism
 {s} compromising on its morals
 {s} Considered Bloat
 {s} Considered Harmful
@@ -165,12 +172,16 @@ Millenials ruining {s}
 {s} consuming the world
 {s} creating a black hole
 {s} creating the Philosopher's Stone
+{s} creating the Torment Nexus
 {s} DESTROYED by the WOKE LEFT MOB
 {s} destroying the universe
 {s} ending a popular product against all common sense
+{s} evangelism
+{s} exhausting the IPv6 address space
 {s} exploding in a beautiful wreck
 {s} fighting God
 {s} filing for bankruptcy
+{s} finally finishing compiling
 {s} flopping
 {s} for Anarchists
 {s} for Angels
@@ -321,6 +332,9 @@ Millenials ruining {s}
 {s} for Wizards
 {s} for Workgroups
 {s} for Writers
+{s} with Bunny Ears
+{s} with Cat Ears
+{s} with Fox Ears
 {s} Gaming
 {s} getting a booth at CVQCon
 {s} getting a brands.town account
@@ -377,6 +391,7 @@ Millenials ruining {s}
 {s} in Microsoft Excel
 {s} in Microsoft PowerPoint
 {s} in Minecraft Redstone
+{s} in Netscape Navigator
 {s} in RBMK Reactors
 {s} in SAP HANA
 {s} inside your head
@@ -466,6 +481,7 @@ Millenials ruining {s}
 {s} on the Intercontinental Ballistic Missile
 {s} on the iPhone
 {s} on the Juicero
+{s} on the JVM
 {s} on the Laptop
 {s} on the Lisp Machine
 {s} on the Luggable
@@ -593,11 +609,15 @@ Millenials ruining {s}
 {s} sued by Elon Musk for defamation
 {s} sued by Elon Musk for hurting his feelings
 {s} sued by Oracle
+{s} summoning a demon
 {s} summoning The Elder Gods
+{s} switching to a subscription system
 {s}-tan
+{s} teleporting bread
 {s} triggering Ragnarok
 {s} with a little Tom Scott inside
 Techbros ruining {s}
+the CEO of {s} mysteriously disappearing
 Weeaboos ruining {s}
 Zoomers killing {s}
 Zoomers ruining {s}

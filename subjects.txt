@@ -21,6 +21,7 @@ Alienware
 Alpine Linux
 Altera
 Amazon Linux
+AMD
 AMD64
 AmigaOS
 AmogOS ඞ
@@ -66,6 +67,7 @@ Barack Obama
 Barbie
 BBC Micro
 BeagleBoard
+Bean Soup Drinkers
 Bedrock Linux
 Benzos
 BESYS
@@ -103,6 +105,7 @@ C#
 CalcKey
 California
 Cannabis
+Carcinisation
 Cardano
 Catboys
 Catgirls
@@ -136,6 +139,7 @@ COBOL
 Coca-Cola
 Cocaine
 Code::Blocks
+Coffee
 Cogent Communications
 Coke
 Colorado
@@ -151,6 +155,7 @@ Corvids
 Counter-Strike: Global Offensive
 COVID-19
 CP/M
+Crabs
 Crossdressing
 CRT (Cathode Ray Tube)
 CRT (Catholic Ray Tube)
@@ -171,6 +176,7 @@ Dark Web
 Darwin
 DashCon
 Data-Oriented Programming
+DBus
 Death Star
 Debate Streamers
 Debian
@@ -237,10 +243,14 @@ Firefox OS
 Fire OS
 Fishsonas
 FlashDevelop
+Floppy Disks
 Florida
 Fortran
 FoundKey
 Foxconn
+Foxboys
+Foxenbies
+Foxgirls
 FPGAs
 Fractals
 Framework Laptop
@@ -272,6 +282,7 @@ George Shultz
 GFuel
 GIMP
 Github Copilot
+Glibc
 Gloryhammer
 GNOME Chomsky
 GNU
@@ -282,6 +293,7 @@ GNU + Linux
 GNU/Linux
 Golang
 Google Fuchsia
+Google Gnome
 Google Search
 GPT-2
 GPT-3
@@ -295,6 +307,7 @@ Guix
 GUN + Linux
 GUN/Linux
 Gussy
+HackerNews
 Hackers on Estradiol
 HAL 9000
 Halal Linux
@@ -304,6 +317,7 @@ Hannah Montana Linux
 Harman
 Harry Potter
 Hashicorp Nomad
+Haskell
 Hello Kitty Slackware
 Henry Kissinger
 Heroin
@@ -373,9 +387,11 @@ Kinks
 Knuckles the Echidna
 KodakCoin
 Koss
+Kotlin
 Kubernetes
 Laboratories
 Lady Gaga
+Lambda Calculus
 Large Language Models
 LaserDisc
 Lays
@@ -475,7 +491,9 @@ Northrop-Grumman
 Nothing
 Nouns
 NSA
+Nuclear Fission
 Nuclear Fusion
+Nuclear Pasta
 null
 Nvidia
 Nyaarch Linyux
@@ -528,6 +546,7 @@ Police
 Ponzi Scheme
 Poobuntu
 Popeye's
+Postgres
 Power Glove
 PowerPC
 Primogems
@@ -577,6 +596,7 @@ Sabayon Linux
 Sam Bankman-Fried
 Samsung
 SanDisk
+Saul Goodman
 Scala
 Sci-Hub
 Seagate
@@ -592,6 +612,7 @@ Sid Meier
 Silicon Valley
 Single Sideband
 Skillshare
+Skirts with Pockets
 Skullcandy
 Skyrim
 Skyrim Anniversary Edition
@@ -607,6 +628,7 @@ Sonic the Hedgehog
 Sony
 Soylent
 Spacemacs
+Spaghetti
 SPARC
 Special K
 Spidergirls
@@ -643,6 +665,7 @@ Technology Predictions Bot
 TempleOS
 Tencent
 Tequila
+Terraria
 Terry Pratchett
 Testosterone undecanoate
 Texas
@@ -719,6 +742,7 @@ Volodymyr Zelenskyy
 VR Microphone Gag Things
 vSphere
 War Thunder
+Wayland
 Wear OS
 Web 1
 Web 2
@@ -739,11 +763,13 @@ World Wide Web
 Wyoming
 x86
 XCode
+Xenia
 Xerox
 Xiaomi
 Xi Jinping Thought
 Xilinx
 XRP
+X.Org
 Yaesu
 Yandex
 Yaoi
