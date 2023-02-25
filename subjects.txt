@@ -1,23 +1,33 @@
-'()
 100 Gecs
 23andMe
+3M
 9front
 Acer
+ActivityPub
 Adidas
+Adjectives
+Adobe
 Adobe Flash Player
+Adolf Hitler
+Adverbs
 Adversarial Neural Networks
 AES Encryption
 AIX
 Akkoma
 Alcohol
 Alienware
-Alpine
+Alpine Linux
+Altera
 Amazon Linux
 AMD64
 AmigaOS
 AmogOS ඞ
+Among Us
+Among Us ඞ
+Ampere
 Amplitude Modulation
-Anarchists
+Analog Devices
+Anarchism
 Androgyny
 Android
 Android Studio
@@ -27,8 +37,10 @@ Apache
 Apple
 Apple I
 Apple II
+Apple Pie
 APRS
 Arch Linux
+Arduino
 Arknights
 ARM
 Artix
@@ -36,32 +48,52 @@ Asexuality
 ASUS
 aSUS ඞ
 Atari
+Atmega
+Atmel
 Atom
 Audible
 Autoencoder Neural Networks
 AVR
+AVX
+Baidu
+Banana Pi
 Baofeng
+Barack Obama
 Barbie
 BBC Micro
+BeagleBoard
 Bedrock Linux
 Benzos
 BESYS
+Betamax
 Bethesda
 Biebian
+Binance
 Bisexuality
 Bitcoin
 BitConnect
 Blackberry
+Blahaj
+Blockbuster
 BlueJ
+Blu-Ray
 Boeing
+Bondage
 Bonds
+Boomers
+Bose
+Brandon Sanderson
 Brilliant
+Broadcom
 BSD
 Buddhism
 Bungo Stray Dogs
 Burger King
 Bussy
+Bussybox
+Busybox
 Bytedance
+C
 C#
 CalcKey
 California
@@ -69,20 +101,30 @@ Cannabis
 Cardano
 Catboys
 Catgirls
+@catgpt@fedi.astrid.tech
 Catholicism
+Catpeople
+CD (Certificate of Deposit)
+CD (Compact Disk)
 CD Projekt Red
 CentOS
 CentOwOs
 Chaos Computer Club
+Chasers
+ChatGPT
 Cheerios
+Chengdu
 ChibiOS
+Chicago Mercantile Exchange
 Chinese Government
 Christianity
 Chromebook
 ChromeOS
 CIA
 CISC architectures
+Cisco
 Civ Meier
+Clang
 Clang
 CLion
 ClosedBSD
@@ -99,21 +141,28 @@ Communists
 Congress
 Convolutional Neural Networks
 Cooler Master
+Coreutils
 Corsair
 Corvids
 Counter-Strike: Global Offensive
 COVID-19
 CP/M
+Crossdressing
+CRT (Cathode Ray Tube)
+CRT (Catholic Ray Tube)
+CRT (Critical Race Theory)
 Crunchyroll
 Cryptocurrency
 Crysis
 Crystal Meth
 Curiosity Stream
+Cypress
 Daddy kinks
 Damn Small Linux
 Damn Tasty Linux
 Damn Vulnerable Linux
 Dark Soul, protagonist of Dark Souls
+Dark Souls
 Dark Web
 Darwin
 Data-Oriented Programming
@@ -128,24 +177,34 @@ Demisexuality
 Deng Xiaoping Thought
 Department of Defense
 Department of Justice
+Digital
 Digital Equipment Corporation
+Digital Video Disc
 Disney
 DMR Radio
 Docker
 Docker Swarm
 Dogecoin
 Doges
+Dolby
 Dollar Shave Club
+Donald Trump
 Doom
 DoorDash
 Dorian Electra
 Doritos
 DOS
+Drag
 DrRacket
 Eclipse
 Eclipse Platform
+Electronics
+Element
+Elf on the Shelf
 Elixir
+Elizabeth Holmes
 Emacs
+Emerson
 Eminem
 Enbies
 Epic Games
@@ -155,9 +214,9 @@ Ethereum
 European Union
 ExpensiveBSD
 ExpressVPN
+Fairchild Semiconductor
 Fanta
 FaZe
-FBI
 FBI
 Federal Reserve
 Fediverse
@@ -166,6 +225,7 @@ Fedowa
 Feed-Forward Neural Networks
 Femboys
 Feminization
+Fenoxo
 Fentanyl
 Firefox OS
 Fire OS
@@ -184,29 +244,42 @@ FreeNAS
 Frequency Modulation
 Frito-Lay
 FSB
-FSB
 FT8
+FTX
 Fujitsu
+Full-Body Tracking
 Functional Programming
 Fursonas
 Gabe Newell
 Gay
 Gay Gay Homosexual Gay
+GCC
 Geany
+Gen Alpha
+Gender
 Gender
 Genshin Impact
 Gentoo
 GentUwU
+Gen X-ers
+George Shultz
 GFuel
+GIMP
 Github Copilot
 Gloryhammer
+GNOME Chomsky
 GNU
 GNU Hurd
+GNU is Not Unix
+GNU is Not Unix Image Manipulation Program
 GNU + Linux
 GNU/Linux
 Golang
 Google Fuchsia
 Google Search
+GPT-2
+GPT-3
+GPT-4
 Grammarly
 Grapes
 GRUB 2
@@ -222,20 +295,26 @@ Halal Linux
 Hallucinogens
 Ham Radio
 Hannah Montana Linux
+Harman
 Harry Potter
 Hashicorp Nomad
 Hello Kitty Slackware
 Henry Kissinger
 Heroin
 Hewlett-Packard
+HGST
 Hinduism
 Hitachi
 Hogwarts
 Homosexuality
 Honda Civic
 Honey
+Honeywell
 Horny
+HP
 HTC
+HTC Vive
+HTML 5
 Huawei
 Hulu
 Hurricane Electric
@@ -244,6 +323,7 @@ IBM
 ICE
 Icom
 IDLE
+IKEA
 IndieWeb
 Influencers
 In-N-Out
@@ -259,6 +339,8 @@ Itanium
 Java
 JetBrains Fleet
 Jewbuntu
+JK Rowling
+Joe Biden
 John Carmack
 John Mastodon
 Judaism
@@ -267,22 +349,33 @@ Justin Bieber
 Justin Bieber Linux
 k3os
 Kali Linux
+Karl Marx
 Kellogg's
+Kenmore
 Kenwood
 Ketamine
 KFC
 KGB
+Kickass Torrents
+Kimball
+Kingston
 Kinks
+Knuckles the Echidna
 KodakCoin
+Koss
 Kubernetes
+Laboratories
 Lady Gaga
+Large Language Models
+LaserDisc
+Lays
 LC-3
 Leafpad
-League of Legends
 League of Legends
 Lennart Poettering
 Lenovo
 LenOwO
+Lexmark
 LG
 LibGen
 Libvirt
@@ -294,28 +387,41 @@ Litecoin
 Liz Truss
 Liz Trussy
 LLVM
+Logitech
 Lovense
 LSD
 Lucasfilm
 LXC
 MacOS
+Magic: The Gathering
+Magnavox
 Maia Crimew
 Mandelbussy
 Mao Zedong Thought
+Marantz
 Marijuana
 Markov Chains
 Mark Zuckerberg
 Marvel
 Marvel Cinematic Universe
+Marvell
 Masculinization
 Mastodon
+Mastodon Network™
+Maxim Integrated
 McDonald's
+Memorex
+Meta
+Meta Quest
 Metasploitable
 Methamphetamine
 MI6
 Microcelebrities
 Microsoft
 Microsoft Surface
+Mikhail Bakunin
+Millard Fillmore
+Millenials
 MIPS
 Misskey
 Moderna
@@ -323,6 +429,7 @@ Moeubuntu
 Mommy kinks
 Monero
 MonoDevelop
+Monster
 Moonbounce
 Morse Code
 Mothboys
@@ -340,34 +447,43 @@ NetBeans
 NetBSD
 Neural Networks
 New York
+New York Stock Exchange
 NFTs
 Nginx
 nil
 NixOS
 NixOwOs
-Nokia
+Noam Chomsky
 Nokia
 Non-binary people
 None pizza with left beef
 NordVPN
 Northrop-Grumman
 Nothing
+Nouns
 NSA
 Nuclear Fusion
 null
 Nvidia
 Nyaarch Linyux
-nyaa.se
+nyaa.si
+OAuth 2.0
 [object Object]
 Object-Oriented Programming
 Obsidian
 OCI containers
+Oculus
 Onions
 OpenBSD
+OpenID Connect
+Open Source Hardware
+Open Source Initiative
 OpenSUSE
 OpenSUS ඞ
 OpenVMS
 Oracle Linux
+Orange Catholicism
+Orange Pi
 Orundum
 Packet Radio
 Palm Pilot
@@ -375,13 +491,14 @@ Parasocials
 Parliament
 Paxlovid
 PDP-11
+Penguin Logistics
 Pepsi
-Pepsi
+Peter Kropotkin
 Pfizer
 pfSense
+Photoshop
 PHP
 PIC
-Pizza Hunt
 Pizza Hut
 Pizza the Hutt
 Plan 10
@@ -397,22 +514,28 @@ Power Glove
 PowerPC
 Primogems
 Progesterone
+Pronouns
 Proxmox
 Pussy
 PyCharm
+Pyle
 Pyro TF2
 Python
 Qt
 Qt Creator
+Qualcomm
 Quantum Computing
 Quantum-Resistant Cryptography
 Qubes OS
 Queer
+Radio
 Raid: Shadow Legends
 Rantsonas
+Raspberry Pi
 Rats
 Ray-Ban
 Raycon
+Ray Kurzweil
 Raytheon
 Razer
 ReactOS
@@ -420,6 +543,7 @@ Rebecca Black OS
 Recurrent Neural Networks
 Redox
 Red Star OS
+Reese's Puffs
 Republic of Gamers
 RHEL
 Richard M. Stallman
@@ -432,17 +556,25 @@ Ruby
 Runit
 Rust
 Sabayon Linux
+Sam Bankman-Fried
 Samsung
+SanDisk
 Scala
 Sci-Hub
+Seagate
 Sega
+Seiki
+Shadow the Hedgehog
+Shenzhen
 Shit
 Shit Linux
 Shopify
 Shrooms
 Sid Meier
+Silicon Valley
 Single Sideband
 Skillshare
+Skullcandy
 Skyrim
 Skyrim Anniversary Edition
 Slackware
@@ -453,8 +585,9 @@ Soapbox
 Social Media
 Soda
 Solaris
+Sonic the Hedgehog
 Sony
-Sony
+Soylent
 Spacemacs
 SPARC
 Special K
@@ -463,6 +596,7 @@ Spiders
 Spironolactone
 Squarespace
 SSTV
+Standard and Poor
 Star Wars
 Steam
 Steam OS
@@ -474,20 +608,30 @@ SunOwOs
 Super Mario
 Supreme
 Supreme Court
+Swedish Fish
+Synaptics
 System/390
 System76
 Systemd
+Systems
 Taco Bell
+Tails the Fox
+Taiwan Semiconductor Manufacturing Company
+Takis
 Taylor Swift
 Team Fortress 2
+Techbros
 Technology Predictions Bot
 TempleOS
 Tencent
+Terry Pratchett
 Testosterone undecanoate
 Texas
 Texas Instruments
 the Koch Brother
 the late Queen Elizabeth
+The Pirate Bay
+Theranos
 ThinkPad
 Thussy
 TI-83+ Graphing Calculator
@@ -509,40 +653,57 @@ Toyota Corolla
 Toyota Hilux
 Trans Girls
 Trans Guys
+Transhumanism
 Trans Men
 Trans Women
 Tron
 TRX
+Turtle Beach
 uBoot
 Ubuntu
 Ubuntu Christian Edition
 Ubuntu Muslim Edition
 Ubuntu Satanic Edition
 Ubuntu Touch
+UEFI
 Ultranationalism
 undefined
 Uniden
 Unix
+USA
 UwUntu
 VAIO
+Valve Index
 Valve Software
+Verbs
 Video Essays
+Video Home System
+ViewSonic
 Vim
 Virtual Boy
+Vishay
 Visual Studio
 Visual Studio Code
 Vitalik Buterin
 Vivado
+Vizio
 Vladimir Lenin Thought
 VMS
 Vodka
 Void Linux
 Volkswagen Beetle
+Volodymyr Zelenskyy
+VR Microphone Gag Things
 vSphere
 War Thunder
 Wear OS
+Web 1
+Web 2
+Web 3
 WebStorm
 Weed
+Western Digital
+WeWork
 Whiskey
 White House
 Windows
@@ -555,16 +716,22 @@ World Wide Web
 Wyoming
 x86
 XCode
+Xerox
 Xiaomi
 Xi Jinping Thought
+Xilinx
 XRP
 Yaesu
+Yandex
 @yearof@fedi.astrid.tech
 YiffOS
 Yo Momma
 You are trying to view Flash content, but you have no Flash plugin installed.
 YouTube
+Yu-Gi-Oh
 Z80
 Zcash
+Zilog
+Zoomers
 ZX Spectrum
 Þussy

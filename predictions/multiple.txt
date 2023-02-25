@@ -1,12 +1,17 @@
 {s1} accidentally reinventing {s2}
 {s1} acquired by {s2}
+{s1} and {s2} ganging up on {s3} and {s4}
 {s1} baking a cake for {s2}
 {s1} becoming an {s2} project
 {s1} becoming {s2} but better
 {s1} being adopted by {s2}
-{s1} being the Apollo to {s2}'s Dionysus
 {s1} being the Romeo to {s2}'s Juliet
+{s1} betraying {s2}
 {s1} bought by {s2}
+{s1} calling {s2} "evil"
+{s1} calling {s2} "fucked up"
+{s1} calling {s2} "shit"
+{s1} calling {s2} "stupid"
 {s1} calling {s2} "woke"
 {s1} cancelling {s2}
 {s1} collaborating with {s2}
@@ -24,10 +29,12 @@
 {s1} having beef with {s2}
 {s1} in {s2}
 {s1} killing off {s2}
+{s1} mating with {s2}
 {s1} merging into {s2}
 {s1} on {s2}
 {s1} ported to {s2}
 {s1} revolting against {s2}
+{s1} ruining {s2}
 {s1}'s creator feuding with {s2}'s creator
 {s1} sponsored by {s2}
 {s1} stealing {s2}'s mascot
@@ -37,6 +44,7 @@
 {s1} turning into {s2}
 {s1} turning into {s2} for {s3}
 {s1} users beating up {s2} users
+{s1} users biting {s2} users
 {s1} users breaking up with {s2} users
 {s1} users dating {s2} users
 {s1} users eating {s2} users
@@ -48,6 +56,7 @@
 something like {s1} if it was actually {s2} with {s3}
 something like {s1} if it was made by {s2} developers
 something like {s1} with {s2}
+the Grand Alliance of {s1}, {s2}, and {s3}
 the Holy Trinity of {s1}, {s2}, and {s3}
 the {s1} community feuding with the {s2} community
 the {s1} community renouncing it and moving to {s2}
