@@ -4,8 +4,7 @@ on:
   push: {}
 
 jobs:
-  deploy:
-
+  validate:
     runs-on: ubuntu-latest
 
     steps:
@@ -20,6 +19,6 @@ jobs:
       run: |
         nix run .#year-of-bot -- verify
     
-    #- name: Ensure data is sorted
-    #  run: |
-    #    ./sort-data.sh && git diff --exit-code
+    - name: Ensure data is sorted
+      run: |
+        ./sort-data.sh && git diff --exit-code
