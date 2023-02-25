@@ -12,9 +12,11 @@ Adolf Hitler
 Adverbs
 Adversarial Neural Networks
 AES Encryption
+Agnosticism
 AIX
 Akkoma
 Alcohol
+Alcoholism
 Alienware
 Alpine Linux
 Altera
@@ -32,6 +34,7 @@ Androgyny
 Android
 Android Studio
 Angels
+Antitheism
 Anytone
 Apache
 Apple
@@ -48,6 +51,7 @@ Asexuality
 ASUS
 aSUS ඞ
 Atari
+Atheism
 Atmega
 Atmel
 Atom
@@ -82,6 +86,7 @@ Bondage
 Bonds
 Boomers
 Bose
+Bottom
 Brandon Sanderson
 Brilliant
 Broadcom
@@ -165,6 +170,7 @@ Dark Soul, protagonist of Dark Souls
 Dark Souls
 Dark Web
 Darwin
+DashCon
 Data-Oriented Programming
 Death Star
 Debate Streamers
@@ -172,6 +178,7 @@ Debian
 Debian (the Linux for Lesbians)
 Debinyan
 Definitely Not George Santos
+Deism
 Dell
 Demisexuality
 Deng Xiaoping Thought
@@ -251,6 +258,7 @@ Full-Body Tracking
 Functional Programming
 Fursonas
 Gabe Newell
+Gatorade
 Gay
 Gay Gay Homosexual Gay
 GCC
@@ -337,12 +345,15 @@ IPv6
 Islam
 Itanium
 Java
+Jehovah's Witnesses
 JetBrains Fleet
 Jewbuntu
 JK Rowling
 Joe Biden
 John Carmack
 John Mastodon
+JPEG
+JRPG
 Judaism
 Julia
 Justin Bieber
@@ -354,6 +365,7 @@ Kellogg's
 Kenmore
 Kenwood
 Ketamine
+Keysmashing
 KFC
 KGB
 Kickass Torrents
@@ -431,12 +443,15 @@ Monero
 MonoDevelop
 Monster
 Moonbounce
+Mormonism
+Moronism
 Morse Code
 Mothboys
 Mothgirls
 Moths
 Motorola
 Mountain Dew
+Mpreg
 MS-DOS
 MSI
 MSP430
@@ -489,6 +504,9 @@ Packet Radio
 Palm Pilot
 Parasocials
 Parliament
+Password Generator
+Password Generator (bottom)
+Password Manager
 Paxlovid
 PDP-11
 Penguin Logistics
@@ -505,9 +523,11 @@ Plan 10
 Plan 9
 Plants vs Zombies
 Pleroma
+PNG
 Podman
 Pokemon
 Police
+Ponzi Scheme
 Poobuntu
 Popeye's
 Power Glove
@@ -624,10 +644,12 @@ Techbros
 Technology Predictions Bot
 TempleOS
 Tencent
+Tequila
 Terry Pratchett
 Testosterone undecanoate
 Texas
 Texas Instruments
+Theism
 the Koch Brother
 the late Queen Elizabeth
 The Pirate Bay
@@ -648,9 +670,11 @@ Tomboy Editor
 Tomboys
 Tom Scott
 Tony the Tiger
+Top
 Toshiba
 Toyota Corolla
 Toyota Hilux
+Trad
 Trans Girls
 Trans Guys
 Transhumanism
@@ -658,6 +682,7 @@ Trans Men
 Trans Women
 Tron
 TRX
+Tumblr
 Turtle Beach
 uBoot
 Ubuntu
@@ -723,12 +748,14 @@ Xilinx
 XRP
 Yaesu
 Yandex
+Yaoi
 @yearof@fedi.astrid.tech
 YiffOS
 Yo Momma
 You are trying to view Flash content, but you have no Flash plugin installed.
 YouTube
 Yu-Gi-Oh
+Yuri
 Z80
 Zcash
 Zilog

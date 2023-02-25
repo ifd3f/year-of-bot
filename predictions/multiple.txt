@@ -1,3 +1,5 @@
+a {s1} convention considered as a {s2} convention
+a {s1} convention spreading {s2}
 {s1} accidentally reinventing {s2}
 {s1} acquired by {s2}
 {s1} and {s2} ganging up on {s3} and {s4}
@@ -16,7 +18,9 @@
 {s1} cancelling {s2}
 {s1} collaborating with {s2}
 {s1} considered {s2} with {s3}
+{s1} cutting ties with {s2}
 {s1} dating {s2}
+{s1} destroying {s2}
 {s1} developers hating on {s2}
 {s1} developers sleeping with {s2} developers
 {s1} eloping with {s2}
@@ -26,6 +30,7 @@
 {s1} for {s2}
 {s1} for {s2} developers
 {s1} for {s2} users
+{s1} having a booth at a {s2} convention
 {s1} having beef with {s2}
 {s1} in {s2}
 {s1} killing off {s2}
