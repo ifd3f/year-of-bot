@@ -1,6 +1,4 @@
 a foam pit at an {s} convention causing injuries
-an abandoned ball pit at an {s} convention
-Anarcho-{s}ism
 a {s} convention causing massive COVID spread
 a {s} convention causing massive STI spread
 a {s} convention considered as a furry convention
@@ -9,11 +7,18 @@ a {s} convention considered as an LGBT convention
 a {s} convention creating a new virus
 a {s} convention having huge controversy
 a {s} convention recreating Fyre Festival
+an abandoned ball pit at an {s} convention
+Anarcho-{s}ism
 Boomers killing {s}
 Boomers ruining {s}
 Gamers ruining {s}
 Millenials killing {s}
 Millenials ruining {s}
+Techbros ruining {s}
+the CEO of {s} mysteriously disappearing
+Weeaboos ruining {s}
+Zoomers killing {s}
+Zoomers ruining {s}
 {s}
 {s} abandoning FHS
 {s} accelerating global warming
@@ -33,18 +38,17 @@ Millenials ruining {s}
 {s} adopting a fursona
 {s} adopting a hat as its mascot
 {s} adopting a mastodon as its mascot
-{s} adopting an angel as its mascot
-{s} adopting an anime girl as its mascot
-{s} adopting an onion as its mascot
 {s} adopting a penguin as its mascot
 {s} adopting a rabbit as its mascot
 {s} adopting a squirrel as its mascot
 {s} adopting a trans fox as its mascot
 {s} adopting a vegetable as its mascot
 {s} adopting a window as its mascot
+{s} adopting an angel as its mascot
+{s} adopting an anime girl as its mascot
+{s} adopting an onion as its mascot
 {s} and Knuckles
 {s} asking "who asked"
-{s} becoming abandoned
 {s} becoming a Cloud Native Computing Foundation project
 {s} becoming a conscious AI
 {s} becoming a fad
@@ -52,15 +56,16 @@ Millenials ruining {s}
 {s} becoming a GNOME project
 {s} becoming a KDE community project
 {s} becoming a meme distro
-{s} becoming an Apache Foundation project
-{s} becoming an Eclipse Foundation project
-{s} becoming an Elder God
-{s} becoming an SCP Foundation project
 {s} becoming a penguin
 {s} becoming a rogue AI
 {s} becoming a singularity
 {s} becoming a Suckless project
 {s} becoming a virus
+{s} becoming abandoned
+{s} becoming an Apache Foundation project
+{s} becoming an Eclipse Foundation project
+{s} becoming an Elder God
+{s} becoming an SCP Foundation project
 {s} becoming bloat
 {s} becoming edible
 {s} becoming emo
@@ -90,17 +95,16 @@ Millenials ruining {s}
 {s} cancelled by Google
 {s} cancelling its creator
 {s} causing a natural disaster
-{s} causing an unplanned explosion
 {s} causing a rapid unplanned disassembly
 {s} causing a rapid unplanned disassembly on the launchpad
+{s} causing an unplanned explosion
 {s} challenging God himself
-{s}-chan
 {s} changing its gender
 {s} changing its name to something offensive
 {s} collaborating with 100 Gecs
+{s} collaborating with a video game
 {s} collaborating with Adidas
 {s} collaborating with Arknights
-{s} collaborating with a video game
 {s} collaborating with Barbie
 {s} collaborating with Burger King
 {s} collaborating with Coke
@@ -159,7 +163,6 @@ Millenials ruining {s}
 {s} coming out as plural
 {s} coming out as trans
 {s} committing a war crime
-{s}-communism
 {s} compromising on its morals
 {s} Considered Bloat
 {s} Considered Harmful
@@ -197,6 +200,7 @@ Millenials ruining {s}
 {s} for Bottoms
 {s} for Buddhists
 {s} for Business Majors
+{s} for C Purists
 {s} for Catboys
 {s} for Catfoxes
 {s} for Catgirls
@@ -211,7 +215,6 @@ Millenials ruining {s}
 {s} for Cowboys
 {s} for Cowgirls
 {s} for Cows
-{s} for C Purists
 {s} for CS:GO Players
 {s} for Democrats
 {s} for Devils
@@ -261,9 +264,9 @@ Millenials ruining {s}
 {s} for Jews
 {s} for Journalists
 {s} for Juggalos
+{s} for K-Pop Stans
 {s} for Kerbal Space Program Players
 {s} for Keter-class objects
-{s} for K-Pop Stans
 {s} for League of Legends players
 {s} for Liberals
 {s} for Lions
@@ -313,11 +316,11 @@ Millenials ruining {s}
 {s} for TF2 players
 {s} for the BTS ARMY
 {s} for the GameCube
-{s} for Theists
 {s} for the PlayStation
 {s} for the PlayStation 2
 {s} for the Royal Family
 {s} for the XBox
+{s} for Theists
 {s} for Tops
 {s} for Tories
 {s} for Trans People
@@ -332,9 +335,6 @@ Millenials ruining {s}
 {s} for Wizards
 {s} for Workgroups
 {s} for Writers
-{s} with Bunny Ears
-{s} with Cat Ears
-{s} with Fox Ears
 {s} Gaming
 {s} getting a booth at CVQCon
 {s} getting a brands.town account
@@ -348,15 +348,15 @@ Millenials ruining {s}
 {s} getting a huge CVE
 {s} getting a JoJo character named after it
 {s} getting a manga about it
-{s} getting an anime about it
 {s} getting a new package manager
-{s} getting an HBO series about it
-{s} getting an Ugandan action film about it
 {s} getting a security breach
 {s} getting a Superbowl ad
 {s} getting a TV ad
 {s} getting a very inaccurate documentary about it
 {s} getting a virus
+{s} getting an anime about it
+{s} getting an HBO series about it
+{s} getting an Ugandan action film about it
 {s} getting cancelled
 {s} getting glitterbombed by Vermin Supreme
 {s} getting got
@@ -394,8 +394,6 @@ Millenials ruining {s}
 {s} in Netscape Navigator
 {s} in RBMK Reactors
 {s} in SAP HANA
-{s} inside your head
-{s} inside your walls
 {s} in Smoke Detectors
 {s} in SPAAAAAAACE!
 {s} in Space
@@ -420,10 +418,10 @@ Millenials ruining {s}
 {s} in Vim
 {s} in VR
 {s} in Wearables
+{s} inside your head
+{s} inside your walls
 {s} IPOing
 {s} killing God
-{s}-kouhai
-{s}-kun
 {s} launching a nuclear weapon
 {s} liked by FOSS people
 {s} living rent-free in your head
@@ -505,7 +503,6 @@ Millenials ruining {s}
 {s} on the Nothing
 {s} on the Nuclear Submarine
 {s} on the null
-{s} on the [object Object]
 {s} on the PDA
 {s} on the Personal Computer
 {s} on the Photonic Computer
@@ -538,6 +535,7 @@ Millenials ruining {s}
 {s} on the Wi-Fi Hotspot
 {s} on the Wireless Access Point
 {s} on the You are trying to view Flash content, but you have no Flash plugin installed.
+{s} on the [object Object]
 {s} opening the Gate of Truth
 {s} ordering a pizza
 {s} over Tor
@@ -565,7 +563,6 @@ Millenials ruining {s}
 {s} rewritten in Zig
 {s} running Crysis
 {s} running DOOM
-{s}'s creator taking hostages at a bank
 {s} seeing a resurgence
 {s} selling branded computer mice
 {s} selling branded condoms
@@ -576,7 +573,6 @@ Millenials ruining {s}
 {s} selling cute plushies of its mascot
 {s} selling scary plushies of its mascot
 {s} selling ugly plushies of its mascot
-{s}-senpai
 {s} slippin' an extra shrimp on the barbie for you
 {s} sponsored by 23andMe
 {s} sponsored by Audible
@@ -612,12 +608,16 @@ Millenials ruining {s}
 {s} summoning a demon
 {s} summoning The Elder Gods
 {s} switching to a subscription system
-{s}-tan
 {s} teleporting bread
 {s} triggering Ragnarok
 {s} with a little Tom Scott inside
-Techbros ruining {s}
-the CEO of {s} mysteriously disappearing
-Weeaboos ruining {s}
-Zoomers killing {s}
-Zoomers ruining {s}
+{s} with Bunny Ears
+{s} with Cat Ears
+{s} with Fox Ears
+{s}'s creator taking hostages at a bank
+{s}-chan
+{s}-communism
+{s}-kouhai
+{s}-kun
+{s}-senpai
+{s}-tan

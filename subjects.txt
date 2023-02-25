@@ -1,7 +1,10 @@
+.NET
 100 Gecs
 23andMe
 3M
 9front
+@catgpt@fedi.astrid.tech
+@yearof@fedi.astrid.tech
 Acer
 ActivityPub
 Adidas
@@ -81,8 +84,8 @@ BitConnect
 Blackberry
 Blahaj
 Blockbuster
-BlueJ
 Blu-Ray
+BlueJ
 Boeing
 Bondage
 Bonds
@@ -109,7 +112,6 @@ Carcinisation
 Cardano
 Catboys
 Catgirls
-@catgpt@fedi.astrid.tech
 Catholicism
 Catpeople
 CD (Certificate of Deposit)
@@ -239,16 +241,16 @@ Femboys
 Feminization
 Fenoxo
 Fentanyl
-Firefox OS
 Fire OS
+Firefox OS
 Fishsonas
 FlashDevelop
 Floppy Disks
 Florida
 Fortran
 FoundKey
-Foxconn
 Foxboys
+Foxconn
 Foxenbies
 Foxgirls
 FPGAs
@@ -273,11 +275,11 @@ Gay Gay Homosexual Gay
 GCC
 Geany
 Gen Alpha
+Gen X-ers
 Gender
 Genshin Impact
 Gentoo
 GentUwU
-Gen X-ers
 George Shultz
 GFuel
 GIMP
@@ -286,10 +288,10 @@ Glibc
 Gloryhammer
 GNOME Chomsky
 GNU
+GNU + Linux
 GNU Hurd
 GNU is Not Unix
 GNU is Not Unix Image Manipulation Program
-GNU + Linux
 GNU/Linux
 Golang
 Google Fuchsia
@@ -344,9 +346,9 @@ ICE
 Icom
 IDLE
 IKEA
+In-N-Out
 IndieWeb
 Influencers
-In-N-Out
 Instagram
 Intel
 IntelliJ
@@ -426,8 +428,8 @@ Mandelbussy
 Mao Zedong Thought
 Marantz
 Marijuana
-Markov Chains
 Mark Zuckerberg
+Markov Chains
 Marvel
 Marvel Cinematic Universe
 Marvell
@@ -471,7 +473,6 @@ MSI
 MSP430
 NaN
 Nano
-.NET
 NetBeans
 NetBSD
 Neural Networks
@@ -496,21 +497,20 @@ Nuclear Fusion
 Nuclear Pasta
 null
 Nvidia
-Nyaarch Linyux
 nyaa.si
+Nyaarch Linyux
 OAuth 2.0
-[object Object]
 Object-Oriented Programming
 Obsidian
 OCI containers
 Oculus
 Onions
-OpenBSD
-OpenID Connect
 Open Source Hardware
 Open Source Initiative
-OpenSUSE
+OpenBSD
+OpenID Connect
 OpenSUS ඞ
+OpenSUSE
 OpenVMS
 Oracle Linux
 Orange Catholicism
@@ -570,16 +570,16 @@ Raid: Shadow Legends
 Rantsonas
 Raspberry Pi
 Rats
+Ray Kurzweil
 Ray-Ban
 Raycon
-Ray Kurzweil
 Raytheon
 Razer
 ReactOS
 Rebecca Black OS
 Recurrent Neural Networks
-Redox
 Red Star OS
+Redox
 Reese's Puffs
 Republic of Gamers
 RHEL
@@ -670,10 +670,10 @@ Terry Pratchett
 Testosterone undecanoate
 Texas
 Texas Instruments
-Theism
 the Koch Brother
 the late Queen Elizabeth
 The Pirate Bay
+Theism
 Theranos
 ThinkPad
 Thussy
@@ -687,9 +687,9 @@ Tim Apple
 Tinfoil Hat Linux
 Titcoin
 Tobacco
+Tom Scott
 Tomboy Editor
 Tomboys
-Tom Scott
 Tony the Tiger
 Top
 Toshiba
@@ -698,9 +698,9 @@ Toyota Hilux
 Trad
 Trans Girls
 Trans Guys
-Transhumanism
 Trans Men
 Trans Women
+Transhumanism
 Tron
 TRX
 Tumblr
@@ -761,19 +761,18 @@ Windows Vista
 Wix
 World Wide Web
 Wyoming
+X.Org
 x86
 XCode
 Xenia
 Xerox
-Xiaomi
 Xi Jinping Thought
+Xiaomi
 Xilinx
 XRP
-X.Org
 Yaesu
 Yandex
 Yaoi
-@yearof@fedi.astrid.tech
 YiffOS
 Yo Momma
 You are trying to view Flash content, but you have no Flash plugin installed.
@@ -785,4 +784,5 @@ Zcash
 Zilog
 Zoomers
 ZX Spectrum
+[object Object]
 Þussy
