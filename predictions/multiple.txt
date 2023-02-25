@@ -1,5 +1,13 @@
 a {s1} convention considered as a {s2} convention
 a {s1} convention spreading {s2}
+something like {s1} if it was actually {s2} with {s3}
+something like {s1} if it was made by {s2} developers
+something like {s1} with {s2}
+the Grand Alliance of {s1}, {s2}, and {s3}
+the Holy Trinity of {s1}, {s2}, and {s3}
+the {s1} community feuding with the {s2} community
+the {s1} community renouncing it and moving to {s2}
+the {s1} protocol supported by {s2}
 {s1} accidentally reinventing {s2}
 {s1} acquired by {s2}
 {s1} and {s2} ganging up on {s3} and {s4}
@@ -7,6 +15,8 @@ a {s1} convention spreading {s2}
 {s1} becoming an {s2} project
 {s1} becoming {s2} but better
 {s1} being adopted by {s2}
+{s1} being forked by {s2} due to {s3}
+{s1} being leaked by {s2}
 {s1} being the Romeo to {s2}'s Juliet
 {s1} betraying {s2}
 {s1} bought by {s2}
@@ -17,40 +27,52 @@ a {s1} convention spreading {s2}
 {s1} calling {s2} "woke"
 {s1} cancelling {s2}
 {s1} collaborating with {s2}
+{s1} colliding with {s2}
 {s1} considered {s2} with {s3}
 {s1} cutting ties with {s2}
 {s1} dating {s2}
 {s1} destroying {s2}
 {s1} developers hating on {s2}
 {s1} developers sleeping with {s2} developers
+{s1} developing a Fedi server in {s2}
+{s1} distributing {s2}
 {s1} eloping with {s2}
 {s1} emulated in {s2}
 {s1} fediblocking {s2}
 {s1} fighting {s2}
+{s1} finding the cause of {s2} bugs
+{s1} finding {s2}
 {s1} for {s2}
 {s1} for {s2} developers
 {s1} for {s2} users
+{s1} getting a Cease and Desist from {s2}
 {s1} having a booth at a {s2} convention
 {s1} having beef with {s2}
 {s1} in {s2}
 {s1} killing off {s2}
 {s1} mating with {s2}
+{s1} meowing at {s2}
 {s1} merging into {s2}
+{s1} merging the {s2} branch of {s3} into {s4}
+{s1} migrating to {s2}
 {s1} on {s2}
+{s1} open-sourcing {s2}
 {s1} ported to {s2}
+{s1} reimplementing {s2} in {s3}
 {s1} revolting against {s2}
 {s1} ruining {s2}
-{s1}'s creator feuding with {s2}'s creator
 {s1} sponsored by {s2}
 {s1} stealing {s2}'s mascot
 {s1} suing {s2}
 {s1} suing {s2} for being a lamer version of {s1}
 {s1} suing {s2} for copyright infringement
+{s1} taking over {s2}
 {s1} turning into {s2}
 {s1} turning into {s2} for {s3}
 {s1} users beating up {s2} users
 {s1} users biting {s2} users
 {s1} users breaking up with {s2} users
+{s1} users cuddling {s2} users
 {s1} users dating {s2} users
 {s1} users eating {s2} users
 {s1} users fighting {s2} users
@@ -58,10 +80,4 @@ a {s1} convention spreading {s2}
 {s1} users sleeping with {s2} users
 {s1} with {s2} characteristics
 {s1} writing a call-out post about {s2}
-something like {s1} if it was actually {s2} with {s3}
-something like {s1} if it was made by {s2} developers
-something like {s1} with {s2}
-the Grand Alliance of {s1}, {s2}, and {s3}
-the Holy Trinity of {s1}, {s2}, and {s3}
-the {s1} community feuding with the {s2} community
-the {s1} community renouncing it and moving to {s2}
+{s1}'s creator feuding with {s2}'s creator
