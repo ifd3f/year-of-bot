@@ -12,7 +12,7 @@
         inherit (self.packages.${prev.system}) year-of-bot;
       };
 
-      nixosModules.default = ./nixos-module.nix;
+      nixosModules.default = import ./nixos-module.nix { inherit self; };
     } // flake-utils.lib.eachDefaultSystem (system:
       let
         pkgs = nixpkgs.legacyPackages.${system};

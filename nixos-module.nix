@@ -1,3 +1,4 @@
+{ self }:
 { pkgs, lib, config, ... }:
 let
   cfg = config.services.year-of-bot;
@@ -19,6 +20,11 @@ in with lib; {
       type = types.str;
       description = "Fediverse server to post to";
       example = "https://fedi.astrid.tech";
+    };
+    package = mkOption {
+      type = types.package;
+      description = "Package to use";
+      default = self.packages.${pkgs.system}.year-of-bot;
     };
     postOnCalendar = mkOption {
       type = types.str;
@@ -50,7 +56,7 @@ in with lib; {
     systemd.services.year-of-bot = {
       description = "Technology Prediction Pleroma Bot";
       wants = [ "year-of-bot-config.service" ];
-      path = with pkgs; [ year-of-bot ];
+      path = [ cfg.package ];
       environment = {
         SERVER_URL = cfg.server;
         ACCESS_TOKEN_PATH = cfg.accessTokenFile;
