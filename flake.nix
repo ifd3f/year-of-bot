@@ -29,6 +29,15 @@
             projectDir = ./.;
             overrides = poetryOverrides;
 
+            doCheck = true;
+            checkPhase = ''
+              runHook preCheck
+
+              python -m unittest -v tests/**/*.py
+
+              runHook postCheck
+            '';
+
             meta = {
               description = "A Pleroma bot that makes technology predictions.";
               license = lib.licenses.agpl3Only;

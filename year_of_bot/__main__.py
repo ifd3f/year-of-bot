@@ -28,7 +28,7 @@ async def cli():
     default=False,
     help="Generate and print a prediction, but do not actually post.",
 )
-async def post(dry: bool):
+async def post(dry_run: bool):
     """
     Send a post. If --dry-run, is not enabled, then you should provide SERVER_URL
     and ACCESS_TOKEN environment variables.
@@ -36,7 +36,7 @@ async def post(dry: bool):
     prediction = generate_prediction()
     print(prediction)
 
-    if dry:
+    if dry_run:
         return 0
 
     server_url = os.environ["SERVER_URL"]
