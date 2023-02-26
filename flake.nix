@@ -14,7 +14,9 @@
 
       nixosModules.default = ./nixos-module.nix;
     } // flake-utils.lib.eachDefaultSystem (system:
-      let pkgs = nixpkgs.legacyPackages.${system};
+      let
+        pkgs = nixpkgs.legacyPackages.${system};
+        poetryEnv = pkgs.poetry2nix.mkPoetryEnv { projectDir = ./.; };
       in {
         packages.year-of-bot = with pkgs;
           stdenvNoCC.mkDerivation {
@@ -50,8 +52,7 @@
 
         devShells.default = with pkgs;
           mkShell {
-            buildInputs =
-              [ python3Packages.aiohttp python3Packages.yarl shellcheck ];
+            buildInputs = [ poetry poetryEnv shellcheck ];
           };
       });
 }
