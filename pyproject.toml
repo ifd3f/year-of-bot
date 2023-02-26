@@ -5,13 +5,15 @@ description = ""
 authors = ["Astrid Yu <astrid@astrid.tech>"]
 license = "AGPL-3.0"
 readme = "README.md"
-packages = [{include = "year_of_bot"}]
+packages = [{ include = "year_of_bot" }]
 
 [tool.poetry.dependencies]
 python = "^3.10"
 click = "^8.1.3"
 pleroma-py = "^0.0.2"
 
+[tool.poetry.scripts]
+year-of-bot = "year_of_bot:main"
 
 [build-system]
 requires = ["poetry-core"]

@@ -7,9 +7,11 @@ import sys
 
 from datetime import datetime
 
-import data
+import click
 
 from pleroma import Pleroma
+
+from . import data
 
 
 def generate_prediction():
@@ -21,11 +23,15 @@ def generate_prediction():
 
     prediction = p_template.format(**fmt_dict)
 
-    return f'{y} will be the year of {prediction}'
+    return f"{y} will be the year of {prediction}"
 
 
-async def main():
-    if len(sys.argv) > 1 and sys.argv[1] == 'verify':
+def main():
+    asyncio.run(async_main())
+
+
+async def async_main():
+    if len(sys.argv) > 1 and sys.argv[1] == "verify":
         verify_data()
         return
 
@@ -35,7 +41,7 @@ async def main():
     server_url = os.environ["SERVER_URL"]
     access_token = os.environ["ACCESS_TOKEN"]
     async with Pleroma(api_base_url=server_url, access_token=access_token) as pl:
-        await pl.post(prediction, visibility='unlisted')
+        await pl.post(prediction, visibility="unlisted")
 
 
 def verify_data():
@@ -47,15 +53,11 @@ def verify_data():
 
 
 def generate_fmt_dict():
-    fmt_dict = {
-        f's{i}': random.choice(data.subjects)
-        for i in range(1, 10)
-    }
-    fmt_dict['s'] = random.choice(data.subjects)
+    fmt_dict = {f"s{i}": random.choice(data.subjects) for i in range(1, 10)}
+    fmt_dict["s"] = random.choice(data.subjects)
 
     return fmt_dict
 
 
-if __name__ == '__main__':
-    asyncio.run(main())
-
+if __name__ == "__main__":
+    main()
