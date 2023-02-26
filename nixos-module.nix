@@ -64,7 +64,7 @@ in with lib; {
 
       script = ''
         export ACCESS_TOKEN="$(cat "$ACCESS_TOKEN_PATH")"
-        ${pkgs.year-of-bot}/bin/year-of-bot.py
+        year-of-bot post
       '';
 
       unitConfig = {
