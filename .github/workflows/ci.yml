@@ -15,10 +15,11 @@ jobs:
       with:
         extra_nix_config: experimental-features = nix-command flakes
 
-    - name: Verify all lines are valid
-      run: |
-        nix run .#year-of-bot -- verify
-    
     - name: Ensure data is sorted
       run: |
         ./sort-data.sh && git diff --exit-code
+
+    - name: Build derivation
+      run: |
+        nix build .#year-of-bot --print-out-paths --show-trace
+    
