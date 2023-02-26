@@ -50,7 +50,8 @@
 
         devShells.default = with pkgs;
           mkShell {
-            buildInputs = [ python3Packages.aiohttp python3Packages.yarl ];
+            buildInputs =
+              [ python3Packages.aiohttp python3Packages.yarl shellcheck ];
           };
       });
 }
