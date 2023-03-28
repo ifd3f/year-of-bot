@@ -4,23 +4,30 @@ a {s} convention causing massive STI spread
 a {s} convention considered as a furry convention
 a {s} convention considered as an anime convention
 a {s} convention considered as an LGBT convention
+a {s} convention creating a new disease
+a {s} convention creating a new pandemic
 a {s} convention creating a new virus
 a {s} convention having huge controversy
 a {s} convention recreating Fyre Festival
 an abandoned ball pit at an {s} convention
 Anarcho-{s}ism
 bailouts for {s}
+Bank of {s}
 Boomers killing {s}
 Boomers ruining {s}
+Fungible {s}
 Furries ruining {s}
 Furries ruining {s}'s mascot
 Gamers ruining {s}
 Gay people ruining {s}
 Horny people ruining {s}
 Horny people ruining {s}'s mascot
+Internet of {s}
 Millenials killing {s}
 Millenials ruining {s}
 no bailouts for {s}
+Non-Fungible {s}
+Predictive {s}
 Techbros ruining {s}
 the CEO of {s} going on a crazy coke-fueled trip to god knows where
 the CEO of {s} mysteriously disappearing
@@ -55,7 +62,9 @@ Zoomers ruining {s}
 {s} adopting an angel as its mascot
 {s} adopting an anime girl as its mascot
 {s} adopting an onion as its mascot
+{s} analytics
 {s} and Knuckles
+{s} as a Service
 {s} asking "who asked"
 {s} becoming a Cloud Native Computing Foundation project
 {s} becoming a conscious AI
@@ -78,6 +87,7 @@ Zoomers ruining {s}
 {s} becoming edible
 {s} becoming emo
 {s} becoming faster
+{s} becoming forcibly open-sourced
 {s} becoming fully adopted
 {s} becoming illegal
 {s} becoming mainstream
@@ -86,6 +96,7 @@ Zoomers ruining {s}
 {s} becoming Speaker of the House
 {s} becoming unmaintained
 {s} becoming unpopular
+{s} being 10 years away for the next 20 years
 {s} being 20 years away
 {s} being accused of fraud
 {s} being exposed as undercover cops
@@ -365,6 +376,7 @@ Zoomers ruining {s}
 {s} getting an anime about it
 {s} getting an HBO series about it
 {s} getting an Ugandan action film about it
+{s} getting an unofficial mascot
 {s} getting cancelled
 {s} getting glitterbombed by Vermin Supreme
 {s} getting got
@@ -431,6 +443,8 @@ Zoomers ruining {s}
 {s} IPOing
 {s} killing God
 {s} launching a nuclear weapon
+{s} laying off a bunch of people
+{s} laying off a bunch of people, then buying back stocks
 {s} liked by FOSS people
 {s} living rent-free in your head
 {s} losing the vote for Speaker of the House
@@ -450,9 +464,11 @@ Zoomers ruining {s}
 {s} on the Airplane
 {s} on the Airship
 {s} on the Ambassador-class Starship
+{s} on the Anti-Aircraft Gun
 {s} on the Apple Watch
 {s} on the Automobile
 {s} on the Autonomous System
+{s} on the Borg Hivemind
 {s} on the Calculator
 {s} on the Calculator Watch
 {s} on the Car
@@ -478,6 +494,7 @@ Zoomers ruining {s}
 {s} on the Garbage Truck
 {s} on the GayStation
 {s} on the Graphing Calculator
+{s} on the Gravity Gun
 {s} on the Gun
 {s} on the HAL 9000
 {s} on the High-Performance Computing Cluster
@@ -507,6 +524,7 @@ Zoomers ruining {s}
 {s} on the nil
 {s} on the Nintendo Bottom
 {s} on the Nintendo Switch
+{s} on the Noble Phantasm
 {s} on the None
 {s} on the Nothing
 {s} on the Nuclear Submarine
@@ -514,6 +532,7 @@ Zoomers ruining {s}
 {s} on the PDA
 {s} on the Personal Computer
 {s} on the Photonic Computer
+{s} on the Portal Gun
 {s} on the Positronic Computer
 {s} on the Protogen
 {s} on the Quantum Computer
@@ -526,6 +545,7 @@ Zoomers ruining {s}
 {s} on the Space Heater
 {s} on the Supersonic Missile
 {s} on the Tablet
+{s} on the TARDIS
 {s} on the Technical
 {s} on the TI-83+ Graphing Calculator
 {s} on the TI-84 Graphing Calculator
@@ -552,6 +572,13 @@ Zoomers ruining {s}
 {s} pissing on a basement
 {s} prosecuted for tax evasion
 {s} rappin' for Jesus
+{s} rejecting a mascot for being "degenerate"
+{s} rejecting a mascot for being "too boring"
+{s} rejecting a mascot for being "too cute"
+{s} rejecting a mascot for being "too furry"
+{s} rejecting a mascot for being "too good"
+{s} rejecting a mascot for being "too shitty"
+{s} rejecting a mascot for being "too ugly"
 {s} releasing a cool new product
 {s} releasing a hot new product
 {s} replacing your space heater
@@ -628,5 +655,7 @@ Zoomers ruining {s}
 {s}-Communism
 {s}-kouhai
 {s}-kun
+{s}-ness
+{s}-p
 {s}-senpai
 {s}-tan
