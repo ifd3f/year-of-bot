@@ -1,11 +1,19 @@
 .NET
+0xCAFEBABE
+0xDEADBEEF
 100 Gecs
+1000 Gecs
+10000 Gecs
 23andMe
 3M
+5G Connectivity
 9front
 @catgpt@fedi.astrid.tech
 @yearof@fedi.astrid.tech
+a11y
+Abstract Syntax Trees
 Acer
+Actionable Analytics
 ActivityPub
 Adidas
 Adjectives
@@ -14,16 +22,21 @@ Adobe Flash Player
 Adolf Hitler
 Adverbs
 Adversarial Neural Networks
+Adware
 AES Encryption
+Aggregation
+Agile
 Agnosticism
 AIX
 Akkoma
 Alcohol
 Alcoholism
+Algorithms
 Alienware
 Alpine Linux
 Altera
 Amazon Linux
+Amazon Web Services
 AMD
 AMD64
 AmigaOS
@@ -33,6 +46,7 @@ Among Us ඞ
 Ampere
 Amplitude Modulation
 Analog Devices
+Analytics
 Anarchism
 Androgyny
 Android
@@ -41,6 +55,7 @@ Angels
 Antitheism
 Anytone
 Apache
+APIs
 Apple
 Apple I
 Apple II
@@ -50,6 +65,8 @@ Arch Linux
 Arduino
 Arknights
 ARM
+Artifacts
+Artificial Intelligence
 Artix
 Asexuality
 ASUS
@@ -60,6 +77,7 @@ Atmega
 Atmel
 Atom
 Audible
+Augmented Reality
 Autoencoder Neural Networks
 AVR
 AVX
@@ -77,25 +95,33 @@ BESYS
 Betamax
 Bethesda
 Biebian
+Big Data
 Binance
+Binary
 Bisexuality
 Bitcoin
 BitConnect
 Blackberry
 Blahaj
 Blockbuster
+Blockchain
 Blu-Ray
 BlueJ
 Boeing
+BofA
+Bofa
 Bondage
 Bonds
 Boomers
+Borg (Hivemind)
 Bose
 Bottom
 Brandon Sanderson
 Brilliant
 Broadcom
+Brute Force Attack
 BSD
+BSON
 Buddhism
 Bungo Stray Dogs
 Burger King
@@ -105,6 +131,7 @@ Busybox
 Bytedance
 C
 C#
+Cafe Babe
 CalcKey
 California
 Cannabis
@@ -114,13 +141,13 @@ Catboys
 Catgirls
 Catholicism
 Catpeople
-CD (Certificate of Deposit)
-CD (Compact Disk)
+CD
 CD Projekt Red
 CentOS
 CentOwOs
 Chaos Computer Club
 Chasers
+Chatbots
 ChatGPT
 Cheerios
 Chengdu
@@ -137,17 +164,23 @@ Civ Meier
 Clang
 CLion
 ClosedBSD
+Cloud Computing
+Cloud-Native Platforms
 COBOL
 Coca-Cola
 Cocaine
 Code::Blocks
+Coding and Algorithms
 Coffee
 Cogent Communications
 Coke
+Collaboration
 Colorado
 Commodore 64
 Commodore PET
+Communism
 Communists
+Computer Vision
 Congress
 Convolutional Neural Networks
 Cookie Clicker
@@ -170,21 +203,29 @@ Crystal Meth
 Curiosity Stream
 Cypress
 Daddy kinks
+Daemon
 Damn Small Linux
 Damn Tasty Linux
 Damn Vulnerable Linux
+Dark Elves
 Dark Soul, protagonist of Dark Souls
 Dark Souls
 Dark Web
 Darwin
 DashCon
+Data Mining
 Data-Oriented Programming
+Datafication
 DBus
+Dead Beef
+Deadlock
 Death Star
 Debate Streamers
 Debian
 Debian (the Linux for Lesbians)
 Debinyan
+Debugging
+Decryption
 Definitely Not George Santos
 Deism
 Dell
@@ -192,10 +233,17 @@ Demisexuality
 Deng Xiaoping Thought
 Department of Defense
 Department of Justice
+DevOps
 Digital
+Digital Disruption
+Digital Divide
 Digital Equipment Corporation
-Digital Video Disc
+Digital Transformation
+Digitization
 Disney
+Disruption
+Distributed Cloud
+Distributed Computing
 DMR Radio
 Docker
 Docker Swarm
@@ -211,8 +259,10 @@ Doritos
 DOS
 Drag
 DrRacket
+DVD
 Eclipse
 Eclipse Platform
+Electron App
 Electronics
 Element
 Elf on the Shelf
@@ -222,6 +272,7 @@ Emacs
 Emerson
 Eminem
 Enbies
+Encryption
 Epic Games
 Epson
 Estradiol Valerate
@@ -229,8 +280,10 @@ Ethereum
 European Union
 ExpensiveBSD
 ExpressVPN
+Extended Reality
 Fairchild Semiconductor
 Fanta
+Fascism
 FaZe
 FBI
 Federal Reserve
@@ -242,21 +295,33 @@ Femboys
 Feminization
 Fenoxo
 Fentanyl
+Ferris (Re:Zero character)
+Ferris (Rust mascot)
+FFMPEG
+FFMPREG
+FFT
+Figma
+Figma Balls
 Fire OS
 Firefox OS
 Fishsonas
 FlashDevelop
 Floppy Disks
 Florida
+FLOSS
+FLOSS (dental)
 Fortran
+FOSS
 FoundKey
 Foxboys
 Foxconn
 Foxenbies
 Foxgirls
-FPGAs
+FPGA
 Fractals
 Framework Laptop
+Free and Open Source Software
+Free Software
 FreeBSD
 FreeDOS
 FreeNAS
@@ -268,8 +333,11 @@ FTX
 Fujitsu
 Full-Body Tracking
 Functional Programming
+Fungible Tokens
 Fursonas
 Gabe Newell
+Gamification
+Garbage Collection
 Gatorade
 Gay
 Gay Gay Homosexual Gay
@@ -278,11 +346,16 @@ Geany
 Gen Alpha
 Gen X-ers
 Gender
+Gender Binary
+Gender Trinary
+Gender Unary
+General Artificial Intelligence
 Genshin Impact
 Gentoo
 GentUwU
 George Shultz
 GFuel
+Gigabyte
 GIMP
 Github Copilot
 Glibc
@@ -295,6 +368,7 @@ GNU is Not Unix
 GNU is Not Unix Image Manipulation Program
 GNU/Linux
 Golang
+Google Cloud Platform
 Google Fuchsia
 Google Gnome
 Google Search
@@ -303,6 +377,7 @@ GPT-3
 GPT-4
 Grammarly
 Grapes
+Graph Theory
 GRUB 2
 GTK
 Gucci
@@ -312,6 +387,7 @@ GUN/Linux
 Gussy
 HackerNews
 Hackers on Estradiol
+Hadoop
 HAL 9000
 Halal Linux
 Hallucinogens
@@ -326,6 +402,10 @@ Henry Kissinger
 Heroin
 Hewlett-Packard
 HGST
+High (drugged) Elves
+High Elves
+High People
+High-Performance Computing
 Hinduism
 Hitachi
 Hogwarts
@@ -341,7 +421,9 @@ HTML 5
 Huawei
 Hulu
 Hurricane Electric
+Hyper-Personalization
 Hypersexuality
+i18n
 IBM
 ICE
 Icom
@@ -350,10 +432,17 @@ IKEA
 In-N-Out
 IndieWeb
 Influencers
+Infrastructure
+Infrastructure (physical)
+Infrastructure as a Service
 Instagram
+Integrated Circuits
 Intel
 IntelliJ
 Internet Explorer
+Internet of Senses
+Internet Of Things
+Internet of Things
 Interpol
 iOS
 IPv6
@@ -369,11 +458,14 @@ John Carmack
 John Mastodon
 JPEG
 JRPG
+JSON
 Judaism
 Julia
 Justin Bieber
 Justin Bieber Linux
 k3os
+k3s
+k8s
 Kali Linux
 Karl Marx
 Kellogg's
@@ -391,6 +483,7 @@ Knuckles the Echidna
 KodakCoin
 Koss
 Kotlin
+Krita
 Kubernetes
 Laboratories
 Lady Gaga
@@ -406,9 +499,13 @@ Lenovo
 LenOwO
 Lexmark
 LG
+Liberalism
 LibGen
+Libre Software
+Libreoffice
 Libvirt
 Lifestyle Vloggers
+Ligma
 LinkedIn
 Linus Torvalds
 Linux
@@ -421,10 +518,12 @@ Lovense
 LSD
 Lucasfilm
 LXC
+Machine Learning
 MacOS
 Magic: The Gathering
 Magnavox
 Maia Crimew
+Malware
 Mandelbussy
 Mao Zedong Thought
 Marantz
@@ -439,20 +538,27 @@ Mastodon
 Mastodon Network™
 Maxim Integrated
 McDonald's
+Mechas
 Memorex
 Meta
 Meta Quest
 Metasploitable
+Metaverse
 Methamphetamine
 MI6
 Microcelebrities
+Microservices
 Microsoft
+Microsoft Azure
 Microsoft Surface
 Mikhail Bakunin
+Milky Way Galaxy
 Millard Fillmore
 Millenials
 MIPS
 Misskey
+Mitski Songs
+MLOps
 Moderna
 Moeubuntu
 Mommy kinks
@@ -474,6 +580,9 @@ MSI
 MSP430
 NaN
 Nano
+Native App
+Natural Language Processing
+Net Neutrality
 NetBeans
 NetBSD
 Neural Networks
@@ -487,6 +596,7 @@ NixOwOs
 Noam Chomsky
 Nokia
 Non-binary people
+Non-Fungible Tokens
 None pizza with left beef
 NordVPN
 Northrop-Grumman
@@ -508,11 +618,13 @@ Oculus
 Onions
 Open Source Hardware
 Open Source Initiative
+Open-Source Software
 OpenBSD
 OpenID Connect
 OpenSUS ඞ
 OpenSUSE
 OpenVMS
+Oracle Cloud Infrastructure
 Oracle Linux
 Orange Catholicism
 Orange Pi
@@ -528,10 +640,12 @@ Paxlovid
 PDP-11
 Penguin Logistics
 Pepsi
+Personalization
 Peter Kropotkin
 Peter Thiel
 Pfizer
 pfSense
+Phishing
 Photoshop
 PHP
 PIC
@@ -540,17 +654,20 @@ Pizza the Hutt
 Plan 10
 Plan 9
 Plants vs Zombies
+Platform as a Service
 Pleroma
 PNG
 Podman
 Pokemon
 Police
+Policing
 Ponzi Scheme
 Poobuntu
 Popeye's
 Postgres
 Power Glove
 PowerPC
+Predictive Policing
 Primogems
 Progesterone
 Pronouns
@@ -569,6 +686,7 @@ Qubes OS
 Queer
 Radio
 Raid: Shadow Legends
+Ransomware
 Rantsonas
 Raspberry Pi
 Rats
@@ -583,17 +701,22 @@ Recurrent Neural Networks
 Red Star OS
 Redox
 Reese's Puffs
+Reference Counting
 Republic of Gamers
 RHEL
 Richard M. Stallman
 Riot Games
 RISC architectures
 RISC-V
+Robotics
 ROS
 RStudio
 Ruby
 Runit
 Rust
+Rust (chemical)
+Rust (game)
+Rust (programming language)
 Sabayon Linux
 Sam Bankman-Fried
 Samsung
@@ -604,6 +727,7 @@ Sci-Hub
 Seagate
 Sega
 Seiki
+Services
 Shadow the Hedgehog
 Shenzhen
 Shit
@@ -622,6 +746,7 @@ Skyrim Anniversary Edition
 Slackware
 SlickEdit
 Smalltalk
+Smart Industry 4.0
 Snackware
 Soapbox
 Social Media
@@ -637,6 +762,8 @@ Special K
 Spidergirls
 Spiders
 Spironolactone
+Spoofing
+SQL
 Squarespace
 SSTV
 Standard and Poor
@@ -661,9 +788,11 @@ Taco Bell
 Tails the Fox
 Taiwan Semiconductor Manufacturing Company
 Takis
+TARDIS
 Taylor Swift
 Team Fortress 2
 Techbros
+Technological Unemployment
 Technology Predictions Bot
 TempleOS
 Tencent
@@ -676,6 +805,7 @@ Texas Instruments
 the Koch Brother
 the late Queen Elizabeth
 The Pirate Bay
+The Sun
 Theism
 Theranos
 ThinkPad
@@ -693,6 +823,7 @@ Tobacco
 Tom Scott
 Tomboy Editor
 Tomboys
+TOML
 Tony the Tiger
 Top
 Toshiba
@@ -704,6 +835,7 @@ Trans Guys
 Trans Men
 Trans Women
 Transhumanism
+Trekkies
 Tron
 TRX
 Tumblr
@@ -719,17 +851,25 @@ Ultranationalism
 undefined
 Uniden
 Unix
+US Air Force
+US Army
+US Coast Guard
+US Navy
 USA
+USS Enterprise
 UwUntu
 VAIO
 Valve Index
 Valve Software
 Verbs
+VHS
 Video Essays
-Video Home System
 ViewSonic
 Vim
 Virtual Boy
+Virtual Reality
+Virus
+Virus (biological)
 Vishay
 Visual Studio
 Visual Studio Code
@@ -737,19 +877,26 @@ Vitalik Buterin
 Vivado
 Vizio
 Vladimir Lenin Thought
+VLSI
 VMS
 Vodka
+Voice Recognition
+Voice-as-User Interface
 Void Linux
 Volkswagen Beetle
 Volodymyr Zelenskyy
 VR Microphone Gag Things
 vSphere
+w33d
+Walpurgisnacht
 War Thunder
+Waterfall
 Wayland
 Wear OS
 Web 1
 Web 2
 Web 3
+Web App
 WebStorm
 Weed
 Western Digital
@@ -772,8 +919,10 @@ Xerox
 Xi Jinping Thought
 Xiaomi
 Xilinx
+XML
 XRP
 Yaesu
+YAML
 Yandex
 Yaoi
 YiffOS
@@ -784,6 +933,7 @@ Yu-Gi-Oh
 Yuri
 Z80
 Zcash
+Zero Days
 Zilog
 Zoomers
 ZX Spectrum
