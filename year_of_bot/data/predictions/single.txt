@@ -1,4 +1,5 @@
 a foam pit at an {s} convention causing injuries
+a {s} blackout
 a {s} convention causing massive COVID spread
 a {s} convention causing massive STI spread
 a {s} convention considered as a furry convention
@@ -15,11 +16,13 @@ bailouts for {s}
 Bank of {s}
 Boomers killing {s}
 Boomers ruining {s}
+fanart of {s}
 Fungible {s}
 Furries ruining {s}
 Furries ruining {s}'s mascot
 Gamers ruining {s}
 Gay people ruining {s}
+headpats for {s}
 Horny people ruining {s}
 Horny people ruining {s}'s mascot
 Internet of {s}
@@ -181,6 +184,7 @@ Zoomers ruining {s}
 {s} coming out as non-binary
 {s} coming out as plural
 {s} coming out as trans
+{s} commissioning fanart
 {s} committing a war crime
 {s} compromising on its morals
 {s} Considered Bloat
@@ -192,11 +196,14 @@ Zoomers ruining {s}
 {s} consuming the moon
 {s} consuming the sun
 {s} consuming the world
+{s} convicted on 37 federal charges
 {s} creating a black hole
 {s} creating the Philosopher's Stone
 {s} creating the Torment Nexus
+{s} creating the torment nexus
 {s} DESTROYED by the WOKE LEFT MOB
 {s} destroying the universe
+{s} dying in federal prison
 {s} ending a popular product against all common sense
 {s} evangelism
 {s} exhausting the IPv6 address space
@@ -239,6 +246,7 @@ Zoomers ruining {s}
 {s} for Devils
 {s} for Disney Lawyers
 {s} for Dogboys
+{s} for doggies like you
 {s} for Doggirls
 {s} for Dogs
 {s} for Doms
@@ -262,6 +270,7 @@ Zoomers ruining {s}
 {s} for FOSS people
 {s} for Foxboys
 {s} for Foxes
+{s} for foxes like you
 {s} for Foxgirls
 {s} for Functional Programmers
 {s} for Furries
@@ -286,6 +295,7 @@ Zoomers ruining {s}
 {s} for K-Pop Stans
 {s} for Kerbal Space Program Players
 {s} for Keter-class objects
+{s} for kitties like you
 {s} for League of Legends players
 {s} for Liberals
 {s} for Lions
@@ -296,6 +306,7 @@ Zoomers ruining {s}
 {s} for Meth Dealers
 {s} for Mice
 {s} for Mobile Task Force units
+{s} for moths like you
 {s} for Muslims
 {s} for Nerds
 {s} for Oracle Lawyers
@@ -380,6 +391,7 @@ Zoomers ruining {s}
 {s} getting cancelled
 {s} getting glitterbombed by Vermin Supreme
 {s} getting got
+{s} getting headpats
 {s} getting its mascot Rule 34'd
 {s} getting riced
 {s} getting Rule 34'd
@@ -438,6 +450,7 @@ Zoomers ruining {s}
 {s} in Vim
 {s} in VR
 {s} in Wearables
+{s} indicted on 37 federal charges
 {s} inside your head
 {s} inside your walls
 {s} IPOing
@@ -450,6 +463,8 @@ Zoomers ruining {s}
 {s} losing the vote for Speaker of the House
 {s} losing the vote for Speaker of the House for the 15th time
 {s} making a cartoon with Disney
+{s} making a movie
+{s} making their APIs extremely expensive
 {s} melting down like Chernobyl
 {s} melting down like Kanye
 {s} Music Production
@@ -458,6 +473,7 @@ Zoomers ruining {s}
 {s} on Fedi
 {s} on Mars
 {s} on Mobile
+{s} on strike
 {s} on the AC
 {s} on the Air Conditioner
 {s} on the Aircraft Carrier
@@ -598,6 +614,10 @@ Zoomers ruining {s}
 {s} rewritten in Zig
 {s} running Crysis
 {s} running DOOM
+{s} running for Congress
+{s} running for Parliament
+{s} running for President
+{s} running for Supreme Leader
 {s} seeing a resurgence
 {s} selling branded computer mice
 {s} selling branded condoms

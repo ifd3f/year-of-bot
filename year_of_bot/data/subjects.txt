@@ -8,13 +8,19 @@
 3M
 5G Connectivity
 9front
+@astrid@fedi.astrid.tech
 @catgpt@fedi.astrid.tech
 @yearof@fedi.astrid.tech
 a11y
+ABO
+Abortion
 Abstract Syntax Trees
 Acer
 Actionable Analytics
 ActivityPub
+Adam and Eve
+Adam and Steve
+ADHD
 Adidas
 Adjectives
 Adobe
@@ -31,6 +37,7 @@ AIX
 Akkoma
 Alcohol
 Alcoholism
+Alfa Romeo
 Algorithms
 Alienware
 Alpine Linux
@@ -52,8 +59,16 @@ Androgyny
 Android
 Android Studio
 Angels
+Annoying Orange
+Anorexia
+Anti-Anti-Fascism
+Anti-Fascism
+ANTIFA
+Antifa
 Antitheism
+Anxiety
 Anytone
+AOL
 Apache
 APIs
 Apple
@@ -61,6 +76,7 @@ Apple I
 Apple II
 Apple Pie
 APRS
+AR-15s
 Arch Linux
 Arduino
 Arknights
@@ -68,7 +84,9 @@ ARM
 Artifacts
 Artificial Intelligence
 Artix
+Asbestos
 Asexuality
+Astolfo
 ASUS
 aSUS ඞ
 Atari
@@ -78,18 +96,25 @@ Atmel
 Atom
 Audible
 Augmented Reality
+Autism
 Autoencoder Neural Networks
+Autumn
 AVR
 AVX
+Bad Language
 Baidu
 Banana Pi
 Baofeng
 Barack Obama
 Barbie
+Barking
+Bathroom Jokes
 BBC Micro
 BeagleBoard
 Bean Soup Drinkers
 Bedrock Linux
+Ben Shapiro
+Benjamin Sisko
 Benzos
 BESYS
 Betamax
@@ -98,6 +123,7 @@ Biebian
 Big Data
 Binance
 Binary
+Bipolar
 Bisexuality
 Bitcoin
 BitConnect
@@ -107,18 +133,25 @@ Blockbuster
 Blockchain
 Blu-Ray
 BlueJ
+BMW
 Boeing
 BofA
 Bofa
 Bondage
 Bonds
+Boobs
 Boomers
 Borg (Hivemind)
 Bose
 Bottom
+BotW Link
+Boybortion
+Boypreggers
 Brandon Sanderson
+brands.town
 Brilliant
 Broadcom
+Bruce and Bazza
 Brute Force Attack
 BSD
 BSON
@@ -128,6 +161,7 @@ Burger King
 Bussy
 Bussybox
 Busybox
+Butts
 Bytedance
 C
 C#
@@ -137,6 +171,7 @@ California
 Cannabis
 Carcinisation
 Cardano
+Cardassia
 Catboys
 Catgirls
 Catholicism
@@ -153,6 +188,8 @@ Cheerios
 Chengdu
 ChibiOS
 Chicago Mercantile Exchange
+Chihiro Fujisaki
+China
 Chinese Government
 Christianity
 Chromebook
@@ -162,6 +199,7 @@ CISC architectures
 Cisco
 Civ Meier
 Clang
+Classical Music
 CLion
 ClosedBSD
 Cloud Computing
@@ -176,6 +214,7 @@ Cogent Communications
 Coke
 Collaboration
 Colorado
+Comcast
 Commodore 64
 Commodore PET
 Communism
@@ -189,6 +228,7 @@ Coreutils
 Corsair
 Corvids
 Counter-Strike: Global Offensive
+Covid
 COVID-19
 CP/M
 Crabs
@@ -200,7 +240,9 @@ Crunchyroll
 Cryptocurrency
 Crysis
 Crystal Meth
+Cumulative Trapezoidal Integration
 Curiosity Stream
+Cyberpunk
 Cypress
 Daddy kinks
 Daemon
@@ -211,6 +253,9 @@ Dark Elves
 Dark Soul, protagonist of Dark Souls
 Dark Souls
 Dark Web
+Darth Maul
+Darth Sidious
+Darth Vader
 Darwin
 DashCon
 Data Mining
@@ -226,6 +271,7 @@ Debian (the Linux for Lesbians)
 Debinyan
 Debugging
 Decryption
+Deep Space 9
 Definitely Not George Santos
 Deism
 Dell
@@ -233,7 +279,9 @@ Demisexuality
 Deng Xiaoping Thought
 Department of Defense
 Department of Justice
+Depression
 DevOps
+Digg
 Digital
 Digital Disruption
 Digital Divide
@@ -259,7 +307,9 @@ Doritos
 DOS
 Drag
 DrRacket
+Dune
 DVD
+Earthlink
 Eclipse
 Eclipse Platform
 Electron App
@@ -273,24 +323,30 @@ Emerson
 Eminem
 Enbies
 Encryption
+Enshittification
 Epic Games
 Epson
 Estradiol Valerate
 Ethereum
+Ethernet
 European Union
 ExpensiveBSD
 ExpressVPN
 Extended Reality
+Facebook
 Fairchild Semiconductor
+Fall
 Fanta
 Fascism
 FaZe
 FBI
 Federal Reserve
+fedi.astrid.tech
 Fediverse
 Fedora
 Fedowa
 Feed-Forward Neural Networks
+Felix
 Femboys
 Feminization
 Fenoxo
@@ -300,16 +356,20 @@ Ferris (Rust mascot)
 FFMPEG
 FFMPREG
 FFT
+Fiber
+Fighter Jets
 Figma
 Figma Balls
 Fire OS
 Firefox OS
 Fishsonas
 FlashDevelop
+FloatingGhost
 Floppy Disks
 Florida
 FLOSS
 FLOSS (dental)
+Ford
 Fortran
 FOSS
 FoundKey
@@ -317,6 +377,7 @@ Foxboys
 Foxconn
 Foxenbies
 Foxgirls
+Foxpeople
 FPGA
 Fractals
 Framework Laptop
@@ -336,8 +397,10 @@ Functional Programming
 Fungible Tokens
 Fursonas
 Gabe Newell
+Gamers
 Gamification
 Garbage Collection
+Gargon
 Gatorade
 Gay
 Gay Gay Homosexual Gay
@@ -350,14 +413,19 @@ Gender Binary
 Gender Trinary
 Gender Unary
 General Artificial Intelligence
+General Motors
 Genshin Impact
 Gentoo
 GentUwU
+GeoCities
 George Shultz
+Germany
 GFuel
+Giga-autism
 Gigabyte
 GIMP
 Github Copilot
+Gleason
 Glibc
 Gloryhammer
 GNOME Chomsky
@@ -367,8 +435,10 @@ GNU Hurd
 GNU is Not Unix
 GNU is Not Unix Image Manipulation Program
 GNU/Linux
+Goku
 Golang
 Google Cloud Platform
+Google Fiber
 Google Fuchsia
 Google Gnome
 Google Search
@@ -378,12 +448,15 @@ GPT-4
 Grammarly
 Grapes
 Graph Theory
+Greek Tragedy
 GRUB 2
 GTK
 Gucci
 Guix
+Gul Dukat
 GUN + Linux
 GUN/Linux
+Guns
 Gussy
 HackerNews
 Hackers on Estradiol
@@ -392,11 +465,14 @@ HAL 9000
 Halal Linux
 Hallucinogens
 Ham Radio
+Hammy Dialogue
 Hannah Montana Linux
 Harman
 Harry Potter
 Hashicorp Nomad
 Haskell
+Hatsune Miku
+Helicopters
 Hello Kitty Slackware
 Henry Kissinger
 Heroin
@@ -410,6 +486,7 @@ Hinduism
 Hitachi
 Hogwarts
 Homosexuality
+Honda
 Honda Civic
 Honey
 Honeywell
@@ -420,8 +497,10 @@ HTC Vive
 HTML 5
 Huawei
 Hulu
+Humans
 Hurricane Electric
 Hyper-Personalization
+Hyperpop
 Hypersexuality
 i18n
 IBM
@@ -432,6 +511,7 @@ IKEA
 In-N-Out
 IndieWeb
 Influencers
+Influenza
 Infrastructure
 Infrastructure (physical)
 Infrastructure as a Service
@@ -446,15 +526,21 @@ Internet of Things
 Interpol
 iOS
 IPv6
+Ireland
 Islam
 Itanium
+Jake Paul
+Japan
 Java
+Jean-Luc Picard
+Jeep
 Jehovah's Witnesses
 JetBrains Fleet
 Jewbuntu
 JK Rowling
 Joe Biden
 John Carmack
+John Cena
 John Mastodon
 JPEG
 JRPG
@@ -466,6 +552,7 @@ Justin Bieber Linux
 k3os
 k3s
 k8s
+Kagamine Len
 Kali Linux
 Karl Marx
 Kellogg's
@@ -479,12 +566,17 @@ Kickass Torrents
 Kimball
 Kingston
 Kinks
+Kirito
+Kitsunes
+Klingon
 Knuckles the Echidna
 KodakCoin
+Korea
 Koss
 Kotlin
 Krita
 Kubernetes
+Kylo Ren
 Laboratories
 Lady Gaga
 Lambda Calculus
@@ -492,11 +584,15 @@ Large Language Models
 LaserDisc
 Lays
 LC-3
+Lead
 Leafpad
 League of Legends
+Lelouch Lamperouge
 Lennart Poettering
 Lenovo
 LenOwO
+Lewd
+Lewdness
 Lexmark
 LG
 Liberalism
@@ -505,24 +601,32 @@ Libre Software
 Libreoffice
 Libvirt
 Lifestyle Vloggers
+Light Yagami
 Ligma
+Link
 LinkedIn
 Linus Torvalds
 Linux
 Litecoin
+LiveJournal
 Liz Truss
 Liz Trussy
 LLVM
+Logan Paul
 Logitech
+Lovehoney
 Lovense
 LSD
 Lucasfilm
+Luke Skywalker
 LXC
 Machine Learning
+MACINTOSH PLUS
 MacOS
 Magic: The Gathering
 Magnavox
 Maia Crimew
+Mainframes
 Malware
 Mandelbussy
 Mao Zedong Thought
@@ -536,15 +640,21 @@ Marvell
 Masculinization
 Mastodon
 Mastodon Network™
+mastodon.social
+Matlab
 Maxim Integrated
 McDonald's
 Mechas
 Memorex
+Meowing
+Mercedes-Benz
 Meta
 Meta Quest
+Metal
 Metasploitable
 Metaverse
 Methamphetamine
+Mewing
 MI6
 Microcelebrities
 Microservices
@@ -559,6 +669,7 @@ MIPS
 Misskey
 Mitski Songs
 MLOps
+MNNH News Network
 Moderna
 Moeubuntu
 Mommy kinks
@@ -578,19 +689,24 @@ Mpreg
 MS-DOS
 MSI
 MSP430
+Murring
+MySpace
 NaN
 Nano
+Naruto Uzumaki
 Native App
 Natural Language Processing
 Net Neutrality
 NetBeans
 NetBSD
+Netherlands
 Neural Networks
 New York
 New York Stock Exchange
 NFTs
 Nginx
 nil
+Nissan
 NixOS
 NixOwOs
 Noam Chomsky
@@ -607,9 +723,12 @@ Nuclear Fission
 Nuclear Fusion
 Nuclear Pasta
 null
+Nulled LLC
 Nvidia
 nyaa.si
 Nyaarch Linyux
+Nyaing
+Nyan Cat
 OAuth 2.0
 Object-Oriented Programming
 Obsidian
@@ -631,14 +750,18 @@ Orange Pi
 Orundum
 Packet Radio
 Palm Pilot
+Palpatine
+Pansexuality
 Parasocials
 Parliament
 Password Generator
 Password Generator (bottom)
 Password Manager
+Paul Atredies
 Paxlovid
 PDP-11
 Penguin Logistics
+Penis
 Pepsi
 Personalization
 Peter Kropotkin
@@ -663,15 +786,20 @@ Police
 Policing
 Ponzi Scheme
 Poobuntu
+Pop Music
 Popeye's
 Postgres
 Power Glove
 PowerPC
 Predictive Policing
+Pregnancy
 Primogems
 Progesterone
 Pronouns
+pronouns.cc
 Proxmox
+Punk
+Purring
 Pussy
 PyCharm
 Pyle
@@ -699,19 +827,27 @@ ReactOS
 Rebecca Black OS
 Recurrent Neural Networks
 Red Star OS
+Reddit
 Redox
 Reese's Puffs
 Reference Counting
 Republic of Gamers
 RHEL
 Richard M. Stallman
+Right-wingers
+Rimuru Tempest
 Riot Games
 RISC architectures
 RISC-V
 Robotics
+Robots
+Rock
+Romulan
 ROS
+RSS
 RStudio
 Ruby
+Ruka Urushibara
 Runit
 Rust
 Rust (chemical)
@@ -721,6 +857,7 @@ Sabayon Linux
 Sam Bankman-Fried
 Samsung
 SanDisk
+Sappho of Lesbos
 Saul Goodman
 Scala
 Sci-Hub
@@ -735,6 +872,7 @@ Shit Linux
 Shopify
 Shrooms
 Sid Meier
+Sidon
 Silicon Valley
 Silicon Valley Bank
 Single Sideband
@@ -747,11 +885,14 @@ Slackware
 SlickEdit
 Smalltalk
 Smart Industry 4.0
+Smosh
 Snackware
 Soapbox
 Social Media
 Soda
+Solar power
 Solaris
+Solarpunk
 Sonic the Hedgehog
 Sony
 Soylent
@@ -761,17 +902,26 @@ SPARC
 Special K
 Spidergirls
 Spiders
+Spike Spiegel
 Spironolactone
 Spoofing
+Spring
 SQL
 Squarespace
 SSTV
 Standard and Poor
+Star Destroyer
+Star Trek
 Star Wars
+Star Wars III: Revenge of the Sith
 Steam
 Steam OS
+Steins;Gate
+Stim toys
+Stimming
 Stocks
 Suicide Linux
+Summer
 Sun Microsystems
 SunOS
 SunOwOs
@@ -786,6 +936,7 @@ Systemd
 Systems
 Taco Bell
 Tails the Fox
+Taiwan
 Taiwan Semiconductor Manufacturing Company
 Takis
 TARDIS
@@ -794,14 +945,18 @@ Team Fortress 2
 Techbros
 Technological Unemployment
 Technology Predictions Bot
+Technopaths
 TempleOS
 Tencent
+Tentacle
 Tequila
+Terok Nor
 Terraria
 Terry Pratchett
 Testosterone undecanoate
 Texas
 Texas Instruments
+ThatOneCalculator
 the Koch Brother
 the late Queen Elizabeth
 The Pirate Bay
@@ -826,20 +981,29 @@ Tomboys
 TOML
 Tony the Tiger
 Top
+Torment Nexus
 Toshiba
+Toyota
 Toyota Corolla
 Toyota Hilux
 Trad
 Trans Girls
+Trans girls named Alice
+Trans girls named Lily
+Trans girls named Luna
 Trans Guys
 Trans Men
+Trans Shapiro
 Trans Women
 Transhumanism
+Transphobes
 Trekkies
 Tron
 TRX
 Tumblr
 Turtle Beach
+Twinks
+Twitter
 uBoot
 Ubuntu
 Ubuntu Christian Edition
@@ -847,20 +1011,26 @@ Ubuntu Muslim Edition
 Ubuntu Satanic Edition
 Ubuntu Touch
 UEFI
+Ukraine
 Ultranationalism
 undefined
 Uniden
+United Kingdom
 Unix
+Urbosa
 US Air Force
 US Army
 US Coast Guard
 US Navy
 USA
+Usenet
 USS Enterprise
 UwUntu
+Vagina
 VAIO
 Valve Index
 Valve Software
+Vaporwave
 Verbs
 VHS
 Video Essays
@@ -874,6 +1044,7 @@ Vishay
 Visual Studio
 Visual Studio Code
 Vitalik Buterin
+Vitamins
 Vivado
 Vizio
 Vladimir Lenin Thought
@@ -888,6 +1059,7 @@ Volodymyr Zelenskyy
 VR Microphone Gag Things
 vSphere
 w33d
+Waffing
 Walpurgisnacht
 War Thunder
 Waterfall
@@ -899,6 +1071,7 @@ Web 3
 Web App
 WebStorm
 Weed
+West Taiwan
 Western Digital
 WeWork
 Whiskey
@@ -908,7 +1081,10 @@ Windows 10
 Windows 9
 Windows Server
 Windows Vista
+Winter
 Wix
+Wizard Game
+Woofing
 World Wide Web
 Wyoming
 X.Org
@@ -916,6 +1092,7 @@ x86
 XCode
 Xenia
 Xerox
+Xfinity
 Xi Jinping Thought
 Xiaomi
 Xilinx
@@ -925,7 +1102,9 @@ Yaesu
 YAML
 Yandex
 Yaoi
+Yapping
 YiffOS
+Yipping
 Yo Momma
 You are trying to view Flash content, but you have no Flash plugin installed.
 YouTube
@@ -933,9 +1112,11 @@ Yu-Gi-Oh
 Yuri
 Z80
 Zcash
+Zelda
 Zero Days
 Zilog
 Zoomers
 ZX Spectrum
+[insert subject here]
 [object Object]
 Þussy
